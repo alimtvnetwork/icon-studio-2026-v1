@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title">
+  <title id="title">LVEXT — Lovable Extension</title>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#FF4D8D"/>
+      <stop offset="55%" stop-color="#B83AF0"/>
+      <stop offset="100%" stop-color="#5B2EE0"/>
+    </linearGradient>
+    <linearGradient id="mark" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#FFFFFF"/>
+      <stop offset="100%" stop-color="#E8F8FF" stop-opacity="0.95"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect x="16" y="16" width="480" height="480" rx="112" fill="url(#bg)"/>
+  <circle cx="180" cy="160" r="180" fill="url(#glow)"/>
+  <!-- Stylized L bracket forming the extension puzzle hint -->
+  <path d="M132 132 H196 V312 H316 V376 H132 Z" fill="url(#mark)"/>
+  <!-- X mark composed of two crisp strokes -->
+  <path d="M252 196 L380 324 M380 196 L252 324" stroke="url(#mark)" stroke-width="44" stroke-linecap="round" fill="none"/>
+  <!-- Accent dot — the 'extension plug' -->
+  <circle cx="396" cy="132" r="30" fill="#00E5C7"/>
+  <circle cx="396" cy="132" r="12" fill="#0B7A6B"/>
+</svg>

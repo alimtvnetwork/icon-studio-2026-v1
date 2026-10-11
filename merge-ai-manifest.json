@@ -1,0 +1,5066 @@
+{
+  "attributes": {
+    "generatedAt": "2026-10-11T12:01:39Z",
+    "gitMapVersion": "6.533.0",
+    "tool": "gitmap-merge-ai",
+    "collisionStrategy": "prefixed-sequence"
+  },
+  "data": {
+    "destination": {
+      "targetType": "bare-slug",
+      "slug": "icon-studio-2026-v1",
+      "resolvedPath": "D:\\work\\icon-studio-2026-v1"
+    },
+    "repoSequence": [
+      {
+        "sequenceOrder": 1,
+        "title": "alimtvnetwork/logo-1",
+        "repoUrl": "https://github.com/alimtvnetwork/logo-1.git",
+        "branch": "main",
+        "commitRange": "c50d4b14..c23b83d1",
+        "lastCommitDate": "2026-04-30T04:05:30+08:00",
+        "description": "Added animated logo with badge",
+        "commitMetadata": {
+          "sha": "c23b83d1c7f5aa03727e04cb62e17f18f63e131c",
+          "author": "gpt-engineer-app[bot] \u003c159125892+gpt-engineer-app[bot]@users.noreply.github.com\u003e",
+          "authorEmail": "159125892+gpt-engineer-app[bot]@users.noreply.github.com",
+          "date": "2026-04-29T20:05:30Z",
+          "message": "Added animated logo with badge",
+          "branch": "main",
+          "shortSha": "c23b83d1"
+        },
+        "releaseInfo": {},
+        "folderTree": [
+          ".lovable/prompts.md",
+          ".lovable/prompts/02-logo-create.md",
+          "Projects/01-MacroMate/README.md",
+          "Projects/01-MacroMate/colors-themes/Palette.md",
+          "Projects/01-MacroMate/colors-themes/Tokens.json",
+          "Projects/01-MacroMate/favicon.ico",
+          "Projects/01-MacroMate/favicon.png",
+          "Projects/01-MacroMate/icons-image/Logo-128.png",
+          "Projects/01-MacroMate/icons-image/Logo-256.png",
+          "Projects/01-MacroMate/icons-image/Logo-512.png",
+          "Projects/01-MacroMate/icons-image/Logo-52.png",
+          "Projects/01-MacroMate/icons-image/Logo-Animated.gif",
+          "Projects/01-MacroMate/icons-image/Logo-Mockup-Dark-1024.png",
+          "Projects/01-MacroMate/icons-image/Logo-Mockup-Light-1024.png",
+          "Projects/01-MacroMate/icons-svg/Logo-Animated.svg",
+          "Projects/01-MacroMate/icons-svg/Logo-Dark.svg",
+          "Projects/01-MacroMate/icons-svg/Logo-White.svg",
+          "Projects/01-MacroMate/icons-svg/Logo.svg",
+          "README.md",
+          "bun.lockb",
+          "components.json",
+          "eslint.config.js",
+          "index.html",
+          "package-lock.json",
+          "package.json",
+          "plan.md",
+          "postcss.config.js",
+          "public/favicon.ico",
+          "public/placeholder.svg",
+          "public/robots.txt",
+          "src/App.css",
+          "src/App.tsx",
+          "src/components/NavLink.tsx",
+          "src/components/ui/accordion.tsx",
+          "src/components/ui/alert-dialog.tsx",
+          "src/components/ui/alert.tsx",
+          "src/components/ui/aspect-ratio.tsx",
+          "src/components/ui/avatar.tsx",
+          "src/components/ui/badge.tsx",
+          "src/components/ui/breadcrumb.tsx",
+          "src/components/ui/button.tsx",
+          "src/components/ui/calendar.tsx",
+          "src/components/ui/card.tsx",
+          "src/components/ui/carousel.tsx",
+          "src/components/ui/chart.tsx",
+          "src/components/ui/checkbox.tsx",
+          "src/components/ui/collapsible.tsx",
+          "src/components/ui/command.tsx",
+          "src/components/ui/context-menu.tsx",
+          "src/components/ui/dialog.tsx",
+          "src/components/ui/drawer.tsx",
+          "src/components/ui/dropdown-menu.tsx",
+          "src/components/ui/form.tsx",
+          "src/components/ui/hover-card.tsx",
+          "src/components/ui/input-otp.tsx",
+          "src/components/ui/input.tsx",
+          "src/components/ui/label.tsx",
+          "src/components/ui/menubar.tsx",
+          "src/components/ui/navigation-menu.tsx",
+          "src/components/ui/pagination.tsx",
+          "src/components/ui/popover.tsx",
+          "src/components/ui/progress.tsx",
+          "src/components/ui/radio-group.tsx",
+          "src/components/ui/resizable.tsx",
+          "src/components/ui/scroll-area.tsx",
+          "src/components/ui/select.tsx",
+          "src/components/ui/separator.tsx",
+          "src/components/ui/sheet.tsx",
+          "src/components/ui/sidebar.tsx",
+          "src/components/ui/skeleton.tsx",
+          "src/components/ui/slider.tsx",
+          "src/components/ui/sonner.tsx",
+          "src/components/ui/switch.tsx",
+          "src/components/ui/table.tsx",
+          "src/components/ui/tabs.tsx",
+          "src/components/ui/textarea.tsx",
+          "src/components/ui/toast.tsx",
+          "src/components/ui/toaster.tsx",
+          "src/components/ui/toggle-group.tsx",
+          "src/components/ui/toggle.tsx",
+          "src/components/ui/tooltip.tsx",
+          "src/components/ui/use-toast.ts",
+          "src/hooks/use-mobile.tsx",
+          "src/hooks/use-toast.ts",
+          "src/index.css",
+          "src/lib/utils.ts",
+          "src/main.tsx",
+          "src/pages/Index.tsx",
+          "src/pages/NotFound.tsx",
+          "src/test/example.test.ts",
+          "src/test/setup.ts",
+          "src/vite-env.d.ts",
+          "tailwind.config.ts",
+          "tsconfig.app.json",
+          "tsconfig.json",
+          "tsconfig.node.json",
+          "vite.config.ts",
+          "vitest.config.ts"
+        ]
+      },
+      {
+        "sequenceOrder": 2,
+        "title": "alimtvnetwork/macro-mate-scripts-fixer-logo-icon",
+        "repoUrl": "https://github.com/alimtvnetwork/macro-mate-scripts-fixer-logo-icon.git",
+        "branch": "main",
+        "commitRange": "c50d4b14..7bd95b99",
+        "lastCommitDate": "2026-10-10T08:07:51+08:00",
+        "description": "Add project README",
+        "commitMetadata": {
+          "sha": "7bd95b99ecf9b57538be071efd85b1a6c4225e23",
+          "author": "Lovable \u003c159125892+lovable-dev[bot]@users.noreply.github.com\u003e",
+          "authorEmail": "159125892+lovable-dev[bot]@users.noreply.github.com",
+          "date": "2026-10-10T00:07:51Z",
+          "message": "Add project README",
+          "branch": "main",
+          "shortSha": "7bd95b99"
+        },
+        "releaseInfo": {},
+        "folderTree": [
+          ".lovable/cicd-index.md",
+          ".lovable/cicd-issues/.gitkeep",
+          ".lovable/coding-guidelines.md",
+          ".lovable/memory/decisions/01-logo-spec-location.md",
+          ".lovable/memory/index.md",
+          ".lovable/memory/specs/01-logo-creation-spec.md",
+          ".lovable/memory/workflow/01-logo-workflow.md",
+          ".lovable/overview.md",
+          ".lovable/pending-issues/.gitkeep",
+          ".lovable/plan.md",
+          ".lovable/prompt.md",
+          ".lovable/prompts.md",
+          ".lovable/prompts/01-write-memory.md",
+          ".lovable/prompts/02-logo-create.md",
+          ".lovable/prompts/index.md",
+          ".lovable/solved-issues/.gitkeep",
+          ".lovable/strictly-avoid.md",
+          ".lovable/suggestions.md",
+          ".lovable/suggestions/index.md",
+          ".lovable/user-preferences.md",
+          "Projects/01-MacroMate/README.md",
+          "Projects/01-MacroMate/colors-themes/Palette.md",
+          "Projects/01-MacroMate/colors-themes/Tokens.json",
+          "Projects/01-MacroMate/favicon.ico",
+          "Projects/01-MacroMate/favicon.png",
+          "Projects/01-MacroMate/icons-image/Logo-052.png",
+          "Projects/01-MacroMate/icons-image/Logo-1024-Dark.png",
+          "Projects/01-MacroMate/icons-image/Logo-1024-Light.png",
+          "Projects/01-MacroMate/icons-image/Logo-128.png",
+          "Projects/01-MacroMate/icons-image/Logo-256.png",
+          "Projects/01-MacroMate/icons-image/Logo-512.png",
+          "Projects/01-MacroMate/icons-image/Logo-Animated.gif",
+          "Projects/01-MacroMate/icons-svg/Logo-Animated.svg",
+          "Projects/01-MacroMate/icons-svg/Logo-Dark.svg",
+          "Projects/01-MacroMate/icons-svg/Logo-White.svg",
+          "Projects/01-MacroMate/icons-svg/Logo.svg",
+          "Projects/02-ScriptsFixer/README.md",
+          "Projects/02-ScriptsFixer/colors-themes/Palette.md",
+          "Projects/02-ScriptsFixer/colors-themes/Tokens.json",
+          "Projects/02-ScriptsFixer/icons-image/Logo-052.png",
+          "Projects/02-ScriptsFixer/icons-image/Logo-1024-Dark.png",
+          "Projects/02-ScriptsFixer/icons-image/Logo-1024-Light.png",
+          "Projects/02-ScriptsFixer/icons-image/Logo-128.png",
+          "Projects/02-ScriptsFixer/icons-image/Logo-256.png",
+          "Projects/02-ScriptsFixer/icons-image/Logo-512.png",
+          "Projects/02-ScriptsFixer/icons-image/Logo-Animated.gif",
+          "Projects/02-ScriptsFixer/icons-svg/Logo-Animated.svg",
+          "Projects/02-ScriptsFixer/icons-svg/Logo-Dark.svg",
+          "Projects/02-ScriptsFixer/icons-svg/Logo-White.svg",
+          "Projects/02-ScriptsFixer/icons-svg/Logo.svg",
+          "README.md",
+          "bun.lockb",
+          "components.json",
+          "eslint.config.js",
+          "favicon.ico",
+          "favicon.png",
+          "gif-animation.gif",
+          "index.html",
+          "package-lock.json",
+          "package.json",
+          "plan.md",
+          "postcss.config.js",
+          "public/favicon.ico",
+          "public/placeholder.svg",
+          "public/robots.txt",
+          "src/App.css",
+          "src/App.tsx",
+          "src/components/NavLink.tsx",
+          "src/components/ui/accordion.tsx",
+          "src/components/ui/alert-dialog.tsx",
+          "src/components/ui/alert.tsx",
+          "src/components/ui/aspect-ratio.tsx",
+          "src/components/ui/avatar.tsx",
+          "src/components/ui/badge.tsx",
+          "src/components/ui/breadcrumb.tsx",
+          "src/components/ui/button.tsx",
+          "src/components/ui/calendar.tsx",
+          "src/components/ui/card.tsx",
+          "src/components/ui/carousel.tsx",
+          "src/components/ui/chart.tsx",
+          "src/components/ui/checkbox.tsx",
+          "src/components/ui/collapsible.tsx",
+          "src/components/ui/command.tsx",
+          "src/components/ui/context-menu.tsx",
+          "src/components/ui/dialog.tsx",
+          "src/components/ui/drawer.tsx",
+          "src/components/ui/dropdown-menu.tsx",
+          "src/components/ui/form.tsx",
+          "src/components/ui/hover-card.tsx",
+          "src/components/ui/input-otp.tsx",
+          "src/components/ui/input.tsx",
+          "src/components/ui/label.tsx",
+          "src/components/ui/menubar.tsx",
+          "src/components/ui/navigation-menu.tsx",
+          "src/components/ui/pagination.tsx",
+          "src/components/ui/popover.tsx",
+          "src/components/ui/progress.tsx",
+          "src/components/ui/radio-group.tsx",
+          "src/components/ui/resizable.tsx",
+          "src/components/ui/scroll-area.tsx",
+          "src/components/ui/select.tsx",
+          "src/components/ui/separator.tsx",
+          "src/components/ui/sheet.tsx",
+          "src/components/ui/sidebar.tsx",
+          "src/components/ui/skeleton.tsx",
+          "src/components/ui/slider.tsx",
+          "src/components/ui/sonner.tsx",
+          "src/components/ui/switch.tsx",
+          "src/components/ui/table.tsx",
+          "src/components/ui/tabs.tsx",
+          "src/components/ui/textarea.tsx",
+          "src/components/ui/toast.tsx",
+          "src/components/ui/toaster.tsx",
+          "src/components/ui/toggle-group.tsx",
+          "src/components/ui/toggle.tsx",
+          "src/components/ui/tooltip.tsx",
+          "src/components/ui/use-toast.ts",
+          "src/hooks/use-mobile.tsx",
+          "src/hooks/use-toast.ts",
+          "src/index.css",
+          "src/lib/utils.ts",
+          "src/main.tsx",
+          "src/pages/Index.tsx",
+          "src/pages/NotFound.tsx",
+          "src/test/example.test.ts",
+          "src/test/setup.ts",
+          "src/vite-env.d.ts",
+          "tailwind.config.ts",
+          "tsconfig.app.json",
+          "tsconfig.json",
+          "tsconfig.node.json",
+          "vite.config.ts",
+          "vitest.config.ts"
+        ]
+      },
+      {
+        "sequenceOrder": 3,
+        "title": "alimtvnetwork/iconcraft-studio",
+        "repoUrl": "https://github.com/alimtvnetwork/iconcraft-studio.git",
+        "branch": "main",
+        "commitRange": "c50d4b14..bcaf1ffb",
+        "lastCommitDate": "2026-10-10T08:08:51+08:00",
+        "description": "Add project README",
+        "commitMetadata": {
+          "sha": "bcaf1ffbc11fc29592bd18472123630547db7ec3",
+          "author": "Lovable \u003c159125892+lovable-dev[bot]@users.noreply.github.com\u003e",
+          "authorEmail": "159125892+lovable-dev[bot]@users.noreply.github.com",
+          "date": "2026-10-10T00:08:51Z",
+          "message": "Add project README",
+          "branch": "main",
+          "shortSha": "bcaf1ffb"
+        },
+        "releaseInfo": {},
+        "folderTree": [
+          ".lovable/prompts.md",
+          ".lovable/prompts/02-logo-create.md",
+          "README.md",
+          "bun.lockb",
+          "components.json",
+          "eslint.config.js",
+          "index.html",
+          "package-lock.json",
+          "package.json",
+          "plan.md",
+          "postcss.config.js",
+          "public/favicon.ico",
+          "public/placeholder.svg",
+          "public/robots.txt",
+          "src/App.css",
+          "src/App.tsx",
+          "src/components/NavLink.tsx",
+          "src/components/ui/accordion.tsx",
+          "src/components/ui/alert-dialog.tsx",
+          "src/components/ui/alert.tsx",
+          "src/components/ui/aspect-ratio.tsx",
+          "src/components/ui/avatar.tsx",
+          "src/components/ui/badge.tsx",
+          "src/components/ui/breadcrumb.tsx",
+          "src/components/ui/button.tsx",
+          "src/components/ui/calendar.tsx",
+          "src/components/ui/card.tsx",
+          "src/components/ui/carousel.tsx",
+          "src/components/ui/chart.tsx",
+          "src/components/ui/checkbox.tsx",
+          "src/components/ui/collapsible.tsx",
+          "src/components/ui/command.tsx",
+          "src/components/ui/context-menu.tsx",
+          "src/components/ui/dialog.tsx",
+          "src/components/ui/drawer.tsx",
+          "src/components/ui/dropdown-menu.tsx",
+          "src/components/ui/form.tsx",
+          "src/components/ui/hover-card.tsx",
+          "src/components/ui/input-otp.tsx",
+          "src/components/ui/input.tsx",
+          "src/components/ui/label.tsx",
+          "src/components/ui/menubar.tsx",
+          "src/components/ui/navigation-menu.tsx",
+          "src/components/ui/pagination.tsx",
+          "src/components/ui/popover.tsx",
+          "src/components/ui/progress.tsx",
+          "src/components/ui/radio-group.tsx",
+          "src/components/ui/resizable.tsx",
+          "src/components/ui/scroll-area.tsx",
+          "src/components/ui/select.tsx",
+          "src/components/ui/separator.tsx",
+          "src/components/ui/sheet.tsx",
+          "src/components/ui/sidebar.tsx",
+          "src/components/ui/skeleton.tsx",
+          "src/components/ui/slider.tsx",
+          "src/components/ui/sonner.tsx",
+          "src/components/ui/switch.tsx",
+          "src/components/ui/table.tsx",
+          "src/components/ui/tabs.tsx",
+          "src/components/ui/textarea.tsx",
+          "src/components/ui/toast.tsx",
+          "src/components/ui/toaster.tsx",
+          "src/components/ui/toggle-group.tsx",
+          "src/components/ui/toggle.tsx",
+          "src/components/ui/tooltip.tsx",
+          "src/components/ui/use-toast.ts",
+          "src/hooks/use-mobile.tsx",
+          "src/hooks/use-toast.ts",
+          "src/index.css",
+          "src/lib/utils.ts",
+          "src/main.tsx",
+          "src/pages/Index.tsx",
+          "src/pages/NotFound.tsx",
+          "src/test/example.test.ts",
+          "src/test/setup.ts",
+          "src/vite-env.d.ts",
+          "tailwind.config.ts",
+          "tsconfig.app.json",
+          "tsconfig.json",
+          "tsconfig.node.json",
+          "vite.config.ts",
+          "vitest.config.ts"
+        ]
+      },
+      {
+        "sequenceOrder": 4,
+        "title": "alimtvnetwork/brand-builder-studio",
+        "repoUrl": "https://github.com/alimtvnetwork/brand-builder-studio.git",
+        "branch": "main",
+        "commitRange": "c50d4b14..54945eb6",
+        "lastCommitDate": "2026-10-10T08:09:24+08:00",
+        "description": "Add project README",
+        "commitMetadata": {
+          "sha": "54945eb6cf9ba96f2884e304597b68bb427299fc",
+          "author": "Lovable \u003c159125892+lovable-dev[bot]@users.noreply.github.com\u003e",
+          "authorEmail": "159125892+lovable-dev[bot]@users.noreply.github.com",
+          "date": "2026-10-10T00:09:24Z",
+          "message": "Add project README",
+          "branch": "main",
+          "shortSha": "54945eb6"
+        },
+        "releaseInfo": {},
+        "folderTree": [
+          ".lovable/prompts.md",
+          ".lovable/prompts/02-logo-create.md",
+          "README.md",
+          "bun.lockb",
+          "components.json",
+          "eslint.config.js",
+          "index.html",
+          "package-lock.json",
+          "package.json",
+          "plan.md",
+          "postcss.config.js",
+          "public/favicon.ico",
+          "public/placeholder.svg",
+          "public/robots.txt",
+          "src/App.css",
+          "src/App.tsx",
+          "src/components/NavLink.tsx",
+          "src/components/ui/accordion.tsx",
+          "src/components/ui/alert-dialog.tsx",
+          "src/components/ui/alert.tsx",
+          "src/components/ui/aspect-ratio.tsx",
+          "src/components/ui/avatar.tsx",
+          "src/components/ui/badge.tsx",
+          "src/components/ui/breadcrumb.tsx",
+          "src/components/ui/button.tsx",
+          "src/components/ui/calendar.tsx",
+          "src/components/ui/card.tsx",
+          "src/components/ui/carousel.tsx",
+          "src/components/ui/chart.tsx",
+          "src/components/ui/checkbox.tsx",
+          "src/components/ui/collapsible.tsx",
+          "src/components/ui/command.tsx",
+          "src/components/ui/context-menu.tsx",
+          "src/components/ui/dialog.tsx",
+          "src/components/ui/drawer.tsx",
+          "src/components/ui/dropdown-menu.tsx",
+          "src/components/ui/form.tsx",
+          "src/components/ui/hover-card.tsx",
+          "src/components/ui/input-otp.tsx",
+          "src/components/ui/input.tsx",
+          "src/components/ui/label.tsx",
+          "src/components/ui/menubar.tsx",
+          "src/components/ui/navigation-menu.tsx",
+          "src/components/ui/pagination.tsx",
+          "src/components/ui/popover.tsx",
+          "src/components/ui/progress.tsx",
+          "src/components/ui/radio-group.tsx",
+          "src/components/ui/resizable.tsx",
+          "src/components/ui/scroll-area.tsx",
+          "src/components/ui/select.tsx",
+          "src/components/ui/separator.tsx",
+          "src/components/ui/sheet.tsx",
+          "src/components/ui/sidebar.tsx",
+          "src/components/ui/skeleton.tsx",
+          "src/components/ui/slider.tsx",
+          "src/components/ui/sonner.tsx",
+          "src/components/ui/switch.tsx",
+          "src/components/ui/table.tsx",
+          "src/components/ui/tabs.tsx",
+          "src/components/ui/textarea.tsx",
+          "src/components/ui/toast.tsx",
+          "src/components/ui/toaster.tsx",
+          "src/components/ui/toggle-group.tsx",
+          "src/components/ui/toggle.tsx",
+          "src/components/ui/tooltip.tsx",
+          "src/components/ui/use-toast.ts",
+          "src/hooks/use-mobile.tsx",
+          "src/hooks/use-toast.ts",
+          "src/index.css",
+          "src/lib/utils.ts",
+          "src/main.tsx",
+          "src/pages/Index.tsx",
+          "src/pages/NotFound.tsx",
+          "src/test/example.test.ts",
+          "src/test/setup.ts",
+          "src/vite-env.d.ts",
+          "tailwind.config.ts",
+          "tsconfig.app.json",
+          "tsconfig.json",
+          "tsconfig.node.json",
+          "vite.config.ts",
+          "vitest.config.ts"
+        ]
+      },
+      {
+        "sequenceOrder": 5,
+        "title": "alimtvnetwork/brand-weaver",
+        "repoUrl": "https://github.com/alimtvnetwork/brand-weaver.git",
+        "branch": "main",
+        "commitRange": "c50d4b14..0b3ef66b",
+        "lastCommitDate": "2026-10-10T08:09:57+08:00",
+        "description": "Add project README",
+        "commitMetadata": {
+          "sha": "0b3ef66b74a57d64af4e70b5328dfb8206d42b93",
+          "author": "Lovable \u003c159125892+lovable-dev[bot]@users.noreply.github.com\u003e",
+          "authorEmail": "159125892+lovable-dev[bot]@users.noreply.github.com",
+          "date": "2026-10-10T00:09:57Z",
+          "message": "Add project README",
+          "branch": "main",
+          "shortSha": "0b3ef66b"
+        },
+        "releaseInfo": {},
+        "folderTree": [
+          ".lovable/prompts.md",
+          ".lovable/prompts/02-logo-create.md",
+          "README.md",
+          "bun.lockb",
+          "components.json",
+          "eslint.config.js",
+          "index.html",
+          "package-lock.json",
+          "package.json",
+          "plan.md",
+          "postcss.config.js",
+          "public/favicon.ico",
+          "public/placeholder.svg",
+          "public/robots.txt",
+          "src/App.css",
+          "src/App.tsx",
+          "src/components/NavLink.tsx",
+          "src/components/ui/accordion.tsx",
+          "src/components/ui/alert-dialog.tsx",
+          "src/components/ui/alert.tsx",
+          "src/components/ui/aspect-ratio.tsx",
+          "src/components/ui/avatar.tsx",
+          "src/components/ui/badge.tsx",
+          "src/components/ui/breadcrumb.tsx",
+          "src/components/ui/button.tsx",
+          "src/components/ui/calendar.tsx",
+          "src/components/ui/card.tsx",
+          "src/components/ui/carousel.tsx",
+          "src/components/ui/chart.tsx",
+          "src/components/ui/checkbox.tsx",
+          "src/components/ui/collapsible.tsx",
+          "src/components/ui/command.tsx",
+          "src/components/ui/context-menu.tsx",
+          "src/components/ui/dialog.tsx",
+          "src/components/ui/drawer.tsx",
+          "src/components/ui/dropdown-menu.tsx",
+          "src/components/ui/form.tsx",
+          "src/components/ui/hover-card.tsx",
+          "src/components/ui/input-otp.tsx",
+          "src/components/ui/input.tsx",
+          "src/components/ui/label.tsx",
+          "src/components/ui/menubar.tsx",
+          "src/components/ui/navigation-menu.tsx",
+          "src/components/ui/pagination.tsx",
+          "src/components/ui/popover.tsx",
+          "src/components/ui/progress.tsx",
+          "src/components/ui/radio-group.tsx",
+          "src/components/ui/resizable.tsx",
+          "src/components/ui/scroll-area.tsx",
+          "src/components/ui/select.tsx",
+          "src/components/ui/separator.tsx",
+          "src/components/ui/sheet.tsx",
+          "src/components/ui/sidebar.tsx",
+          "src/components/ui/skeleton.tsx",
+          "src/components/ui/slider.tsx",
+          "src/components/ui/sonner.tsx",
+          "src/components/ui/switch.tsx",
+          "src/components/ui/table.tsx",
+          "src/components/ui/tabs.tsx",
+          "src/components/ui/textarea.tsx",
+          "src/components/ui/toast.tsx",
+          "src/components/ui/toaster.tsx",
+          "src/components/ui/toggle-group.tsx",
+          "src/components/ui/toggle.tsx",
+          "src/components/ui/tooltip.tsx",
+          "src/components/ui/use-toast.ts",
+          "src/hooks/use-mobile.tsx",
+          "src/hooks/use-toast.ts",
+          "src/index.css",
+          "src/lib/utils.ts",
+          "src/main.tsx",
+          "src/pages/Index.tsx",
+          "src/pages/NotFound.tsx",
+          "src/test/example.test.ts",
+          "src/test/setup.ts",
+          "src/vite-env.d.ts",
+          "tailwind.config.ts",
+          "tsconfig.app.json",
+          "tsconfig.json",
+          "tsconfig.node.json",
+          "vite.config.ts",
+          "vitest.config.ts"
+        ]
+      },
+      {
+        "sequenceOrder": 6,
+        "title": "alimtvnetwork/macro-mate-logo-icon-27f183d0",
+        "repoUrl": "https://github.com/alimtvnetwork/macro-mate-logo-icon-27f183d0.git",
+        "branch": "main",
+        "commitRange": "c50d4b14..124b4231",
+        "lastCommitDate": "2026-10-10T08:10:27+08:00",
+        "description": "Add project README",
+        "commitMetadata": {
+          "sha": "124b42316b4ca66edfbc8de260dc18e37997caf8",
+          "author": "Lovable \u003c159125892+lovable-dev[bot]@users.noreply.github.com\u003e",
+          "authorEmail": "159125892+lovable-dev[bot]@users.noreply.github.com",
+          "date": "2026-10-10T00:10:27Z",
+          "message": "Add project README",
+          "branch": "main",
+          "shortSha": "124b4231"
+        },
+        "releaseInfo": {},
+        "folderTree": [
+          ".lovable/prompts.md",
+          ".lovable/prompts/02-logo-create.md",
+          "Projects/01-MeetRecorder/README.md",
+          "Projects/01-MeetRecorder/colors-themes/Palette.md",
+          "Projects/01-MeetRecorder/colors-themes/Tokens.json",
+          "Projects/01-MeetRecorder/favicon.ico",
+          "Projects/01-MeetRecorder/favicon.png",
+          "Projects/01-MeetRecorder/icons-image/Logo-052.png",
+          "Projects/01-MeetRecorder/icons-image/Logo-1024-Dark.png",
+          "Projects/01-MeetRecorder/icons-image/Logo-1024-Light.png",
+          "Projects/01-MeetRecorder/icons-image/Logo-128.png",
+          "Projects/01-MeetRecorder/icons-image/Logo-256.png",
+          "Projects/01-MeetRecorder/icons-image/Logo-512.png",
+          "Projects/01-MeetRecorder/icons-svg/Logo-Dark.svg",
+          "Projects/01-MeetRecorder/icons-svg/Logo-White.svg",
+          "Projects/01-MeetRecorder/icons-svg/Logo.svg",
+          "Projects/02-LvExt/README.md",
+          "Projects/02-LvExt/colors-themes/Palette.md",
+          "Projects/02-LvExt/colors-themes/Tokens.json",
+          "Projects/02-LvExt/gif-animation.gif",
+          "Projects/02-LvExt/icons-image/Logo-052.png",
+          "Projects/02-LvExt/icons-image/Logo-1024-Dark.png",
+          "Projects/02-LvExt/icons-image/Logo-1024-Light.png",
+          "Projects/02-LvExt/icons-image/Logo-128.png",
+          "Projects/02-LvExt/icons-image/Logo-256.png",
+          "Projects/02-LvExt/icons-image/Logo-512.png",
+          "Projects/02-LvExt/icons-svg/Logo-Dark.svg",
+          "Projects/02-LvExt/icons-svg/Logo-White.svg",
+          "Projects/02-LvExt/icons-svg/Logo.svg",
+          "Projects/03-LvExt/README.md",
+          "Projects/03-LvExt/colors-themes/Palette.md",
+          "Projects/03-LvExt/colors-themes/Tokens.json",
+          "Projects/03-LvExt/icons-image/Logo-052.png",
+          "Projects/03-LvExt/icons-image/Logo-1024-Dark.png",
+          "Projects/03-LvExt/icons-image/Logo-1024-Light.png",
+          "Projects/03-LvExt/icons-image/Logo-128.png",
+          "Projects/03-LvExt/icons-image/Logo-256.png",
+          "Projects/03-LvExt/icons-image/Logo-512.png",
+          "Projects/03-LvExt/icons-svg/Logo-Dark.svg",
+          "Projects/03-LvExt/icons-svg/Logo-White.svg",
+          "Projects/03-LvExt/icons-svg/Logo.svg",
+          "README.md",
+          "bun.lockb",
+          "components.json",
+          "eslint.config.js",
+          "favicon.ico",
+          "favicon.png",
+          "index.html",
+          "package-lock.json",
+          "package.json",
+          "plan.md",
+          "postcss.config.js",
+          "public/favicon.ico",
+          "public/favicon.png",
+          "public/placeholder.svg",
+          "public/robots.txt",
+          "src/App.css",
+          "src/App.tsx",
+          "src/components/NavLink.tsx",
+          "src/components/ui/accordion.tsx",
+          "src/components/ui/alert-dialog.tsx",
+          "src/components/ui/alert.tsx",
+          "src/components/ui/aspect-ratio.tsx",
+          "src/components/ui/avatar.tsx",
+          "src/components/ui/badge.tsx",
+          "src/components/ui/breadcrumb.tsx",
+          "src/components/ui/button.tsx",
+          "src/components/ui/calendar.tsx",
+          "src/components/ui/card.tsx",
+          "src/components/ui/carousel.tsx",
+          "src/components/ui/chart.tsx",
+          "src/components/ui/checkbox.tsx",
+          "src/components/ui/collapsible.tsx",
+          "src/components/ui/command.tsx",
+          "src/components/ui/context-menu.tsx",
+          "src/components/ui/dialog.tsx",
+          "src/components/ui/drawer.tsx",
+          "src/components/ui/dropdown-menu.tsx",
+          "src/components/ui/form.tsx",
+          "src/components/ui/hover-card.tsx",
+          "src/components/ui/input-otp.tsx",
+          "src/components/ui/input.tsx",
+          "src/components/ui/label.tsx",
+          "src/components/ui/menubar.tsx",
+          "src/components/ui/navigation-menu.tsx",
+          "src/components/ui/pagination.tsx",
+          "src/components/ui/popover.tsx",
+          "src/components/ui/progress.tsx",
+          "src/components/ui/radio-group.tsx",
+          "src/components/ui/resizable.tsx",
+          "src/components/ui/scroll-area.tsx",
+          "src/components/ui/select.tsx",
+          "src/components/ui/separator.tsx",
+          "src/components/ui/sheet.tsx",
+          "src/components/ui/sidebar.tsx",
+          "src/components/ui/skeleton.tsx",
+          "src/components/ui/slider.tsx",
+          "src/components/ui/sonner.tsx",
+          "src/components/ui/switch.tsx",
+          "src/components/ui/table.tsx",
+          "src/components/ui/tabs.tsx",
+          "src/components/ui/textarea.tsx",
+          "src/components/ui/toast.tsx",
+          "src/components/ui/toaster.tsx",
+          "src/components/ui/toggle-group.tsx",
+          "src/components/ui/toggle.tsx",
+          "src/components/ui/tooltip.tsx",
+          "src/components/ui/use-toast.ts",
+          "src/hooks/use-mobile.tsx",
+          "src/hooks/use-toast.ts",
+          "src/index.css",
+          "src/lib/utils.ts",
+          "src/main.tsx",
+          "src/pages/Index.tsx",
+          "src/pages/NotFound.tsx",
+          "src/test/example.test.ts",
+          "src/test/setup.ts",
+          "src/vite-env.d.ts",
+          "tailwind.config.ts",
+          "tsconfig.app.json",
+          "tsconfig.json",
+          "tsconfig.node.json",
+          "vite.config.ts",
+          "vitest.config.ts"
+        ]
+      },
+      {
+        "sequenceOrder": 7,
+        "title": "alimtvnetwork/brand-forge-studio",
+        "repoUrl": "https://github.com/alimtvnetwork/brand-forge-studio.git",
+        "branch": "main",
+        "commitRange": "c50d4b14..f6b80b17",
+        "lastCommitDate": "2026-10-10T08:11:51+08:00",
+        "description": "Add project README",
+        "commitMetadata": {
+          "sha": "f6b80b1764e91c63112286575603e1a2d9dcd918",
+          "author": "Lovable \u003c159125892+lovable-dev[bot]@users.noreply.github.com\u003e",
+          "authorEmail": "159125892+lovable-dev[bot]@users.noreply.github.com",
+          "date": "2026-10-10T00:11:51Z",
+          "message": "Add project README",
+          "branch": "main",
+          "shortSha": "f6b80b17"
+        },
+        "releaseInfo": {},
+        "folderTree": [
+          ".lovable/prompts.md",
+          ".lovable/prompts/02-logo-create.md",
+          "README.md",
+          "bun.lockb",
+          "components.json",
+          "eslint.config.js",
+          "index.html",
+          "package-lock.json",
+          "package.json",
+          "plan.md",
+          "postcss.config.js",
+          "public/favicon.ico",
+          "public/placeholder.svg",
+          "public/robots.txt",
+          "src/App.css",
+          "src/App.tsx",
+          "src/components/NavLink.tsx",
+          "src/components/ui/accordion.tsx",
+          "src/components/ui/alert-dialog.tsx",
+          "src/components/ui/alert.tsx",
+          "src/components/ui/aspect-ratio.tsx",
+          "src/components/ui/avatar.tsx",
+          "src/components/ui/badge.tsx",
+          "src/components/ui/breadcrumb.tsx",
+          "src/components/ui/button.tsx",
+          "src/components/ui/calendar.tsx",
+          "src/components/ui/card.tsx",
+          "src/components/ui/carousel.tsx",
+          "src/components/ui/chart.tsx",
+          "src/components/ui/checkbox.tsx",
+          "src/components/ui/collapsible.tsx",
+          "src/components/ui/command.tsx",
+          "src/components/ui/context-menu.tsx",
+          "src/components/ui/dialog.tsx",
+          "src/components/ui/drawer.tsx",
+          "src/components/ui/dropdown-menu.tsx",
+          "src/components/ui/form.tsx",
+          "src/components/ui/hover-card.tsx",
+          "src/components/ui/input-otp.tsx",
+          "src/components/ui/input.tsx",
+          "src/components/ui/label.tsx",
+          "src/components/ui/menubar.tsx",
+          "src/components/ui/navigation-menu.tsx",
+          "src/components/ui/pagination.tsx",
+          "src/components/ui/popover.tsx",
+          "src/components/ui/progress.tsx",
+          "src/components/ui/radio-group.tsx",
+          "src/components/ui/resizable.tsx",
+          "src/components/ui/scroll-area.tsx",
+          "src/components/ui/select.tsx",
+          "src/components/ui/separator.tsx",
+          "src/components/ui/sheet.tsx",
+          "src/components/ui/sidebar.tsx",
+          "src/components/ui/skeleton.tsx",
+          "src/components/ui/slider.tsx",
+          "src/components/ui/sonner.tsx",
+          "src/components/ui/switch.tsx",
+          "src/components/ui/table.tsx",
+          "src/components/ui/tabs.tsx",
+          "src/components/ui/textarea.tsx",
+          "src/components/ui/toast.tsx",
+          "src/components/ui/toaster.tsx",
+          "src/components/ui/toggle-group.tsx",
+          "src/components/ui/toggle.tsx",
+          "src/components/ui/tooltip.tsx",
+          "src/components/ui/use-toast.ts",
+          "src/hooks/use-mobile.tsx",
+          "src/hooks/use-toast.ts",
+          "src/index.css",
+          "src/lib/utils.ts",
+          "src/main.tsx",
+          "src/pages/Index.tsx",
+          "src/pages/NotFound.tsx",
+          "src/test/example.test.ts",
+          "src/test/setup.ts",
+          "src/vite-env.d.ts",
+          "tailwind.config.ts",
+          "tsconfig.app.json",
+          "tsconfig.json",
+          "tsconfig.node.json",
+          "vite.config.ts",
+          "vitest.config.ts"
+        ]
+      }
+    ],
+    "skippedSources": [
+      {
+        "RawInput": "https://github.com/alimtvnetwork/logo-1/blob/main/Projects/01-MacroMate/icons-image/Logo-Animated.gif",
+        "Title": "logo-1/Projects/01-MacroMate/icons-image/Logo-Animated.gif at main · alimtvnetwork/logo-1",
+        "Repo": "alimtvnetwork/logo-1",
+        "Reason": "file URL from repository 'alimtvnetwork/logo-1' which is already included",
+        "IsFile": true,
+        "FilePath": "Projects/01-MacroMate/icons-image/Logo-Animated.gif"
+      }
+    ],
+    "fileCollisions": [
+      {
+        "canonicalPath": ".lovable/prompts.md",
+        "variants": [
+          {
+            "sequence": "01",
+            "file": ".lovable/01_prompts.md",
+            "sourceRepo": "logo-1",
+            "commit": "c23b83d1"
+          },
+          {
+            "sequence": "02",
+            "file": ".lovable/02_prompts.md",
+            "sourceRepo": "macro-mate-scripts-fixer-logo-icon",
+            "commit": "7bd95b99"
+          },
+          {
+            "sequence": "03",
+            "file": ".lovable/03_prompts.md",
+            "sourceRepo": "iconcraft-studio",
+            "commit": "bcaf1ffb"
+          },
+          {
+            "sequence": "04",
+            "file": ".lovable/04_prompts.md",
+            "sourceRepo": "brand-builder-studio",
+            "commit": "54945eb6"
+          },
+          {
+            "sequence": "05",
+            "file": ".lovable/05_prompts.md",
+            "sourceRepo": "brand-weaver",
+            "commit": "0b3ef66b"
+          },
+          {
+            "sequence": "06",
+            "file": ".lovable/06_prompts.md",
+            "sourceRepo": "macro-mate-logo-icon-27f183d0",
+            "commit": "124b4231"
+          },
+          {
+            "sequence": "07",
+            "file": ".lovable/07_prompts.md",
+            "sourceRepo": "brand-forge-studio",
+            "commit": "f6b80b17"
+          }
+        ],
+        "status": "pending_ai_consolidation"
+      },
+      {
+        "canonicalPath": ".lovable/prompts/02-logo-create.md",
+        "variants": [
+          {
+            "sequence": "01",
+            "file": ".lovable/prompts/01_02-logo-create.md",
+            "sourceRepo": "logo-1",
+            "commit": "c23b83d1"
+          },
+          {
+            "sequence": "02",
+            "file": ".lovable/prompts/02_02-logo-create.md",
+            "sourceRepo": "macro-mate-scripts-fixer-logo-icon",
+            "commit": "7bd95b99"
+          },
+          {
+            "sequence": "03",
+            "file": ".lovable/prompts/03_02-logo-create.md",
+            "sourceRepo": "iconcraft-studio",
+            "commit": "bcaf1ffb"
+          },
+          {
+            "sequence": "04",
+            "file": ".lovable/prompts/04_02-logo-create.md",
+            "sourceRepo": "brand-builder-studio",
+            "commit": "54945eb6"
+          },
+          {
+            "sequence": "05",
+            "file": ".lovable/prompts/05_02-logo-create.md",
+            "sourceRepo": "brand-weaver",
+            "commit": "0b3ef66b"
+          },
+          {
+            "sequence": "06",
+            "file": ".lovable/prompts/06_02-logo-create.md",
+            "sourceRepo": "macro-mate-logo-icon-27f183d0",
+            "commit": "124b4231"
+          },
+          {
+            "sequence": "07",
+            "file": ".lovable/prompts/07_02-logo-create.md",
+            "sourceRepo": "brand-forge-studio",
+            "commit": "f6b80b17"
+          }
+        ],
+        "status": "pending_ai_consolidation"
+      },
+      {
+        "canonicalPath": "Projects/01-MacroMate/README.md",
+        "variants": [
+          {
+            "sequence": "01",
+            "file": "Projects/01-MacroMate/01_README.md",
+            "sourceRepo": "logo-1",
+            "commit": "c23b83d1"
+          },
+          {
+            "sequence": "02",
+            "file": "Projects/01-MacroMate/02_README.md",
+            "sourceRepo": "macro-mate-scripts-fixer-logo-icon",
+            "commit": "7bd95b99"
+          }
+        ],
+        "status": "pending_ai_consolidation"
+      },
+      {
+        "canonicalPath": "Projects/01-MacroMate/colors-themes/Palette.md",
+        "variants": [
+          {
+            "sequence": "01",
+            "file": "Projects/01-MacroMate/colors-themes/01_Palette.md",
+            "sourceRepo": "logo-1",
+            "commit": "c23b83d1"
+          },
+          {
+            "sequence": "02",
+            "file": "Projects/01-MacroMate/colors-themes/02_Palette.md",
+            "sourceRepo": "macro-mate-scripts-fixer-logo-icon",
+            "commit": "7bd95b99"
+          }
+        ],
+        "status": "pending_ai_consolidation"
+      },
+      {
+        "canonicalPath": "Projects/01-MacroMate/colors-themes/Tokens.json",
+        "variants": [
+          {
+            "sequence": "01",
+            "file": "Projects/01-MacroMate/colors-themes/01_Tokens.json",
+            "sourceRepo": "logo-1",
+            "commit": "c23b83d1"
+          },
+          {
+            "sequence": "02",
+            "file": "Projects/01-MacroMate/colors-themes/02_Tokens.json",
+            "sourceRepo": "macro-mate-scripts-fixer-logo-icon",
+            "commit": "7bd95b99"
+          }
+        ],
+        "status": "pending_ai_consolidation"
+      },
+      {
+        "canonicalPath": "Projects/01-MacroMate/favicon.ico",
+        "variants": [
+          {
+            "sequence": "01",
+            "file": "Projects/01-MacroMate/01_favicon.ico",
+            "sourceRepo": "logo-1",
+            "commit": "c23b83d1"
+          },
+          {
+            "sequence": "02",
+            "file": "Projects/01-MacroMate/02_favicon.ico",
+            "sourceRepo": "macro-mate-scripts-fixer-logo-icon",
+            "commit": "7bd95b99"
+          }
+        ],
+        "status": "pending_ai_consolidation"
+      },
+      {
+        "canonicalPath": "Projects/01-MacroMate/favicon.png",
+        "variants": [
+          {
+            "sequence": "01",
+            "file": "Projects/01-MacroMate/01_favicon.png",
+            "sourceRepo": "logo-1",
+            "commit": "c23b83d1"
+          },
+          {
+            "sequence": "02",
+            "file": "Projects/01-MacroMate/02_favicon.png",
+            "sourceRepo": "macro-mate-scripts-fixer-logo-icon",
+            "commit": "7bd95b99"
+          }
+        ],
+        "status": "pending_ai_consolidation"
+      },
+      {
+        "canonicalPath": "Projects/01-MacroMate/icons-image/Logo-128.png",
+        "variants": [
+          {
+            "sequence": "01",
+            "file": "Projects/01-MacroMate/icons-image/01_Logo-128.png",
+            "sourceRepo": "logo-1",
+            "commit": "c23b83d1"
+          },
+          {
+            "sequence": "02",
+            "file": "Projects/01-MacroMate/icons-image/02_Logo-128.png",
+            "sourceRepo": "macro-mate-scripts-fixer-logo-icon",
+            "commit": "7bd95b99"
+          }
+        ],
+        "status": "pending_ai_consolidation"
+      },
+      {
+        "canonicalPath": "Projects/01-MacroMate/icons-image/Logo-256.png",
+        "variants": [
+          {
+            "sequence": "01",
+            "file": "Projects/01-MacroMate/icons-image/01_Logo-256.png",
+            "sourceRepo": "logo-1",
+            "commit": "c23b83d1"
+          },
+          {
+            "sequence": "02",
+            "file": "Projects/01-MacroMate/icons-image/02_Logo-256.png",
+            "sourceRepo": "macro-mate-scripts-fixer-logo-icon",
+            "commit": "7bd95b99"
+          }
+        ],
+        "status": "pending_ai_consolidation"
+      },
+      {
+        "canonicalPath": "Projects/01-MacroMate/icons-image/Logo-512.png",
+        "variants": [
+          {
+            "sequence": "01",
+            "file": "Projects/01-MacroMate/icons-image/01_Logo-512.png",
+            "sourceRepo": "logo-1",
+            "commit": "c23b83d1"
+          },
+          {
+            "sequence": "02",
+            "file": "Projects/01-MacroMate/icons-image/02_Logo-512.png",
+            "sourceRepo": "macro-mate-scripts-fixer-logo-icon",
+            "commit": "7bd95b99"
+          }
+        ],
+        "status": "pending_ai_consolidation"
+      },
+      {
+        "canonicalPath": "Projects/01-MacroMate/icons-image/Logo-Animated.gif",
+        "variants": [
+          {
+            "sequence": "01",
+            "file": "Projects/01-MacroMate/icons-image/01_Logo-Animated.gif",
+            "sourceRepo": "logo-1",
+            "commit": "c23b83d1"
+          },
+          {
+            "sequence": "02",
+            "file": "Projects/01-MacroMate/icons-image/02_Logo-Animated.gif",
+            "sourceRepo": "macro-mate-scripts-fixer-logo-icon",
+            "commit": "7bd95b99"
+          }
+        ],
+        "status": "pending_ai_consolidation"
+      },
+      {
+        "canonicalPath": "Projects/01-MacroMate/icons-svg/Logo-Animated.svg",
+        "variants": [
+          {
+            "sequence": "01",
+            "file": "Projects/01-MacroMate/icons-svg/01_Logo-Animated.svg",
+            "sourceRepo": "logo-1",
+            "commit": "c23b83d1"
+          },
+          {
+            "sequence": "02",
+            "file": "Projects/01-MacroMate/icons-svg/02_Logo-Animated.svg",
+            "sourceRepo": "macro-mate-scripts-fixer-logo-icon",
+            "commit": "7bd95b99"
+          }
+        ],
+        "status": "pending_ai_consolidation"
+      },
+      {
+        "canonicalPath": "Projects/01-MacroMate/icons-svg/Logo-Dark.svg",
+        "variants": [
+          {
+            "sequence": "01",
+            "file": "Projects/01-MacroMate/icons-svg/01_Logo-Dark.svg",
+            "sourceRepo": "logo-1",
+            "commit": "c23b83d1"
+          },
+          {
+            "sequence": "02",
+            "file": "Projects/01-MacroMate/icons-svg/02_Logo-Dark.svg",
+            "sourceRepo": "macro-mate-scripts-fixer-logo-icon",
+            "commit": "7bd95b99"
+          }
+        ],
+        "status": "pending_ai_consolidation"
+      },
+      {
+        "canonicalPath": "Projects/01-MacroMate/icons-svg/Logo-White.svg",
+        "variants": [
+          {
+            "sequence": "01",
+            "file": "Projects/01-MacroMate/icons-svg/01_Logo-White.svg",
+            "sourceRepo": "logo-1",
+            "commit": "c23b83d1"
+          },
+          {
+            "sequence": "02",
+            "file": "Projects/01-MacroMate/icons-svg/02_Logo-White.svg",
+            "sourceRepo": "macro-mate-scripts-fixer-logo-icon",
+            "commit": "7bd95b99"
+          }
+        ],
+        "status": "pending_ai_consolidation"
+      },
+      {
+        "canonicalPath": "Projects/01-MacroMate/icons-svg/Logo.svg",
+        "variants": [
+          {
+            "sequence": "01",
+            "file": "Projects/01-MacroMate/icons-svg/01_Logo.svg",
+            "sourceRepo": "logo-1",
+            "commit": "c23b83d1"
+          },
+          {
+            "sequence": "02",
+            "file": "Projects/01-MacroMate/icons-svg/02_Logo.svg",
+            "sourceRepo": "macro-mate-scripts-fixer-logo-icon",
+            "commit": "7bd95b99"
+          }
+        ],
+        "status": "pending_ai_consolidation"
+      },
+      {
+        "canonicalPath": "README.md",
+        "variants": [
+          {
+            "sequence": "01",
+            "file": "01_README.md",
+            "sourceRepo": "logo-1",
+            "commit": "c23b83d1"
+          },
+          {
+            "sequence": "02",
+            "file": "02_README.md",
+            "sourceRepo": "macro-mate-scripts-fixer-logo-icon",
+            "commit": "7bd95b99"
+          },
+          {
+            "sequence": "03",
+            "file": "03_README.md",
+            "sourceRepo": "iconcraft-studio",
+            "commit": "bcaf1ffb"
+          },
+          {
+            "sequence": "04",
+            "file": "04_README.md",
+            "sourceRepo": "brand-builder-studio",
+            "commit": "54945eb6"
+          },
+          {
+            "sequence": "05",
+            "file": "05_README.md",
+            "sourceRepo": "brand-weaver",
+            "commit": "0b3ef66b"
+          },
+          {
+            "sequence": "06",
+            "file": "06_README.md",
+            "sourceRepo": "macro-mate-logo-icon-27f183d0",
+            "commit": "124b4231"
+          },
+          {
+            "sequence": "07",
+            "file": "07_README.md",
+            "sourceRepo": "brand-forge-studio",
+            "commit": "f6b80b17"
+          }
+        ],
+        "status": "pending_ai_consolidation"
+      },
+      {
+        "canonicalPath": "bun.lockb",
+        "variants": [
+          {
+            "sequence": "01",
+            "file": "01_bun.lockb",
+            "sourceRepo": "logo-1",
+            "commit": "c23b83d1"
+          },
+          {
+            "sequence": "02",
+            "file": "02_bun.lockb",
+            "sourceRepo": "macro-mate-scripts-fixer-logo-icon",
+            "commit": "7bd95b99"
+          },
+          {
+            "sequence": "03",
+            "file": "03_bun.lockb",
+            "sourceRepo": "iconcraft-studio",
+            "commit": "bcaf1ffb"
+          },
+          {
+            "sequence": "04",
+            "file": "04_bun.lockb",
+            "sourceRepo": "brand-builder-studio",
+            "commit": "54945eb6"
+          },
+          {
+            "sequence": "05",
+            "file": "05_bun.lockb",
+            "sourceRepo": "brand-weaver",
+            "commit": "0b3ef66b"
+          },
+          {
+            "sequence": "06",
+            "file": "06_bun.lockb",
+            "sourceRepo": "macro-mate-logo-icon-27f183d0",
+            "commit": "124b4231"
+          },
+          {
+            "sequence": "07",
+            "file": "07_bun.lockb",
+            "sourceRepo": "brand-forge-studio",
+            "commit": "f6b80b17"
+          }
+        ],
+        "status": "pending_ai_consolidation"
+      },
+      {
+        "canonicalPath": "components.json",
+        "variants": [
+          {
+            "sequence": "01",
+            "file": "01_components.json",
+            "sourceRepo": "logo-1",
+            "commit": "c23b83d1"
+          },
+          {
+            "sequence": "02",
+            "file": "02_components.json",
+            "sourceRepo": "macro-mate-scripts-fixer-logo-icon",
+            "commit": "7bd95b99"
+          },
+          {
+            "sequence": "03",
+            "file": "03_components.json",
+            "sourceRepo": "iconcraft-studio",
+            "commit": "bcaf1ffb"
+          },
+          {
+            "sequence": "04",
+            "file": "04_components.json",
+            "sourceRepo": "brand-builder-studio",
+            "commit": "54945eb6"
+          },
+          {
+            "sequence": "05",
+            "file": "05_components.json",
+            "sourceRepo": "brand-weaver",
+            "commit": "0b3ef66b"
+          },
+          {
+            "sequence": "06",
+            "file": "06_components.json",
+            "sourceRepo": "macro-mate-logo-icon-27f183d0",
+            "commit": "124b4231"
+          },
+          {
+            "sequence": "07",
+            "file": "07_components.json",
+            "sourceRepo": "brand-forge-studio",
+            "commit": "f6b80b17"
+          }
+        ],
+        "status": "pending_ai_consolidation"
+      },
+      {
+        "canonicalPath": "eslint.config.js",
+        "variants": [
+          {
+            "sequence": "01",
+            "file": "01_eslint.config.js",
+            "sourceRepo": "logo-1",
+            "commit": "c23b83d1"
+          },
+          {
+            "sequence": "02",
+            "file": "02_eslint.config.js",
+            "sourceRepo": "macro-mate-scripts-fixer-logo-icon",
+            "commit": "7bd95b99"
+          },
+          {
+            "sequence": "03",
+            "file": "03_eslint.config.js",
+            "sourceRepo": "iconcraft-studio",
+            "commit": "bcaf1ffb"
+          },
+          {
+            "sequence": "04",
+            "file": "04_eslint.config.js",
+            "sourceRepo": "brand-builder-studio",
+            "commit": "54945eb6"
+          },
+          {
+            "sequence": "05",
+            "file": "05_eslint.config.js",
+            "sourceRepo": "brand-weaver",
+            "commit": "0b3ef66b"
+          },
+          {
+            "sequence": "06",
+            "file": "06_eslint.config.js",
+            "sourceRepo": "macro-mate-logo-icon-27f183d0",
+            "commit": "124b4231"
+          },
+          {
+            "sequence": "07",
+            "file": "07_eslint.config.js",
+            "sourceRepo": "brand-forge-studio",
+            "commit": "f6b80b17"
+          }
+        ],
+        "status": "pending_ai_consolidation"
+      },
+      {
+        "canonicalPath": "favicon.ico",
+        "variants": [
+          {
+            "sequence": "02",
+            "file": "02_favicon.ico",
+            "sourceRepo": "macro-mate-scripts-fixer-logo-icon",
+            "commit": "7bd95b99"
+          },
+          {
+            "sequence": "06",
+            "file": "06_favicon.ico",
+            "sourceRepo": "macro-mate-logo-icon-27f183d0",
+            "commit": "124b4231"
+          }
+        ],
+        "status": "pending_ai_consolidation"
+      },
+      {
+        "canonicalPath": "favicon.png",
+        "variants": [
+          {
+            "sequence": "02",
+            "file": "02_favicon.png",
+            "sourceRepo": "macro-mate-scripts-fixer-logo-icon",
+            "commit": "7bd95b99"
+          },
+          {
+            "sequence": "06",
+            "file": "06_favicon.png",
+            "sourceRepo": "macro-mate-logo-icon-27f183d0",
+            "commit": "124b4231"
+          }
+        ],
+        "status": "pending_ai_consolidation"
+      },
+      {
+        "canonicalPath": "index.html",
+        "variants": [
+          {
+            "sequence": "01",
+            "file": "01_index.html",
+            "sourceRepo": "logo-1",
+            "commit": "c23b83d1"
+          },
+          {
+            "sequence": "02",
+            "file": "02_index.html",
+            "sourceRepo": "macro-mate-scripts-fixer-logo-icon",
+            "commit": "7bd95b99"
+          },
+          {
+            "sequence": "03",
+            "file": "03_index.html",
+            "sourceRepo": "iconcraft-studio",
+            "commit": "bcaf1ffb"
+          },
+          {
+            "sequence": "04",
+            "file": "04_index.html",
+            "sourceRepo": "brand-builder-studio",
+            "commit": "54945eb6"
+          },
+          {
+            "sequence": "05",
+            "file": "05_index.html",
+            "sourceRepo": "brand-weaver",
+            "commit": "0b3ef66b"
+          },
+          {
+            "sequence": "06",
+            "file": "06_index.html",
+            "sourceRepo": "macro-mate-logo-icon-27f183d0",
+            "commit": "124b4231"
+          },
+          {
+            "sequence": "07",
+            "file": "07_index.html",
+            "sourceRepo": "brand-forge-studio",
+            "commit": "f6b80b17"
+          }
+        ],
+        "status": "pending_ai_consolidation"
+      },
+      {
+        "canonicalPath": "package-lock.json",
+        "variants": [
+          {
+            "sequence": "01",
+            "file": "01_package-lock.json",
+            "sourceRepo": "logo-1",
+            "commit": "c23b83d1"
+          },
+          {
+            "sequence": "02",
+            "file": "02_package-lock.json",
+            "sourceRepo": "macro-mate-scripts-fixer-logo-icon",
+            "commit": "7bd95b99"
+          },
+          {
+            "sequence": "03",
+            "file": "03_package-lock.json",
+            "sourceRepo": "iconcraft-studio",
+            "commit": "bcaf1ffb"
+          },
+          {
+            "sequence": "04",
+            "file": "04_package-lock.json",
+            "sourceRepo": "brand-builder-studio",
+            "commit": "54945eb6"
+          },
+          {
+            "sequence": "05",
+            "file": "05_package-lock.json",
+            "sourceRepo": "brand-weaver",
+            "commit": "0b3ef66b"
+          },
+          {
+            "sequence": "06",
+            "file": "06_package-lock.json",
+            "sourceRepo": "macro-mate-logo-icon-27f183d0",
+            "commit": "124b4231"
+          },
+          {
+            "sequence": "07",
+            "file": "07_package-lock.json",
+            "sourceRepo": "brand-forge-studio",
+            "commit": "f6b80b17"
+          }
+        ],
+        "status": "pending_ai_consolidation"
+      },
+      {
+        "canonicalPath": "package.json",
+        "variants": [
+          {
+            "sequence": "01",
+            "file": "01_package.json",
+            "sourceRepo": "logo-1",
+            "commit": "c23b83d1"
+          },
+          {
+            "sequence": "02",
+            "file": "02_package.json",
+            "sourceRepo": "macro-mate-scripts-fixer-logo-icon",
+            "commit": "7bd95b99"
+          },
+          {
+            "sequence": "03",
+            "file": "03_package.json",
+            "sourceRepo": "iconcraft-studio",
+            "commit": "bcaf1ffb"
+          },
+          {
+            "sequence": "04",
+            "file": "04_package.json",
+            "sourceRepo": "brand-builder-studio",
+            "commit": "54945eb6"
+          },
+          {
+            "sequence": "05",
+            "file": "05_package.json",
+            "sourceRepo": "brand-weaver",
+            "commit": "0b3ef66b"
+          },
+          {
+            "sequence": "06",
+            "file": "06_package.json",
+            "sourceRepo": "macro-mate-logo-icon-27f183d0",
+            "commit": "124b4231"
+          },
+          {
+            "sequence": "07",
+            "file": "07_package.json",
+            "sourceRepo": "brand-forge-studio",
+            "commit": "f6b80b17"
+          }
+        ],
+        "status": "pending_ai_consolidation"
+      },
+      {
+        "canonicalPath": "plan.md",
+        "variants": [
+          {
+            "sequence": "01",
+            "file": "01_plan.md",
+            "sourceRepo": "logo-1",
+            "commit": "c23b83d1"
+          },
+          {
+            "sequence": "02",
+            "file": "02_plan.md",
+            "sourceRepo": "macro-mate-scripts-fixer-logo-icon",
+            "commit": "7bd95b99"
+          },
+          {
+            "sequence": "03",
+            "file": "03_plan.md",
+            "sourceRepo": "iconcraft-studio",
+            "commit": "bcaf1ffb"
+          },
+          {
+            "sequence": "04",
+            "file": "04_plan.md",
+            "sourceRepo": "brand-builder-studio",
+            "commit": "54945eb6"
+          },
+          {
+            "sequence": "05",
+            "file": "05_plan.md",
+            "sourceRepo": "brand-weaver",
+            "commit": "0b3ef66b"
+          },
+          {
+            "sequence": "06",
+            "file": "06_plan.md",
+            "sourceRepo": "macro-mate-logo-icon-27f183d0",
+            "commit": "124b4231"
+          },
+          {
+            "sequence": "07",
+            "file": "07_plan.md",
+            "sourceRepo": "brand-forge-studio",
+            "commit": "f6b80b17"
+          }
+        ],
+        "status": "pending_ai_consolidation"
+      },
+      {
+        "canonicalPath": "postcss.config.js",
+        "variants": [
+          {
+            "sequence": "01",
+            "file": "01_postcss.config.js",
+            "sourceRepo": "logo-1",
+            "commit": "c23b83d1"
+          },
+          {
+            "sequence": "02",
+            "file": "02_postcss.config.js",
+            "sourceRepo": "macro-mate-scripts-fixer-logo-icon",
+            "commit": "7bd95b99"
+          },
+          {
+            "sequence": "03",
+            "file": "03_postcss.config.js",
+            "sourceRepo": "iconcraft-studio",
+            "commit": "bcaf1ffb"
+          },
+          {
+            "sequence": "04",
+            "file": "04_postcss.config.js",
+            "sourceRepo": "brand-builder-studio",
+            "commit": "54945eb6"
+          },
+          {
+            "sequence": "05",
+            "file": "05_postcss.config.js",
+            "sourceRepo": "brand-weaver",
+            "commit": "0b3ef66b"
+          },
+          {
+            "sequence": "06",
+            "file": "06_postcss.config.js",
+            "sourceRepo": "macro-mate-logo-icon-27f183d0",
+            "commit": "124b4231"
+          },
+          {
+            "sequence": "07",
+            "file": "07_postcss.config.js",
+            "sourceRepo": "brand-forge-studio",
+            "commit": "f6b80b17"
+          }
+        ],
+        "status": "pending_ai_consolidation"
+      },
+      {
+        "canonicalPath": "public/favicon.ico",
+        "variants": [
+          {
+            "sequence": "01",
+            "file": "public/01_favicon.ico",
+            "sourceRepo": "logo-1",
+            "commit": "c23b83d1"
+          },
+          {
+            "sequence": "02",
+            "file": "public/02_favicon.ico",
+            "sourceRepo": "macro-mate-scripts-fixer-logo-icon",
+            "commit": "7bd95b99"
+          },
+          {
+            "sequence": "03",
+            "file": "public/03_favicon.ico",
+            "sourceRepo": "iconcraft-studio",
+            "commit": "bcaf1ffb"
+          },
+          {
+            "sequence": "04",
+            "file": "public/04_favicon.ico",
+            "sourceRepo": "brand-builder-studio",
+            "commit": "54945eb6"
+          },
+          {
+            "sequence": "05",
+            "file": "public/05_favicon.ico",
+            "sourceRepo": "brand-weaver",
+            "commit": "0b3ef66b"
+          },
+          {
+            "sequence": "06",
+            "file": "public/06_favicon.ico",
+            "sourceRepo": "macro-mate-logo-icon-27f183d0",
+            "commit": "124b4231"
+          },
+          {
+            "sequence": "07",
+            "file": "public/07_favicon.ico",
+            "sourceRepo": "brand-forge-studio",
+            "commit": "f6b80b17"
+          }
+        ],
+        "status": "pending_ai_consolidation"
+      },
+      {
+        "canonicalPath": "public/placeholder.svg",
+        "variants": [
+          {
+            "sequence": "01",
+            "file": "public/01_placeholder.svg",
+            "sourceRepo": "logo-1",
+            "commit": "c23b83d1"
+          },
+          {
+            "sequence": "02",
+            "file": "public/02_placeholder.svg",
+            "sourceRepo": "macro-mate-scripts-fixer-logo-icon",
+            "commit": "7bd95b99"
+          },
+          {
+            "sequence": "03",
+            "file": "public/03_placeholder.svg",
+            "sourceRepo": "iconcraft-studio",
+            "commit": "bcaf1ffb"
+          },
+          {
+            "sequence": "04",
+            "file": "public/04_placeholder.svg",
+            "sourceRepo": "brand-builder-studio",
+            "commit": "54945eb6"
+          },
+          {
+            "sequence": "05",
+            "file": "public/05_placeholder.svg",
+            "sourceRepo": "brand-weaver",
+            "commit": "0b3ef66b"
+          },
+          {
+            "sequence": "06",
+            "file": "public/06_placeholder.svg",
+            "sourceRepo": "macro-mate-logo-icon-27f183d0",
+            "commit": "124b4231"
+          },
+          {
+            "sequence": "07",
+            "file": "public/07_placeholder.svg",
+            "sourceRepo": "brand-forge-studio",
+            "commit": "f6b80b17"
+          }
+        ],
+        "status": "pending_ai_consolidation"
+      },
+      {
+        "canonicalPath": "public/robots.txt",
+        "variants": [
+          {
+            "sequence": "01",
+            "file": "public/01_robots.txt",
+            "sourceRepo": "logo-1",
+            "commit": "c23b83d1"
+          },
+          {
+            "sequence": "02",
+            "file": "public/02_robots.txt",
+            "sourceRepo": "macro-mate-scripts-fixer-logo-icon",
+            "commit": "7bd95b99"
+          },
+          {
+            "sequence": "03",
+            "file": "public/03_robots.txt",
+            "sourceRepo": "iconcraft-studio",
+            "commit": "bcaf1ffb"
+          },
+          {
+            "sequence": "04",
+            "file": "public/04_robots.txt",
+            "sourceRepo": "brand-builder-studio",
+            "commit": "54945eb6"
+          },
+          {
+            "sequence": "05",
+            "file": "public/05_robots.txt",
+            "sourceRepo": "brand-weaver",
+            "commit": "0b3ef66b"
+          },
+          {
+            "sequence": "06",
+            "file": "public/06_robots.txt",
+            "sourceRepo": "macro-mate-logo-icon-27f183d0",
+            "commit": "124b4231"
+          },
+          {
+            "sequence": "07",
+            "file": "public/07_robots.txt",
+            "sourceRepo": "brand-forge-studio",
+            "commit": "f6b80b17"
+          }
+        ],
+        "status": "pending_ai_consolidation"
+      },
+      {
+        "canonicalPath": "src/App.css",
+        "variants": [
+          {
+            "sequence": "01",
+            "file": "src/01_App.css",
+            "sourceRepo": "logo-1",
+            "commit": "c23b83d1"
+          },
+          {
+            "sequence": "02",
+            "file": "src/02_App.css",
+            "sourceRepo": "macro-mate-scripts-fixer-logo-icon",
+            "commit": "7bd95b99"
+          },
+          {
+            "sequence": "03",
+            "file": "src/03_App.css",
+            "sourceRepo": "iconcraft-studio",
+            "commit": "bcaf1ffb"
+          },
+          {
+            "sequence": "04",
+            "file": "src/04_App.css",
+            "sourceRepo": "brand-builder-studio",
+            "commit": "54945eb6"
+          },
+          {
+            "sequence": "05",
+            "file": "src/05_App.css",
+            "sourceRepo": "brand-weaver",
+            "commit": "0b3ef66b"
+          },
+          {
+            "sequence": "06",
+            "file": "src/06_App.css",
+            "sourceRepo": "macro-mate-logo-icon-27f183d0",
+            "commit": "124b4231"
+          },
+          {
+            "sequence": "07",
+            "file": "src/07_App.css",
+            "sourceRepo": "brand-forge-studio",
+            "commit": "f6b80b17"
+          }
+        ],
+        "status": "pending_ai_consolidation"
+      },
+      {
+        "canonicalPath": "src/App.tsx",
+        "variants": [
+          {
+            "sequence": "01",
+            "file": "src/01_App.tsx",
+            "sourceRepo": "logo-1",
+            "commit": "c23b83d1"
+          },
+          {
+            "sequence": "02",
+            "file": "src/02_App.tsx",
+            "sourceRepo": "macro-mate-scripts-fixer-logo-icon",
+            "commit": "7bd95b99"
+          },
+          {
+            "sequence": "03",
+            "file": "src/03_App.tsx",
+            "sourceRepo": "iconcraft-studio",
+            "commit": "bcaf1ffb"
+          },
+          {
+            "sequence": "04",
+            "file": "src/04_App.tsx",
+            "sourceRepo": "brand-builder-studio",
+            "commit": "54945eb6"
+          },
+          {
+            "sequence": "05",
+            "file": "src/05_App.tsx",
+            "sourceRepo": "brand-weaver",
+            "commit": "0b3ef66b"
+          },
+          {
+            "sequence": "06",
+            "file": "src/06_App.tsx",
+            "sourceRepo": "macro-mate-logo-icon-27f183d0",
+            "commit": "124b4231"
+          },
+          {
+            "sequence": "07",
+            "file": "src/07_App.tsx",
+            "sourceRepo": "brand-forge-studio",
+            "commit": "f6b80b17"
+          }
+        ],
+        "status": "pending_ai_consolidation"
+      },
+      {
+        "canonicalPath": "src/components/NavLink.tsx",
+        "variants": [
+          {
+            "sequence": "01",
+            "file": "src/components/01_NavLink.tsx",
+            "sourceRepo": "logo-1",
+            "commit": "c23b83d1"
+          },
+          {
+            "sequence": "02",
+            "file": "src/components/02_NavLink.tsx",
+            "sourceRepo": "macro-mate-scripts-fixer-logo-icon",
+            "commit": "7bd95b99"
+          },
+          {
+            "sequence": "03",
+            "file": "src/components/03_NavLink.tsx",
+            "sourceRepo": "iconcraft-studio",
+            "commit": "bcaf1ffb"
+          },
+          {
+            "sequence": "04",
+            "file": "src/components/04_NavLink.tsx",
+            "sourceRepo": "brand-builder-studio",
+            "commit": "54945eb6"
+          },
+          {
+            "sequence": "05",
+            "file": "src/components/05_NavLink.tsx",
+            "sourceRepo": "brand-weaver",
+            "commit": "0b3ef66b"
+          },
+          {
+            "sequence": "06",
+            "file": "src/components/06_NavLink.tsx",
+            "sourceRepo": "macro-mate-logo-icon-27f183d0",
+            "commit": "124b4231"
+          },
+          {
+            "sequence": "07",
+            "file": "src/components/07_NavLink.tsx",
+            "sourceRepo": "brand-forge-studio",
+            "commit": "f6b80b17"
+          }
+        ],
+        "status": "pending_ai_consolidation"
+      },
+      {
+        "canonicalPath": "src/components/ui/accordion.tsx",
+        "variants": [
+          {
+            "sequence": "01",
+            "file": "src/components/ui/01_accordion.tsx",
+            "sourceRepo": "logo-1",
+            "commit": "c23b83d1"
+          },
+          {
+            "sequence": "02",
+            "file": "src/components/ui/02_accordion.tsx",
+            "sourceRepo": "macro-mate-scripts-fixer-logo-icon",
+            "commit": "7bd95b99"
+          },
+          {
+            "sequence": "03",
+            "file": "src/components/ui/03_accordion.tsx",
+            "sourceRepo": "iconcraft-studio",
+            "commit": "bcaf1ffb"
+          },
+          {
+            "sequence": "04",
+            "file": "src/components/ui/04_accordion.tsx",
+            "sourceRepo": "brand-builder-studio",
+            "commit": "54945eb6"
+          },
+          {
+            "sequence": "05",
+            "file": "src/components/ui/05_accordion.tsx",
+            "sourceRepo": "brand-weaver",
+            "commit": "0b3ef66b"
+          },
+          {
+            "sequence": "06",
+            "file": "src/components/ui/06_accordion.tsx",
+            "sourceRepo": "macro-mate-logo-icon-27f183d0",
+            "commit": "124b4231"
+          },
+          {
+            "sequence": "07",
+            "file": "src/components/ui/07_accordion.tsx",
+            "sourceRepo": "brand-forge-studio",
+            "commit": "f6b80b17"
+          }
+        ],
+        "status": "pending_ai_consolidation"
+      },
+      {
+        "canonicalPath": "src/components/ui/alert-dialog.tsx",
+        "variants": [
+          {
+            "sequence": "01",
+            "file": "src/components/ui/01_alert-dialog.tsx",
+            "sourceRepo": "logo-1",
+            "commit": "c23b83d1"
+          },
+          {
+            "sequence": "02",
+            "file": "src/components/ui/02_alert-dialog.tsx",
+            "sourceRepo": "macro-mate-scripts-fixer-logo-icon",
+            "commit": "7bd95b99"
+          },
+          {
+            "sequence": "03",
+            "file": "src/components/ui/03_alert-dialog.tsx",
+            "sourceRepo": "iconcraft-studio",
+            "commit": "bcaf1ffb"
+          },
+          {
+            "sequence": "04",
+            "file": "src/components/ui/04_alert-dialog.tsx",
+            "sourceRepo": "brand-builder-studio",
+            "commit": "54945eb6"
+          },
+          {
+            "sequence": "05",
+            "file": "src/components/ui/05_alert-dialog.tsx",
+            "sourceRepo": "brand-weaver",
+            "commit": "0b3ef66b"
+          },
+          {
+            "sequence": "06",
+            "file": "src/components/ui/06_alert-dialog.tsx",
+            "sourceRepo": "macro-mate-logo-icon-27f183d0",
+            "commit": "124b4231"
+          },
+          {
+            "sequence": "07",
+            "file": "src/components/ui/07_alert-dialog.tsx",
+            "sourceRepo": "brand-forge-studio",
+            "commit": "f6b80b17"
+          }
+        ],
+        "status": "pending_ai_consolidation"
+      },
+      {
+        "canonicalPath": "src/components/ui/alert.tsx",
+        "variants": [
+          {
+            "sequence": "01",
+            "file": "src/components/ui/01_alert.tsx",
+            "sourceRepo": "logo-1",
+            "commit": "c23b83d1"
+          },
+          {
+            "sequence": "02",
+            "file": "src/components/ui/02_alert.tsx",
+            "sourceRepo": "macro-mate-scripts-fixer-logo-icon",
+            "commit": "7bd95b99"
+          },
+          {
+            "sequence": "03",
+            "file": "src/components/ui/03_alert.tsx",
+            "sourceRepo": "iconcraft-studio",
+            "commit": "bcaf1ffb"
+          },
+          {
+            "sequence": "04",
+            "file": "src/components/ui/04_alert.tsx",
+            "sourceRepo": "brand-builder-studio",
+            "commit": "54945eb6"
+          },
+          {
+            "sequence": "05",
+            "file": "src/components/ui/05_alert.tsx",
+            "sourceRepo": "brand-weaver",
+            "commit": "0b3ef66b"
+          },
+          {
+            "sequence": "06",
+            "file": "src/components/ui/06_alert.tsx",
+            "sourceRepo": "macro-mate-logo-icon-27f183d0",
+            "commit": "124b4231"
+          },
+          {
+            "sequence": "07",
+            "file": "src/components/ui/07_alert.tsx",
+            "sourceRepo": "brand-forge-studio",
+            "commit": "f6b80b17"
+          }
+        ],
+        "status": "pending_ai_consolidation"
+      },
+      {
+        "canonicalPath": "src/components/ui/aspect-ratio.tsx",
+        "variants": [
+          {
+            "sequence": "01",
+            "file": "src/components/ui/01_aspect-ratio.tsx",
+            "sourceRepo": "logo-1",
+            "commit": "c23b83d1"
+          },
+          {
+            "sequence": "02",
+            "file": "src/components/ui/02_aspect-ratio.tsx",
+            "sourceRepo": "macro-mate-scripts-fixer-logo-icon",
+            "commit": "7bd95b99"
+          },
+          {
+            "sequence": "03",
+            "file": "src/components/ui/03_aspect-ratio.tsx",
+            "sourceRepo": "iconcraft-studio",
+            "commit": "bcaf1ffb"
+          },
+          {
+            "sequence": "04",
+            "file": "src/components/ui/04_aspect-ratio.tsx",
+            "sourceRepo": "brand-builder-studio",
+            "commit": "54945eb6"
+          },
+          {
+            "sequence": "05",
+            "file": "src/components/ui/05_aspect-ratio.tsx",
+            "sourceRepo": "brand-weaver",
+            "commit": "0b3ef66b"
+          },
+          {
+            "sequence": "06",
+            "file": "src/components/ui/06_aspect-ratio.tsx",
+            "sourceRepo": "macro-mate-logo-icon-27f183d0",
+            "commit": "124b4231"
+          },
+          {
+            "sequence": "07",
+            "file": "src/components/ui/07_aspect-ratio.tsx",
+            "sourceRepo": "brand-forge-studio",
+            "commit": "f6b80b17"
+          }
+        ],
+        "status": "pending_ai_consolidation"
+      },
+      {
+        "canonicalPath": "src/components/ui/avatar.tsx",
+        "variants": [
+          {
+            "sequence": "01",
+            "file": "src/components/ui/01_avatar.tsx",
+            "sourceRepo": "logo-1",
+            "commit": "c23b83d1"
+          },
+          {
+            "sequence": "02",
+            "file": "src/components/ui/02_avatar.tsx",
+            "sourceRepo": "macro-mate-scripts-fixer-logo-icon",
+            "commit": "7bd95b99"
+          },
+          {
+            "sequence": "03",
+            "file": "src/components/ui/03_avatar.tsx",
+            "sourceRepo": "iconcraft-studio",
+            "commit": "bcaf1ffb"
+          },
+          {
+            "sequence": "04",
+            "file": "src/components/ui/04_avatar.tsx",
+            "sourceRepo": "brand-builder-studio",
+            "commit": "54945eb6"
+          },
+          {
+            "sequence": "05",
+            "file": "src/components/ui/05_avatar.tsx",
+            "sourceRepo": "brand-weaver",
+            "commit": "0b3ef66b"
+          },
+          {
+            "sequence": "06",
+            "file": "src/components/ui/06_avatar.tsx",
+            "sourceRepo": "macro-mate-logo-icon-27f183d0",
+            "commit": "124b4231"
+          },
+          {
+            "sequence": "07",
+            "file": "src/components/ui/07_avatar.tsx",
+            "sourceRepo": "brand-forge-studio",
+            "commit": "f6b80b17"
+          }
+        ],
+        "status": "pending_ai_consolidation"
+      },
+      {
+        "canonicalPath": "src/components/ui/badge.tsx",
+        "variants": [
+          {
+            "sequence": "01",
+            "file": "src/components/ui/01_badge.tsx",
+            "sourceRepo": "logo-1",
+            "commit": "c23b83d1"
+          },
+          {
+            "sequence": "02",
+            "file": "src/components/ui/02_badge.tsx",
+            "sourceRepo": "macro-mate-scripts-fixer-logo-icon",
+            "commit": "7bd95b99"
+          },
+          {
+            "sequence": "03",
+            "file": "src/components/ui/03_badge.tsx",
+            "sourceRepo": "iconcraft-studio",
+            "commit": "bcaf1ffb"
+          },
+          {
+            "sequence": "04",
+            "file": "src/components/ui/04_badge.tsx",
+            "sourceRepo": "brand-builder-studio",
+            "commit": "54945eb6"
+          },
+          {
+            "sequence": "05",
+            "file": "src/components/ui/05_badge.tsx",
+            "sourceRepo": "brand-weaver",
+            "commit": "0b3ef66b"
+          },
+          {
+            "sequence": "06",
+            "file": "src/components/ui/06_badge.tsx",
+            "sourceRepo": "macro-mate-logo-icon-27f183d0",
+            "commit": "124b4231"
+          },
+          {
+            "sequence": "07",
+            "file": "src/components/ui/07_badge.tsx",
+            "sourceRepo": "brand-forge-studio",
+            "commit": "f6b80b17"
+          }
+        ],
+        "status": "pending_ai_consolidation"
+      },
+      {
+        "canonicalPath": "src/components/ui/breadcrumb.tsx",
+        "variants": [
+          {
+            "sequence": "01",
+            "file": "src/components/ui/01_breadcrumb.tsx",
+            "sourceRepo": "logo-1",
+            "commit": "c23b83d1"
+          },
+          {
+            "sequence": "02",
+            "file": "src/components/ui/02_breadcrumb.tsx",
+            "sourceRepo": "macro-mate-scripts-fixer-logo-icon",
+            "commit": "7bd95b99"
+          },
+          {
+            "sequence": "03",
+            "file": "src/components/ui/03_breadcrumb.tsx",
+            "sourceRepo": "iconcraft-studio",
+            "commit": "bcaf1ffb"
+          },
+          {
+            "sequence": "04",
+            "file": "src/components/ui/04_breadcrumb.tsx",
+            "sourceRepo": "brand-builder-studio",
+            "commit": "54945eb6"
+          },
+          {
+            "sequence": "05",
+            "file": "src/components/ui/05_breadcrumb.tsx",
+            "sourceRepo": "brand-weaver",
+            "commit": "0b3ef66b"
+          },
+          {
+            "sequence": "06",
+            "file": "src/components/ui/06_breadcrumb.tsx",
+            "sourceRepo": "macro-mate-logo-icon-27f183d0",
+            "commit": "124b4231"
+          },
+          {
+            "sequence": "07",
+            "file": "src/components/ui/07_breadcrumb.tsx",
+            "sourceRepo": "brand-forge-studio",
+            "commit": "f6b80b17"
+          }
+        ],
+        "status": "pending_ai_consolidation"
+      },
+      {
+        "canonicalPath": "src/components/ui/button.tsx",
+        "variants": [
+          {
+            "sequence": "01",
+            "file": "src/components/ui/01_button.tsx",
+            "sourceRepo": "logo-1",
+            "commit": "c23b83d1"
+          },
+          {
+            "sequence": "02",
+            "file": "src/components/ui/02_button.tsx",
+            "sourceRepo": "macro-mate-scripts-fixer-logo-icon",
+            "commit": "7bd95b99"
+          },
+          {
+            "sequence": "03",
+            "file": "src/components/ui/03_button.tsx",
+            "sourceRepo": "iconcraft-studio",
+            "commit": "bcaf1ffb"
+          },
+          {
+            "sequence": "04",
+            "file": "src/components/ui/04_button.tsx",
+            "sourceRepo": "brand-builder-studio",
+            "commit": "54945eb6"
+          },
+          {
+            "sequence": "05",
+            "file": "src/components/ui/05_button.tsx",
+            "sourceRepo": "brand-weaver",
+            "commit": "0b3ef66b"
+          },
+          {
+            "sequence": "06",
+            "file": "src/components/ui/06_button.tsx",
+            "sourceRepo": "macro-mate-logo-icon-27f183d0",
+            "commit": "124b4231"
+          },
+          {
+            "sequence": "07",
+            "file": "src/components/ui/07_button.tsx",
+            "sourceRepo": "brand-forge-studio",
+            "commit": "f6b80b17"
+          }
+        ],
+        "status": "pending_ai_consolidation"
+      },
+      {
+        "canonicalPath": "src/components/ui/calendar.tsx",
+        "variants": [
+          {
+            "sequence": "01",
+            "file": "src/components/ui/01_calendar.tsx",
+            "sourceRepo": "logo-1",
+            "commit": "c23b83d1"
+          },
+          {
+            "sequence": "02",
+            "file": "src/components/ui/02_calendar.tsx",
+            "sourceRepo": "macro-mate-scripts-fixer-logo-icon",
+            "commit": "7bd95b99"
+          },
+          {
+            "sequence": "03",
+            "file": "src/components/ui/03_calendar.tsx",
+            "sourceRepo": "iconcraft-studio",
+            "commit": "bcaf1ffb"
+          },
+          {
+            "sequence": "04",
+            "file": "src/components/ui/04_calendar.tsx",
+            "sourceRepo": "brand-builder-studio",
+            "commit": "54945eb6"
+          },
+          {
+            "sequence": "05",
+            "file": "src/components/ui/05_calendar.tsx",
+            "sourceRepo": "brand-weaver",
+            "commit": "0b3ef66b"
+          },
+          {
+            "sequence": "06",
+            "file": "src/components/ui/06_calendar.tsx",
+            "sourceRepo": "macro-mate-logo-icon-27f183d0",
+            "commit": "124b4231"
+          },
+          {
+            "sequence": "07",
+            "file": "src/components/ui/07_calendar.tsx",
+            "sourceRepo": "brand-forge-studio",
+            "commit": "f6b80b17"
+          }
+        ],
+        "status": "pending_ai_consolidation"
+      },
+      {
+        "canonicalPath": "src/components/ui/card.tsx",
+        "variants": [
+          {
+            "sequence": "01",
+            "file": "src/components/ui/01_card.tsx",
+            "sourceRepo": "logo-1",
+            "commit": "c23b83d1"
+          },
+          {
+            "sequence": "02",
+            "file": "src/components/ui/02_card.tsx",
+            "sourceRepo": "macro-mate-scripts-fixer-logo-icon",
+            "commit": "7bd95b99"
+          },
+          {
+            "sequence": "03",
+            "file": "src/components/ui/03_card.tsx",
+            "sourceRepo": "iconcraft-studio",
+            "commit": "bcaf1ffb"
+          },
+          {
+            "sequence": "04",
+            "file": "src/components/ui/04_card.tsx",
+            "sourceRepo": "brand-builder-studio",
+            "commit": "54945eb6"
+          },
+          {
+            "sequence": "05",
+            "file": "src/components/ui/05_card.tsx",
+            "sourceRepo": "brand-weaver",
+            "commit": "0b3ef66b"
+          },
+          {
+            "sequence": "06",
+            "file": "src/components/ui/06_card.tsx",
+            "sourceRepo": "macro-mate-logo-icon-27f183d0",
+            "commit": "124b4231"
+          },
+          {
+            "sequence": "07",
+            "file": "src/components/ui/07_card.tsx",
+            "sourceRepo": "brand-forge-studio",
+            "commit": "f6b80b17"
+          }
+        ],
+        "status": "pending_ai_consolidation"
+      },
+      {
+        "canonicalPath": "src/components/ui/carousel.tsx",
+        "variants": [
+          {
+            "sequence": "01",
+            "file": "src/components/ui/01_carousel.tsx",
+            "sourceRepo": "logo-1",
+            "commit": "c23b83d1"
+          },
+          {
+            "sequence": "02",
+            "file": "src/components/ui/02_carousel.tsx",
+            "sourceRepo": "macro-mate-scripts-fixer-logo-icon",
+            "commit": "7bd95b99"
+          },
+          {
+            "sequence": "03",
+            "file": "src/components/ui/03_carousel.tsx",
+            "sourceRepo": "iconcraft-studio",
+            "commit": "bcaf1ffb"
+          },
+          {
+            "sequence": "04",
+            "file": "src/components/ui/04_carousel.tsx",
+            "sourceRepo": "brand-builder-studio",
+            "commit": "54945eb6"
+          },
+          {
+            "sequence": "05",
+            "file": "src/components/ui/05_carousel.tsx",
+            "sourceRepo": "brand-weaver",
+            "commit": "0b3ef66b"
+          },
+          {
+            "sequence": "06",
+            "file": "src/components/ui/06_carousel.tsx",
+            "sourceRepo": "macro-mate-logo-icon-27f183d0",
+            "commit": "124b4231"
+          },
+          {
+            "sequence": "07",
+            "file": "src/components/ui/07_carousel.tsx",
+            "sourceRepo": "brand-forge-studio",
+            "commit": "f6b80b17"
+          }
+        ],
+        "status": "pending_ai_consolidation"
+      },
+      {
+        "canonicalPath": "src/components/ui/chart.tsx",
+        "variants": [
+          {
+            "sequence": "01",
+            "file": "src/components/ui/01_chart.tsx",
+            "sourceRepo": "logo-1",
+            "commit": "c23b83d1"
+          },
+          {
+            "sequence": "02",
+            "file": "src/components/ui/02_chart.tsx",
+            "sourceRepo": "macro-mate-scripts-fixer-logo-icon",
+            "commit": "7bd95b99"
+          },
+          {
+            "sequence": "03",
+            "file": "src/components/ui/03_chart.tsx",
+            "sourceRepo": "iconcraft-studio",
+            "commit": "bcaf1ffb"
+          },
+          {
+            "sequence": "04",
+            "file": "src/components/ui/04_chart.tsx",
+            "sourceRepo": "brand-builder-studio",
+            "commit": "54945eb6"
+          },
+          {
+            "sequence": "05",
+            "file": "src/components/ui/05_chart.tsx",
+            "sourceRepo": "brand-weaver",
+            "commit": "0b3ef66b"
+          },
+          {
+            "sequence": "06",
+            "file": "src/components/ui/06_chart.tsx",
+            "sourceRepo": "macro-mate-logo-icon-27f183d0",
+            "commit": "124b4231"
+          },
+          {
+            "sequence": "07",
+            "file": "src/components/ui/07_chart.tsx",
+            "sourceRepo": "brand-forge-studio",
+            "commit": "f6b80b17"
+          }
+        ],
+        "status": "pending_ai_consolidation"
+      },
+      {
+        "canonicalPath": "src/components/ui/checkbox.tsx",
+        "variants": [
+          {
+            "sequence": "01",
+            "file": "src/components/ui/01_checkbox.tsx",
+            "sourceRepo": "logo-1",
+            "commit": "c23b83d1"
+          },
+          {
+            "sequence": "02",
+            "file": "src/components/ui/02_checkbox.tsx",
+            "sourceRepo": "macro-mate-scripts-fixer-logo-icon",
+            "commit": "7bd95b99"
+          },
+          {
+            "sequence": "03",
+            "file": "src/components/ui/03_checkbox.tsx",
+            "sourceRepo": "iconcraft-studio",
+            "commit": "bcaf1ffb"
+          },
+          {
+            "sequence": "04",
+            "file": "src/components/ui/04_checkbox.tsx",
+            "sourceRepo": "brand-builder-studio",
+            "commit": "54945eb6"
+          },
+          {
+            "sequence": "05",
+            "file": "src/components/ui/05_checkbox.tsx",
+            "sourceRepo": "brand-weaver",
+            "commit": "0b3ef66b"
+          },
+          {
+            "sequence": "06",
+            "file": "src/components/ui/06_checkbox.tsx",
+            "sourceRepo": "macro-mate-logo-icon-27f183d0",
+            "commit": "124b4231"
+          },
+          {
+            "sequence": "07",
+            "file": "src/components/ui/07_checkbox.tsx",
+            "sourceRepo": "brand-forge-studio",
+            "commit": "f6b80b17"
+          }
+        ],
+        "status": "pending_ai_consolidation"
+      },
+      {
+        "canonicalPath": "src/components/ui/collapsible.tsx",
+        "variants": [
+          {
+            "sequence": "01",
+            "file": "src/components/ui/01_collapsible.tsx",
+            "sourceRepo": "logo-1",
+            "commit": "c23b83d1"
+          },
+          {
+            "sequence": "02",
+            "file": "src/components/ui/02_collapsible.tsx",
+            "sourceRepo": "macro-mate-scripts-fixer-logo-icon",
+            "commit": "7bd95b99"
+          },
+          {
+            "sequence": "03",
+            "file": "src/components/ui/03_collapsible.tsx",
+            "sourceRepo": "iconcraft-studio",
+            "commit": "bcaf1ffb"
+          },
+          {
+            "sequence": "04",
+            "file": "src/components/ui/04_collapsible.tsx",
+            "sourceRepo": "brand-builder-studio",
+            "commit": "54945eb6"
+          },
+          {
+            "sequence": "05",
+            "file": "src/components/ui/05_collapsible.tsx",
+            "sourceRepo": "brand-weaver",
+            "commit": "0b3ef66b"
+          },
+          {
+            "sequence": "06",
+            "file": "src/components/ui/06_collapsible.tsx",
+            "sourceRepo": "macro-mate-logo-icon-27f183d0",
+            "commit": "124b4231"
+          },
+          {
+            "sequence": "07",
+            "file": "src/components/ui/07_collapsible.tsx",
+            "sourceRepo": "brand-forge-studio",
+            "commit": "f6b80b17"
+          }
+        ],
+        "status": "pending_ai_consolidation"
+      },
+      {
+        "canonicalPath": "src/components/ui/command.tsx",
+        "variants": [
+          {
+            "sequence": "01",
+            "file": "src/components/ui/01_command.tsx",
+            "sourceRepo": "logo-1",
+            "commit": "c23b83d1"
+          },
+          {
+            "sequence": "02",
+            "file": "src/components/ui/02_command.tsx",
+            "sourceRepo": "macro-mate-scripts-fixer-logo-icon",
+            "commit": "7bd95b99"
+          },
+          {
+            "sequence": "03",
+            "file": "src/components/ui/03_command.tsx",
+            "sourceRepo": "iconcraft-studio",
+            "commit": "bcaf1ffb"
+          },
+          {
+            "sequence": "04",
+            "file": "src/components/ui/04_command.tsx",
+            "sourceRepo": "brand-builder-studio",
+            "commit": "54945eb6"
+          },
+          {
+            "sequence": "05",
+            "file": "src/components/ui/05_command.tsx",
+            "sourceRepo": "brand-weaver",
+            "commit": "0b3ef66b"
+          },
+          {
+            "sequence": "06",
+            "file": "src/components/ui/06_command.tsx",
+            "sourceRepo": "macro-mate-logo-icon-27f183d0",
+            "commit": "124b4231"
+          },
+          {
+            "sequence": "07",
+            "file": "src/components/ui/07_command.tsx",
+            "sourceRepo": "brand-forge-studio",
+            "commit": "f6b80b17"
+          }
+        ],
+        "status": "pending_ai_consolidation"
+      },
+      {
+        "canonicalPath": "src/components/ui/context-menu.tsx",
+        "variants": [
+          {
+            "sequence": "01",
+            "file": "src/components/ui/01_context-menu.tsx",
+            "sourceRepo": "logo-1",
+            "commit": "c23b83d1"
+          },
+          {
+            "sequence": "02",
+            "file": "src/components/ui/02_context-menu.tsx",
+            "sourceRepo": "macro-mate-scripts-fixer-logo-icon",
+            "commit": "7bd95b99"
+          },
+          {
+            "sequence": "03",
+            "file": "src/components/ui/03_context-menu.tsx",
+            "sourceRepo": "iconcraft-studio",
+            "commit": "bcaf1ffb"
+          },
+          {
+            "sequence": "04",
+            "file": "src/components/ui/04_context-menu.tsx",
+            "sourceRepo": "brand-builder-studio",
+            "commit": "54945eb6"
+          },
+          {
+            "sequence": "05",
+            "file": "src/components/ui/05_context-menu.tsx",
+            "sourceRepo": "brand-weaver",
+            "commit": "0b3ef66b"
+          },
+          {
+            "sequence": "06",
+            "file": "src/components/ui/06_context-menu.tsx",
+            "sourceRepo": "macro-mate-logo-icon-27f183d0",
+            "commit": "124b4231"
+          },
+          {
+            "sequence": "07",
+            "file": "src/components/ui/07_context-menu.tsx",
+            "sourceRepo": "brand-forge-studio",
+            "commit": "f6b80b17"
+          }
+        ],
+        "status": "pending_ai_consolidation"
+      },
+      {
+        "canonicalPath": "src/components/ui/dialog.tsx",
+        "variants": [
+          {
+            "sequence": "01",
+            "file": "src/components/ui/01_dialog.tsx",
+            "sourceRepo": "logo-1",
+            "commit": "c23b83d1"
+          },
+          {
+            "sequence": "02",
+            "file": "src/components/ui/02_dialog.tsx",
+            "sourceRepo": "macro-mate-scripts-fixer-logo-icon",
+            "commit": "7bd95b99"
+          },
+          {
+            "sequence": "03",
+            "file": "src/components/ui/03_dialog.tsx",
+            "sourceRepo": "iconcraft-studio",
+            "commit": "bcaf1ffb"
+          },
+          {
+            "sequence": "04",
+            "file": "src/components/ui/04_dialog.tsx",
+            "sourceRepo": "brand-builder-studio",
+            "commit": "54945eb6"
+          },
+          {
+            "sequence": "05",
+            "file": "src/components/ui/05_dialog.tsx",
+            "sourceRepo": "brand-weaver",
+            "commit": "0b3ef66b"
+          },
+          {
+            "sequence": "06",
+            "file": "src/components/ui/06_dialog.tsx",
+            "sourceRepo": "macro-mate-logo-icon-27f183d0",
+            "commit": "124b4231"
+          },
+          {
+            "sequence": "07",
+            "file": "src/components/ui/07_dialog.tsx",
+            "sourceRepo": "brand-forge-studio",
+            "commit": "f6b80b17"
+          }
+        ],
+        "status": "pending_ai_consolidation"
+      },
+      {
+        "canonicalPath": "src/components/ui/drawer.tsx",
+        "variants": [
+          {
+            "sequence": "01",
+            "file": "src/components/ui/01_drawer.tsx",
+            "sourceRepo": "logo-1",
+            "commit": "c23b83d1"
+          },
+          {
+            "sequence": "02",
+            "file": "src/components/ui/02_drawer.tsx",
+            "sourceRepo": "macro-mate-scripts-fixer-logo-icon",
+            "commit": "7bd95b99"
+          },
+          {
+            "sequence": "03",
+            "file": "src/components/ui/03_drawer.tsx",
+            "sourceRepo": "iconcraft-studio",
+            "commit": "bcaf1ffb"
+          },
+          {
+            "sequence": "04",
+            "file": "src/components/ui/04_drawer.tsx",
+            "sourceRepo": "brand-builder-studio",
+            "commit": "54945eb6"
+          },
+          {
+            "sequence": "05",
+            "file": "src/components/ui/05_drawer.tsx",
+            "sourceRepo": "brand-weaver",
+            "commit": "0b3ef66b"
+          },
+          {
+            "sequence": "06",
+            "file": "src/components/ui/06_drawer.tsx",
+            "sourceRepo": "macro-mate-logo-icon-27f183d0",
+            "commit": "124b4231"
+          },
+          {
+            "sequence": "07",
+            "file": "src/components/ui/07_drawer.tsx",
+            "sourceRepo": "brand-forge-studio",
+            "commit": "f6b80b17"
+          }
+        ],
+        "status": "pending_ai_consolidation"
+      },
+      {
+        "canonicalPath": "src/components/ui/dropdown-menu.tsx",
+        "variants": [
+          {
+            "sequence": "01",
+            "file": "src/components/ui/01_dropdown-menu.tsx",
+            "sourceRepo": "logo-1",
+            "commit": "c23b83d1"
+          },
+          {
+            "sequence": "02",
+            "file": "src/components/ui/02_dropdown-menu.tsx",
+            "sourceRepo": "macro-mate-scripts-fixer-logo-icon",
+            "commit": "7bd95b99"
+          },
+          {
+            "sequence": "03",
+            "file": "src/components/ui/03_dropdown-menu.tsx",
+            "sourceRepo": "iconcraft-studio",
+            "commit": "bcaf1ffb"
+          },
+          {
+            "sequence": "04",
+            "file": "src/components/ui/04_dropdown-menu.tsx",
+            "sourceRepo": "brand-builder-studio",
+            "commit": "54945eb6"
+          },
+          {
+            "sequence": "05",
+            "file": "src/components/ui/05_dropdown-menu.tsx",
+            "sourceRepo": "brand-weaver",
+            "commit": "0b3ef66b"
+          },
+          {
+            "sequence": "06",
+            "file": "src/components/ui/06_dropdown-menu.tsx",
+            "sourceRepo": "macro-mate-logo-icon-27f183d0",
+            "commit": "124b4231"
+          },
+          {
+            "sequence": "07",
+            "file": "src/components/ui/07_dropdown-menu.tsx",
+            "sourceRepo": "brand-forge-studio",
+            "commit": "f6b80b17"
+          }
+        ],
+        "status": "pending_ai_consolidation"
+      },
+      {
+        "canonicalPath": "src/components/ui/form.tsx",
+        "variants": [
+          {
+            "sequence": "01",
+            "file": "src/components/ui/01_form.tsx",
+            "sourceRepo": "logo-1",
+            "commit": "c23b83d1"
+          },
+          {
+            "sequence": "02",
+            "file": "src/components/ui/02_form.tsx",
+            "sourceRepo": "macro-mate-scripts-fixer-logo-icon",
+            "commit": "7bd95b99"
+          },
+          {
+            "sequence": "03",
+            "file": "src/components/ui/03_form.tsx",
+            "sourceRepo": "iconcraft-studio",
+            "commit": "bcaf1ffb"
+          },
+          {
+            "sequence": "04",
+            "file": "src/components/ui/04_form.tsx",
+            "sourceRepo": "brand-builder-studio",
+            "commit": "54945eb6"
+          },
+          {
+            "sequence": "05",
+            "file": "src/components/ui/05_form.tsx",
+            "sourceRepo": "brand-weaver",
+            "commit": "0b3ef66b"
+          },
+          {
+            "sequence": "06",
+            "file": "src/components/ui/06_form.tsx",
+            "sourceRepo": "macro-mate-logo-icon-27f183d0",
+            "commit": "124b4231"
+          },
+          {
+            "sequence": "07",
+            "file": "src/components/ui/07_form.tsx",
+            "sourceRepo": "brand-forge-studio",
+            "commit": "f6b80b17"
+          }
+        ],
+        "status": "pending_ai_consolidation"
+      },
+      {
+        "canonicalPath": "src/components/ui/hover-card.tsx",
+        "variants": [
+          {
+            "sequence": "01",
+            "file": "src/components/ui/01_hover-card.tsx",
+            "sourceRepo": "logo-1",
+            "commit": "c23b83d1"
+          },
+          {
+            "sequence": "02",
+            "file": "src/components/ui/02_hover-card.tsx",
+            "sourceRepo": "macro-mate-scripts-fixer-logo-icon",
+            "commit": "7bd95b99"
+          },
+          {
+            "sequence": "03",
+            "file": "src/components/ui/03_hover-card.tsx",
+            "sourceRepo": "iconcraft-studio",
+            "commit": "bcaf1ffb"
+          },
+          {
+            "sequence": "04",
+            "file": "src/components/ui/04_hover-card.tsx",
+            "sourceRepo": "brand-builder-studio",
+            "commit": "54945eb6"
+          },
+          {
+            "sequence": "05",
+            "file": "src/components/ui/05_hover-card.tsx",
+            "sourceRepo": "brand-weaver",
+            "commit": "0b3ef66b"
+          },
+          {
+            "sequence": "06",
+            "file": "src/components/ui/06_hover-card.tsx",
+            "sourceRepo": "macro-mate-logo-icon-27f183d0",
+            "commit": "124b4231"
+          },
+          {
+            "sequence": "07",
+            "file": "src/components/ui/07_hover-card.tsx",
+            "sourceRepo": "brand-forge-studio",
+            "commit": "f6b80b17"
+          }
+        ],
+        "status": "pending_ai_consolidation"
+      },
+      {
+        "canonicalPath": "src/components/ui/input-otp.tsx",
+        "variants": [
+          {
+            "sequence": "01",
+            "file": "src/components/ui/01_input-otp.tsx",
+            "sourceRepo": "logo-1",
+            "commit": "c23b83d1"
+          },
+          {
+            "sequence": "02",
+            "file": "src/components/ui/02_input-otp.tsx",
+            "sourceRepo": "macro-mate-scripts-fixer-logo-icon",
+            "commit": "7bd95b99"
+          },
+          {
+            "sequence": "03",
+            "file": "src/components/ui/03_input-otp.tsx",
+            "sourceRepo": "iconcraft-studio",
+            "commit": "bcaf1ffb"
+          },
+          {
+            "sequence": "04",
+            "file": "src/components/ui/04_input-otp.tsx",
+            "sourceRepo": "brand-builder-studio",
+            "commit": "54945eb6"
+          },
+          {
+            "sequence": "05",
+            "file": "src/components/ui/05_input-otp.tsx",
+            "sourceRepo": "brand-weaver",
+            "commit": "0b3ef66b"
+          },
+          {
+            "sequence": "06",
+            "file": "src/components/ui/06_input-otp.tsx",
+            "sourceRepo": "macro-mate-logo-icon-27f183d0",
+            "commit": "124b4231"
+          },
+          {
+            "sequence": "07",
+            "file": "src/components/ui/07_input-otp.tsx",
+            "sourceRepo": "brand-forge-studio",
+            "commit": "f6b80b17"
+          }
+        ],
+        "status": "pending_ai_consolidation"
+      },
+      {
+        "canonicalPath": "src/components/ui/input.tsx",
+        "variants": [
+          {
+            "sequence": "01",
+            "file": "src/components/ui/01_input.tsx",
+            "sourceRepo": "logo-1",
+            "commit": "c23b83d1"
+          },
+          {
+            "sequence": "02",
+            "file": "src/components/ui/02_input.tsx",
+            "sourceRepo": "macro-mate-scripts-fixer-logo-icon",
+            "commit": "7bd95b99"
+          },
+          {
+            "sequence": "03",
+            "file": "src/components/ui/03_input.tsx",
+            "sourceRepo": "iconcraft-studio",
+            "commit": "bcaf1ffb"
+          },
+          {
+            "sequence": "04",
+            "file": "src/components/ui/04_input.tsx",
+            "sourceRepo": "brand-builder-studio",
+            "commit": "54945eb6"
+          },
+          {
+            "sequence": "05",
+            "file": "src/components/ui/05_input.tsx",
+            "sourceRepo": "brand-weaver",
+            "commit": "0b3ef66b"
+          },
+          {
+            "sequence": "06",
+            "file": "src/components/ui/06_input.tsx",
+            "sourceRepo": "macro-mate-logo-icon-27f183d0",
+            "commit": "124b4231"
+          },
+          {
+            "sequence": "07",
+            "file": "src/components/ui/07_input.tsx",
+            "sourceRepo": "brand-forge-studio",
+            "commit": "f6b80b17"
+          }
+        ],
+        "status": "pending_ai_consolidation"
+      },
+      {
+        "canonicalPath": "src/components/ui/label.tsx",
+        "variants": [
+          {
+            "sequence": "01",
+            "file": "src/components/ui/01_label.tsx",
+            "sourceRepo": "logo-1",
+            "commit": "c23b83d1"
+          },
+          {
+            "sequence": "02",
+            "file": "src/components/ui/02_label.tsx",
+            "sourceRepo": "macro-mate-scripts-fixer-logo-icon",
+            "commit": "7bd95b99"
+          },
+          {
+            "sequence": "03",
+            "file": "src/components/ui/03_label.tsx",
+            "sourceRepo": "iconcraft-studio",
+            "commit": "bcaf1ffb"
+          },
+          {
+            "sequence": "04",
+            "file": "src/components/ui/04_label.tsx",
+            "sourceRepo": "brand-builder-studio",
+            "commit": "54945eb6"
+          },
+          {
+            "sequence": "05",
+            "file": "src/components/ui/05_label.tsx",
+            "sourceRepo": "brand-weaver",
+            "commit": "0b3ef66b"
+          },
+          {
+            "sequence": "06",
+            "file": "src/components/ui/06_label.tsx",
+            "sourceRepo": "macro-mate-logo-icon-27f183d0",
+            "commit": "124b4231"
+          },
+          {
+            "sequence": "07",
+            "file": "src/components/ui/07_label.tsx",
+            "sourceRepo": "brand-forge-studio",
+            "commit": "f6b80b17"
+          }
+        ],
+        "status": "pending_ai_consolidation"
+      },
+      {
+        "canonicalPath": "src/components/ui/menubar.tsx",
+        "variants": [
+          {
+            "sequence": "01",
+            "file": "src/components/ui/01_menubar.tsx",
+            "sourceRepo": "logo-1",
+            "commit": "c23b83d1"
+          },
+          {
+            "sequence": "02",
+            "file": "src/components/ui/02_menubar.tsx",
+            "sourceRepo": "macro-mate-scripts-fixer-logo-icon",
+            "commit": "7bd95b99"
+          },
+          {
+            "sequence": "03",
+            "file": "src/components/ui/03_menubar.tsx",
+            "sourceRepo": "iconcraft-studio",
+            "commit": "bcaf1ffb"
+          },
+          {
+            "sequence": "04",
+            "file": "src/components/ui/04_menubar.tsx",
+            "sourceRepo": "brand-builder-studio",
+            "commit": "54945eb6"
+          },
+          {
+            "sequence": "05",
+            "file": "src/components/ui/05_menubar.tsx",
+            "sourceRepo": "brand-weaver",
+            "commit": "0b3ef66b"
+          },
+          {
+            "sequence": "06",
+            "file": "src/components/ui/06_menubar.tsx",
+            "sourceRepo": "macro-mate-logo-icon-27f183d0",
+            "commit": "124b4231"
+          },
+          {
+            "sequence": "07",
+            "file": "src/components/ui/07_menubar.tsx",
+            "sourceRepo": "brand-forge-studio",
+            "commit": "f6b80b17"
+          }
+        ],
+        "status": "pending_ai_consolidation"
+      },
+      {
+        "canonicalPath": "src/components/ui/navigation-menu.tsx",
+        "variants": [
+          {
+            "sequence": "01",
+            "file": "src/components/ui/01_navigation-menu.tsx",
+            "sourceRepo": "logo-1",
+            "commit": "c23b83d1"
+          },
+          {
+            "sequence": "02",
+            "file": "src/components/ui/02_navigation-menu.tsx",
+            "sourceRepo": "macro-mate-scripts-fixer-logo-icon",
+            "commit": "7bd95b99"
+          },
+          {
+            "sequence": "03",
+            "file": "src/components/ui/03_navigation-menu.tsx",
+            "sourceRepo": "iconcraft-studio",
+            "commit": "bcaf1ffb"
+          },
+          {
+            "sequence": "04",
+            "file": "src/components/ui/04_navigation-menu.tsx",
+            "sourceRepo": "brand-builder-studio",
+            "commit": "54945eb6"
+          },
+          {
+            "sequence": "05",
+            "file": "src/components/ui/05_navigation-menu.tsx",
+            "sourceRepo": "brand-weaver",
+            "commit": "0b3ef66b"
+          },
+          {
+            "sequence": "06",
+            "file": "src/components/ui/06_navigation-menu.tsx",
+            "sourceRepo": "macro-mate-logo-icon-27f183d0",
+            "commit": "124b4231"
+          },
+          {
+            "sequence": "07",
+            "file": "src/components/ui/07_navigation-menu.tsx",
+            "sourceRepo": "brand-forge-studio",
+            "commit": "f6b80b17"
+          }
+        ],
+        "status": "pending_ai_consolidation"
+      },
+      {
+        "canonicalPath": "src/components/ui/pagination.tsx",
+        "variants": [
+          {
+            "sequence": "01",
+            "file": "src/components/ui/01_pagination.tsx",
+            "sourceRepo": "logo-1",
+            "commit": "c23b83d1"
+          },
+          {
+            "sequence": "02",
+            "file": "src/components/ui/02_pagination.tsx",
+            "sourceRepo": "macro-mate-scripts-fixer-logo-icon",
+            "commit": "7bd95b99"
+          },
+          {
+            "sequence": "03",
+            "file": "src/components/ui/03_pagination.tsx",
+            "sourceRepo": "iconcraft-studio",
+            "commit": "bcaf1ffb"
+          },
+          {
+            "sequence": "04",
+            "file": "src/components/ui/04_pagination.tsx",
+            "sourceRepo": "brand-builder-studio",
+            "commit": "54945eb6"
+          },
+          {
+            "sequence": "05",
+            "file": "src/components/ui/05_pagination.tsx",
+            "sourceRepo": "brand-weaver",
+            "commit": "0b3ef66b"
+          },
+          {
+            "sequence": "06",
+            "file": "src/components/ui/06_pagination.tsx",
+            "sourceRepo": "macro-mate-logo-icon-27f183d0",
+            "commit": "124b4231"
+          },
+          {
+            "sequence": "07",
+            "file": "src/components/ui/07_pagination.tsx",
+            "sourceRepo": "brand-forge-studio",
+            "commit": "f6b80b17"
+          }
+        ],
+        "status": "pending_ai_consolidation"
+      },
+      {
+        "canonicalPath": "src/components/ui/popover.tsx",
+        "variants": [
+          {
+            "sequence": "01",
+            "file": "src/components/ui/01_popover.tsx",
+            "sourceRepo": "logo-1",
+            "commit": "c23b83d1"
+          },
+          {
+            "sequence": "02",
+            "file": "src/components/ui/02_popover.tsx",
+            "sourceRepo": "macro-mate-scripts-fixer-logo-icon",
+            "commit": "7bd95b99"
+          },
+          {
+            "sequence": "03",
+            "file": "src/components/ui/03_popover.tsx",
+            "sourceRepo": "iconcraft-studio",
+            "commit": "bcaf1ffb"
+          },
+          {
+            "sequence": "04",
+            "file": "src/components/ui/04_popover.tsx",
+            "sourceRepo": "brand-builder-studio",
+            "commit": "54945eb6"
+          },
+          {
+            "sequence": "05",
+            "file": "src/components/ui/05_popover.tsx",
+            "sourceRepo": "brand-weaver",
+            "commit": "0b3ef66b"
+          },
+          {
+            "sequence": "06",
+            "file": "src/components/ui/06_popover.tsx",
+            "sourceRepo": "macro-mate-logo-icon-27f183d0",
+            "commit": "124b4231"
+          },
+          {
+            "sequence": "07",
+            "file": "src/components/ui/07_popover.tsx",
+            "sourceRepo": "brand-forge-studio",
+            "commit": "f6b80b17"
+          }
+        ],
+        "status": "pending_ai_consolidation"
+      },
+      {
+        "canonicalPath": "src/components/ui/progress.tsx",
+        "variants": [
+          {
+            "sequence": "01",
+            "file": "src/components/ui/01_progress.tsx",
+            "sourceRepo": "logo-1",
+            "commit": "c23b83d1"
+          },
+          {
+            "sequence": "02",
+            "file": "src/components/ui/02_progress.tsx",
+            "sourceRepo": "macro-mate-scripts-fixer-logo-icon",
+            "commit": "7bd95b99"
+          },
+          {
+            "sequence": "03",
+            "file": "src/components/ui/03_progress.tsx",
+            "sourceRepo": "iconcraft-studio",
+            "commit": "bcaf1ffb"
+          },
+          {
+            "sequence": "04",
+            "file": "src/components/ui/04_progress.tsx",
+            "sourceRepo": "brand-builder-studio",
+            "commit": "54945eb6"
+          },
+          {
+            "sequence": "05",
+            "file": "src/components/ui/05_progress.tsx",
+            "sourceRepo": "brand-weaver",
+            "commit": "0b3ef66b"
+          },
+          {
+            "sequence": "06",
+            "file": "src/components/ui/06_progress.tsx",
+            "sourceRepo": "macro-mate-logo-icon-27f183d0",
+            "commit": "124b4231"
+          },
+          {
+            "sequence": "07",
+            "file": "src/components/ui/07_progress.tsx",
+            "sourceRepo": "brand-forge-studio",
+            "commit": "f6b80b17"
+          }
+        ],
+        "status": "pending_ai_consolidation"
+      },
+      {
+        "canonicalPath": "src/components/ui/radio-group.tsx",
+        "variants": [
+          {
+            "sequence": "01",
+            "file": "src/components/ui/01_radio-group.tsx",
+            "sourceRepo": "logo-1",
+            "commit": "c23b83d1"
+          },
+          {
+            "sequence": "02",
+            "file": "src/components/ui/02_radio-group.tsx",
+            "sourceRepo": "macro-mate-scripts-fixer-logo-icon",
+            "commit": "7bd95b99"
+          },
+          {
+            "sequence": "03",
+            "file": "src/components/ui/03_radio-group.tsx",
+            "sourceRepo": "iconcraft-studio",
+            "commit": "bcaf1ffb"
+          },
+          {
+            "sequence": "04",
+            "file": "src/components/ui/04_radio-group.tsx",
+            "sourceRepo": "brand-builder-studio",
+            "commit": "54945eb6"
+          },
+          {
+            "sequence": "05",
+            "file": "src/components/ui/05_radio-group.tsx",
+            "sourceRepo": "brand-weaver",
+            "commit": "0b3ef66b"
+          },
+          {
+            "sequence": "06",
+            "file": "src/components/ui/06_radio-group.tsx",
+            "sourceRepo": "macro-mate-logo-icon-27f183d0",
+            "commit": "124b4231"
+          },
+          {
+            "sequence": "07",
+            "file": "src/components/ui/07_radio-group.tsx",
+            "sourceRepo": "brand-forge-studio",
+            "commit": "f6b80b17"
+          }
+        ],
+        "status": "pending_ai_consolidation"
+      },
+      {
+        "canonicalPath": "src/components/ui/resizable.tsx",
+        "variants": [
+          {
+            "sequence": "01",
+            "file": "src/components/ui/01_resizable.tsx",
+            "sourceRepo": "logo-1",
+            "commit": "c23b83d1"
+          },
+          {
+            "sequence": "02",
+            "file": "src/components/ui/02_resizable.tsx",
+            "sourceRepo": "macro-mate-scripts-fixer-logo-icon",
+            "commit": "7bd95b99"
+          },
+          {
+            "sequence": "03",
+            "file": "src/components/ui/03_resizable.tsx",
+            "sourceRepo": "iconcraft-studio",
+            "commit": "bcaf1ffb"
+          },
+          {
+            "sequence": "04",
+            "file": "src/components/ui/04_resizable.tsx",
+            "sourceRepo": "brand-builder-studio",
+            "commit": "54945eb6"
+          },
+          {
+            "sequence": "05",
+            "file": "src/components/ui/05_resizable.tsx",
+            "sourceRepo": "brand-weaver",
+            "commit": "0b3ef66b"
+          },
+          {
+            "sequence": "06",
+            "file": "src/components/ui/06_resizable.tsx",
+            "sourceRepo": "macro-mate-logo-icon-27f183d0",
+            "commit": "124b4231"
+          },
+          {
+            "sequence": "07",
+            "file": "src/components/ui/07_resizable.tsx",
+            "sourceRepo": "brand-forge-studio",
+            "commit": "f6b80b17"
+          }
+        ],
+        "status": "pending_ai_consolidation"
+      },
+      {
+        "canonicalPath": "src/components/ui/scroll-area.tsx",
+        "variants": [
+          {
+            "sequence": "01",
+            "file": "src/components/ui/01_scroll-area.tsx",
+            "sourceRepo": "logo-1",
+            "commit": "c23b83d1"
+          },
+          {
+            "sequence": "02",
+            "file": "src/components/ui/02_scroll-area.tsx",
+            "sourceRepo": "macro-mate-scripts-fixer-logo-icon",
+            "commit": "7bd95b99"
+          },
+          {
+            "sequence": "03",
+            "file": "src/components/ui/03_scroll-area.tsx",
+            "sourceRepo": "iconcraft-studio",
+            "commit": "bcaf1ffb"
+          },
+          {
+            "sequence": "04",
+            "file": "src/components/ui/04_scroll-area.tsx",
+            "sourceRepo": "brand-builder-studio",
+            "commit": "54945eb6"
+          },
+          {
+            "sequence": "05",
+            "file": "src/components/ui/05_scroll-area.tsx",
+            "sourceRepo": "brand-weaver",
+            "commit": "0b3ef66b"
+          },
+          {
+            "sequence": "06",
+            "file": "src/components/ui/06_scroll-area.tsx",
+            "sourceRepo": "macro-mate-logo-icon-27f183d0",
+            "commit": "124b4231"
+          },
+          {
+            "sequence": "07",
+            "file": "src/components/ui/07_scroll-area.tsx",
+            "sourceRepo": "brand-forge-studio",
+            "commit": "f6b80b17"
+          }
+        ],
+        "status": "pending_ai_consolidation"
+      },
+      {
+        "canonicalPath": "src/components/ui/select.tsx",
+        "variants": [
+          {
+            "sequence": "01",
+            "file": "src/components/ui/01_select.tsx",
+            "sourceRepo": "logo-1",
+            "commit": "c23b83d1"
+          },
+          {
+            "sequence": "02",
+            "file": "src/components/ui/02_select.tsx",
+            "sourceRepo": "macro-mate-scripts-fixer-logo-icon",
+            "commit": "7bd95b99"
+          },
+          {
+            "sequence": "03",
+            "file": "src/components/ui/03_select.tsx",
+            "sourceRepo": "iconcraft-studio",
+            "commit": "bcaf1ffb"
+          },
+          {
+            "sequence": "04",
+            "file": "src/components/ui/04_select.tsx",
+            "sourceRepo": "brand-builder-studio",
+            "commit": "54945eb6"
+          },
+          {
+            "sequence": "05",
+            "file": "src/components/ui/05_select.tsx",
+            "sourceRepo": "brand-weaver",
+            "commit": "0b3ef66b"
+          },
+          {
+            "sequence": "06",
+            "file": "src/components/ui/06_select.tsx",
+            "sourceRepo": "macro-mate-logo-icon-27f183d0",
+            "commit": "124b4231"
+          },
+          {
+            "sequence": "07",
+            "file": "src/components/ui/07_select.tsx",
+            "sourceRepo": "brand-forge-studio",
+            "commit": "f6b80b17"
+          }
+        ],
+        "status": "pending_ai_consolidation"
+      },
+      {
+        "canonicalPath": "src/components/ui/separator.tsx",
+        "variants": [
+          {
+            "sequence": "01",
+            "file": "src/components/ui/01_separator.tsx",
+            "sourceRepo": "logo-1",
+            "commit": "c23b83d1"
+          },
+          {
+            "sequence": "02",
+            "file": "src/components/ui/02_separator.tsx",
+            "sourceRepo": "macro-mate-scripts-fixer-logo-icon",
+            "commit": "7bd95b99"
+          },
+          {
+            "sequence": "03",
+            "file": "src/components/ui/03_separator.tsx",
+            "sourceRepo": "iconcraft-studio",
+            "commit": "bcaf1ffb"
+          },
+          {
+            "sequence": "04",
+            "file": "src/components/ui/04_separator.tsx",
+            "sourceRepo": "brand-builder-studio",
+            "commit": "54945eb6"
+          },
+          {
+            "sequence": "05",
+            "file": "src/components/ui/05_separator.tsx",
+            "sourceRepo": "brand-weaver",
+            "commit": "0b3ef66b"
+          },
+          {
+            "sequence": "06",
+            "file": "src/components/ui/06_separator.tsx",
+            "sourceRepo": "macro-mate-logo-icon-27f183d0",
+            "commit": "124b4231"
+          },
+          {
+            "sequence": "07",
+            "file": "src/components/ui/07_separator.tsx",
+            "sourceRepo": "brand-forge-studio",
+            "commit": "f6b80b17"
+          }
+        ],
+        "status": "pending_ai_consolidation"
+      },
+      {
+        "canonicalPath": "src/components/ui/sheet.tsx",
+        "variants": [
+          {
+            "sequence": "01",
+            "file": "src/components/ui/01_sheet.tsx",
+            "sourceRepo": "logo-1",
+            "commit": "c23b83d1"
+          },
+          {
+            "sequence": "02",
+            "file": "src/components/ui/02_sheet.tsx",
+            "sourceRepo": "macro-mate-scripts-fixer-logo-icon",
+            "commit": "7bd95b99"
+          },
+          {
+            "sequence": "03",
+            "file": "src/components/ui/03_sheet.tsx",
+            "sourceRepo": "iconcraft-studio",
+            "commit": "bcaf1ffb"
+          },
+          {
+            "sequence": "04",
+            "file": "src/components/ui/04_sheet.tsx",
+            "sourceRepo": "brand-builder-studio",
+            "commit": "54945eb6"
+          },
+          {
+            "sequence": "05",
+            "file": "src/components/ui/05_sheet.tsx",
+            "sourceRepo": "brand-weaver",
+            "commit": "0b3ef66b"
+          },
+          {
+            "sequence": "06",
+            "file": "src/components/ui/06_sheet.tsx",
+            "sourceRepo": "macro-mate-logo-icon-27f183d0",
+            "commit": "124b4231"
+          },
+          {
+            "sequence": "07",
+            "file": "src/components/ui/07_sheet.tsx",
+            "sourceRepo": "brand-forge-studio",
+            "commit": "f6b80b17"
+          }
+        ],
+        "status": "pending_ai_consolidation"
+      },
+      {
+        "canonicalPath": "src/components/ui/sidebar.tsx",
+        "variants": [
+          {
+            "sequence": "01",
+            "file": "src/components/ui/01_sidebar.tsx",
+            "sourceRepo": "logo-1",
+            "commit": "c23b83d1"
+          },
+          {
+            "sequence": "02",
+            "file": "src/components/ui/02_sidebar.tsx",
+            "sourceRepo": "macro-mate-scripts-fixer-logo-icon",
+            "commit": "7bd95b99"
+          },
+          {
+            "sequence": "03",
+            "file": "src/components/ui/03_sidebar.tsx",
+            "sourceRepo": "iconcraft-studio",
+            "commit": "bcaf1ffb"
+          },
+          {
+            "sequence": "04",
+            "file": "src/components/ui/04_sidebar.tsx",
+            "sourceRepo": "brand-builder-studio",
+            "commit": "54945eb6"
+          },
+          {
+            "sequence": "05",
+            "file": "src/components/ui/05_sidebar.tsx",
+            "sourceRepo": "brand-weaver",
+            "commit": "0b3ef66b"
+          },
+          {
+            "sequence": "06",
+            "file": "src/components/ui/06_sidebar.tsx",
+            "sourceRepo": "macro-mate-logo-icon-27f183d0",
+            "commit": "124b4231"
+          },
+          {
+            "sequence": "07",
+            "file": "src/components/ui/07_sidebar.tsx",
+            "sourceRepo": "brand-forge-studio",
+            "commit": "f6b80b17"
+          }
+        ],
+        "status": "pending_ai_consolidation"
+      },
+      {
+        "canonicalPath": "src/components/ui/skeleton.tsx",
+        "variants": [
+          {
+            "sequence": "01",
+            "file": "src/components/ui/01_skeleton.tsx",
+            "sourceRepo": "logo-1",
+            "commit": "c23b83d1"
+          },
+          {
+            "sequence": "02",
+            "file": "src/components/ui/02_skeleton.tsx",
+            "sourceRepo": "macro-mate-scripts-fixer-logo-icon",
+            "commit": "7bd95b99"
+          },
+          {
+            "sequence": "03",
+            "file": "src/components/ui/03_skeleton.tsx",
+            "sourceRepo": "iconcraft-studio",
+            "commit": "bcaf1ffb"
+          },
+          {
+            "sequence": "04",
+            "file": "src/components/ui/04_skeleton.tsx",
+            "sourceRepo": "brand-builder-studio",
+            "commit": "54945eb6"
+          },
+          {
+            "sequence": "05",
+            "file": "src/components/ui/05_skeleton.tsx",
+            "sourceRepo": "brand-weaver",
+            "commit": "0b3ef66b"
+          },
+          {
+            "sequence": "06",
+            "file": "src/components/ui/06_skeleton.tsx",
+            "sourceRepo": "macro-mate-logo-icon-27f183d0",
+            "commit": "124b4231"
+          },
+          {
+            "sequence": "07",
+            "file": "src/components/ui/07_skeleton.tsx",
+            "sourceRepo": "brand-forge-studio",
+            "commit": "f6b80b17"
+          }
+        ],
+        "status": "pending_ai_consolidation"
+      },
+      {
+        "canonicalPath": "src/components/ui/slider.tsx",
+        "variants": [
+          {
+            "sequence": "01",
+            "file": "src/components/ui/01_slider.tsx",
+            "sourceRepo": "logo-1",
+            "commit": "c23b83d1"
+          },
+          {
+            "sequence": "02",
+            "file": "src/components/ui/02_slider.tsx",
+            "sourceRepo": "macro-mate-scripts-fixer-logo-icon",
+            "commit": "7bd95b99"
+          },
+          {
+            "sequence": "03",
+            "file": "src/components/ui/03_slider.tsx",
+            "sourceRepo": "iconcraft-studio",
+            "commit": "bcaf1ffb"
+          },
+          {
+            "sequence": "04",
+            "file": "src/components/ui/04_slider.tsx",
+            "sourceRepo": "brand-builder-studio",
+            "commit": "54945eb6"
+          },
+          {
+            "sequence": "05",
+            "file": "src/components/ui/05_slider.tsx",
+            "sourceRepo": "brand-weaver",
+            "commit": "0b3ef66b"
+          },
+          {
+            "sequence": "06",
+            "file": "src/components/ui/06_slider.tsx",
+            "sourceRepo": "macro-mate-logo-icon-27f183d0",
+            "commit": "124b4231"
+          },
+          {
+            "sequence": "07",
+            "file": "src/components/ui/07_slider.tsx",
+            "sourceRepo": "brand-forge-studio",
+            "commit": "f6b80b17"
+          }
+        ],
+        "status": "pending_ai_consolidation"
+      },
+      {
+        "canonicalPath": "src/components/ui/sonner.tsx",
+        "variants": [
+          {
+            "sequence": "01",
+            "file": "src/components/ui/01_sonner.tsx",
+            "sourceRepo": "logo-1",
+            "commit": "c23b83d1"
+          },
+          {
+            "sequence": "02",
+            "file": "src/components/ui/02_sonner.tsx",
+            "sourceRepo": "macro-mate-scripts-fixer-logo-icon",
+            "commit": "7bd95b99"
+          },
+          {
+            "sequence": "03",
+            "file": "src/components/ui/03_sonner.tsx",
+            "sourceRepo": "iconcraft-studio",
+            "commit": "bcaf1ffb"
+          },
+          {
+            "sequence": "04",
+            "file": "src/components/ui/04_sonner.tsx",
+            "sourceRepo": "brand-builder-studio",
+            "commit": "54945eb6"
+          },
+          {
+            "sequence": "05",
+            "file": "src/components/ui/05_sonner.tsx",
+            "sourceRepo": "brand-weaver",
+            "commit": "0b3ef66b"
+          },
+          {
+            "sequence": "06",
+            "file": "src/components/ui/06_sonner.tsx",
+            "sourceRepo": "macro-mate-logo-icon-27f183d0",
+            "commit": "124b4231"
+          },
+          {
+            "sequence": "07",
+            "file": "src/components/ui/07_sonner.tsx",
+            "sourceRepo": "brand-forge-studio",
+            "commit": "f6b80b17"
+          }
+        ],
+        "status": "pending_ai_consolidation"
+      },
+      {
+        "canonicalPath": "src/components/ui/switch.tsx",
+        "variants": [
+          {
+            "sequence": "01",
+            "file": "src/components/ui/01_switch.tsx",
+            "sourceRepo": "logo-1",
+            "commit": "c23b83d1"
+          },
+          {
+            "sequence": "02",
+            "file": "src/components/ui/02_switch.tsx",
+            "sourceRepo": "macro-mate-scripts-fixer-logo-icon",
+            "commit": "7bd95b99"
+          },
+          {
+            "sequence": "03",
+            "file": "src/components/ui/03_switch.tsx",
+            "sourceRepo": "iconcraft-studio",
+            "commit": "bcaf1ffb"
+          },
+          {
+            "sequence": "04",
+            "file": "src/components/ui/04_switch.tsx",
+            "sourceRepo": "brand-builder-studio",
+            "commit": "54945eb6"
+          },
+          {
+            "sequence": "05",
+            "file": "src/components/ui/05_switch.tsx",
+            "sourceRepo": "brand-weaver",
+            "commit": "0b3ef66b"
+          },
+          {
+            "sequence": "06",
+            "file": "src/components/ui/06_switch.tsx",
+            "sourceRepo": "macro-mate-logo-icon-27f183d0",
+            "commit": "124b4231"
+          },
+          {
+            "sequence": "07",
+            "file": "src/components/ui/07_switch.tsx",
+            "sourceRepo": "brand-forge-studio",
+            "commit": "f6b80b17"
+          }
+        ],
+        "status": "pending_ai_consolidation"
+      },
+      {
+        "canonicalPath": "src/components/ui/table.tsx",
+        "variants": [
+          {
+            "sequence": "01",
+            "file": "src/components/ui/01_table.tsx",
+            "sourceRepo": "logo-1",
+            "commit": "c23b83d1"
+          },
+          {
+            "sequence": "02",
+            "file": "src/components/ui/02_table.tsx",
+            "sourceRepo": "macro-mate-scripts-fixer-logo-icon",
+            "commit": "7bd95b99"
+          },
+          {
+            "sequence": "03",
+            "file": "src/components/ui/03_table.tsx",
+            "sourceRepo": "iconcraft-studio",
+            "commit": "bcaf1ffb"
+          },
+          {
+            "sequence": "04",
+            "file": "src/components/ui/04_table.tsx",
+            "sourceRepo": "brand-builder-studio",
+            "commit": "54945eb6"
+          },
+          {
+            "sequence": "05",
+            "file": "src/components/ui/05_table.tsx",
+            "sourceRepo": "brand-weaver",
+            "commit": "0b3ef66b"
+          },
+          {
+            "sequence": "06",
+            "file": "src/components/ui/06_table.tsx",
+            "sourceRepo": "macro-mate-logo-icon-27f183d0",
+            "commit": "124b4231"
+          },
+          {
+            "sequence": "07",
+            "file": "src/components/ui/07_table.tsx",
+            "sourceRepo": "brand-forge-studio",
+            "commit": "f6b80b17"
+          }
+        ],
+        "status": "pending_ai_consolidation"
+      },
+      {
+        "canonicalPath": "src/components/ui/tabs.tsx",
+        "variants": [
+          {
+            "sequence": "01",
+            "file": "src/components/ui/01_tabs.tsx",
+            "sourceRepo": "logo-1",
+            "commit": "c23b83d1"
+          },
+          {
+            "sequence": "02",
+            "file": "src/components/ui/02_tabs.tsx",
+            "sourceRepo": "macro-mate-scripts-fixer-logo-icon",
+            "commit": "7bd95b99"
+          },
+          {
+            "sequence": "03",
+            "file": "src/components/ui/03_tabs.tsx",
+            "sourceRepo": "iconcraft-studio",
+            "commit": "bcaf1ffb"
+          },
+          {
+            "sequence": "04",
+            "file": "src/components/ui/04_tabs.tsx",
+            "sourceRepo": "brand-builder-studio",
+            "commit": "54945eb6"
+          },
+          {
+            "sequence": "05",
+            "file": "src/components/ui/05_tabs.tsx",
+            "sourceRepo": "brand-weaver",
+            "commit": "0b3ef66b"
+          },
+          {
+            "sequence": "06",
+            "file": "src/components/ui/06_tabs.tsx",
+            "sourceRepo": "macro-mate-logo-icon-27f183d0",
+            "commit": "124b4231"
+          },
+          {
+            "sequence": "07",
+            "file": "src/components/ui/07_tabs.tsx",
+            "sourceRepo": "brand-forge-studio",
+            "commit": "f6b80b17"
+          }
+        ],
+        "status": "pending_ai_consolidation"
+      },
+      {
+        "canonicalPath": "src/components/ui/textarea.tsx",
+        "variants": [
+          {
+            "sequence": "01",
+            "file": "src/components/ui/01_textarea.tsx",
+            "sourceRepo": "logo-1",
+            "commit": "c23b83d1"
+          },
+          {
+            "sequence": "02",
+            "file": "src/components/ui/02_textarea.tsx",
+            "sourceRepo": "macro-mate-scripts-fixer-logo-icon",
+            "commit": "7bd95b99"
+          },
+          {
+            "sequence": "03",
+            "file": "src/components/ui/03_textarea.tsx",
+            "sourceRepo": "iconcraft-studio",
+            "commit": "bcaf1ffb"
+          },
+          {
+            "sequence": "04",
+            "file": "src/components/ui/04_textarea.tsx",
+            "sourceRepo": "brand-builder-studio",
+            "commit": "54945eb6"
+          },
+          {
+            "sequence": "05",
+            "file": "src/components/ui/05_textarea.tsx",
+            "sourceRepo": "brand-weaver",
+            "commit": "0b3ef66b"
+          },
+          {
+            "sequence": "06",
+            "file": "src/components/ui/06_textarea.tsx",
+            "sourceRepo": "macro-mate-logo-icon-27f183d0",
+            "commit": "124b4231"
+          },
+          {
+            "sequence": "07",
+            "file": "src/components/ui/07_textarea.tsx",
+            "sourceRepo": "brand-forge-studio",
+            "commit": "f6b80b17"
+          }
+        ],
+        "status": "pending_ai_consolidation"
+      },
+      {
+        "canonicalPath": "src/components/ui/toast.tsx",
+        "variants": [
+          {
+            "sequence": "01",
+            "file": "src/components/ui/01_toast.tsx",
+            "sourceRepo": "logo-1",
+            "commit": "c23b83d1"
+          },
+          {
+            "sequence": "02",
+            "file": "src/components/ui/02_toast.tsx",
+            "sourceRepo": "macro-mate-scripts-fixer-logo-icon",
+            "commit": "7bd95b99"
+          },
+          {
+            "sequence": "03",
+            "file": "src/components/ui/03_toast.tsx",
+            "sourceRepo": "iconcraft-studio",
+            "commit": "bcaf1ffb"
+          },
+          {
+            "sequence": "04",
+            "file": "src/components/ui/04_toast.tsx",
+            "sourceRepo": "brand-builder-studio",
+            "commit": "54945eb6"
+          },
+          {
+            "sequence": "05",
+            "file": "src/components/ui/05_toast.tsx",
+            "sourceRepo": "brand-weaver",
+            "commit": "0b3ef66b"
+          },
+          {
+            "sequence": "06",
+            "file": "src/components/ui/06_toast.tsx",
+            "sourceRepo": "macro-mate-logo-icon-27f183d0",
+            "commit": "124b4231"
+          },
+          {
+            "sequence": "07",
+            "file": "src/components/ui/07_toast.tsx",
+            "sourceRepo": "brand-forge-studio",
+            "commit": "f6b80b17"
+          }
+        ],
+        "status": "pending_ai_consolidation"
+      },
+      {
+        "canonicalPath": "src/components/ui/toaster.tsx",
+        "variants": [
+          {
+            "sequence": "01",
+            "file": "src/components/ui/01_toaster.tsx",
+            "sourceRepo": "logo-1",
+            "commit": "c23b83d1"
+          },
+          {
+            "sequence": "02",
+            "file": "src/components/ui/02_toaster.tsx",
+            "sourceRepo": "macro-mate-scripts-fixer-logo-icon",
+            "commit": "7bd95b99"
+          },
+          {
+            "sequence": "03",
+            "file": "src/components/ui/03_toaster.tsx",
+            "sourceRepo": "iconcraft-studio",
+            "commit": "bcaf1ffb"
+          },
+          {
+            "sequence": "04",
+            "file": "src/components/ui/04_toaster.tsx",
+            "sourceRepo": "brand-builder-studio",
+            "commit": "54945eb6"
+          },
+          {
+            "sequence": "05",
+            "file": "src/components/ui/05_toaster.tsx",
+            "sourceRepo": "brand-weaver",
+            "commit": "0b3ef66b"
+          },
+          {
+            "sequence": "06",
+            "file": "src/components/ui/06_toaster.tsx",
+            "sourceRepo": "macro-mate-logo-icon-27f183d0",
+            "commit": "124b4231"
+          },
+          {
+            "sequence": "07",
+            "file": "src/components/ui/07_toaster.tsx",
+            "sourceRepo": "brand-forge-studio",
+            "commit": "f6b80b17"
+          }
+        ],
+        "status": "pending_ai_consolidation"
+      },
+      {
+        "canonicalPath": "src/components/ui/toggle-group.tsx",
+        "variants": [
+          {
+            "sequence": "01",
+            "file": "src/components/ui/01_toggle-group.tsx",
+            "sourceRepo": "logo-1",
+            "commit": "c23b83d1"
+          },
+          {
+            "sequence": "02",
+            "file": "src/components/ui/02_toggle-group.tsx",
+            "sourceRepo": "macro-mate-scripts-fixer-logo-icon",
+            "commit": "7bd95b99"
+          },
+          {
+            "sequence": "03",
+            "file": "src/components/ui/03_toggle-group.tsx",
+            "sourceRepo": "iconcraft-studio",
+            "commit": "bcaf1ffb"
+          },
+          {
+            "sequence": "04",
+            "file": "src/components/ui/04_toggle-group.tsx",
+            "sourceRepo": "brand-builder-studio",
+            "commit": "54945eb6"
+          },
+          {
+            "sequence": "05",
+            "file": "src/components/ui/05_toggle-group.tsx",
+            "sourceRepo": "brand-weaver",
+            "commit": "0b3ef66b"
+          },
+          {
+            "sequence": "06",
+            "file": "src/components/ui/06_toggle-group.tsx",
+            "sourceRepo": "macro-mate-logo-icon-27f183d0",
+            "commit": "124b4231"
+          },
+          {
+            "sequence": "07",
+            "file": "src/components/ui/07_toggle-group.tsx",
+            "sourceRepo": "brand-forge-studio",
+            "commit": "f6b80b17"
+          }
+        ],
+        "status": "pending_ai_consolidation"
+      },
+      {
+        "canonicalPath": "src/components/ui/toggle.tsx",
+        "variants": [
+          {
+            "sequence": "01",
+            "file": "src/components/ui/01_toggle.tsx",
+            "sourceRepo": "logo-1",
+            "commit": "c23b83d1"
+          },
+          {
+            "sequence": "02",
+            "file": "src/components/ui/02_toggle.tsx",
+            "sourceRepo": "macro-mate-scripts-fixer-logo-icon",
+            "commit": "7bd95b99"
+          },
+          {
+            "sequence": "03",
+            "file": "src/components/ui/03_toggle.tsx",
+            "sourceRepo": "iconcraft-studio",
+            "commit": "bcaf1ffb"
+          },
+          {
+            "sequence": "04",
+            "file": "src/components/ui/04_toggle.tsx",
+            "sourceRepo": "brand-builder-studio",
+            "commit": "54945eb6"
+          },
+          {
+            "sequence": "05",
+            "file": "src/components/ui/05_toggle.tsx",
+            "sourceRepo": "brand-weaver",
+            "commit": "0b3ef66b"
+          },
+          {
+            "sequence": "06",
+            "file": "src/components/ui/06_toggle.tsx",
+            "sourceRepo": "macro-mate-logo-icon-27f183d0",
+            "commit": "124b4231"
+          },
+          {
+            "sequence": "07",
+            "file": "src/components/ui/07_toggle.tsx",
+            "sourceRepo": "brand-forge-studio",
+            "commit": "f6b80b17"
+          }
+        ],
+        "status": "pending_ai_consolidation"
+      },
+      {
+        "canonicalPath": "src/components/ui/tooltip.tsx",
+        "variants": [
+          {
+            "sequence": "01",
+            "file": "src/components/ui/01_tooltip.tsx",
+            "sourceRepo": "logo-1",
+            "commit": "c23b83d1"
+          },
+          {
+            "sequence": "02",
+            "file": "src/components/ui/02_tooltip.tsx",
+            "sourceRepo": "macro-mate-scripts-fixer-logo-icon",
+            "commit": "7bd95b99"
+          },
+          {
+            "sequence": "03",
+            "file": "src/components/ui/03_tooltip.tsx",
+            "sourceRepo": "iconcraft-studio",
+            "commit": "bcaf1ffb"
+          },
+          {
+            "sequence": "04",
+            "file": "src/components/ui/04_tooltip.tsx",
+            "sourceRepo": "brand-builder-studio",
+            "commit": "54945eb6"
+          },
+          {
+            "sequence": "05",
+            "file": "src/components/ui/05_tooltip.tsx",
+            "sourceRepo": "brand-weaver",
+            "commit": "0b3ef66b"
+          },
+          {
+            "sequence": "06",
+            "file": "src/components/ui/06_tooltip.tsx",
+            "sourceRepo": "macro-mate-logo-icon-27f183d0",
+            "commit": "124b4231"
+          },
+          {
+            "sequence": "07",
+            "file": "src/components/ui/07_tooltip.tsx",
+            "sourceRepo": "brand-forge-studio",
+            "commit": "f6b80b17"
+          }
+        ],
+        "status": "pending_ai_consolidation"
+      },
+      {
+        "canonicalPath": "src/components/ui/use-toast.ts",
+        "variants": [
+          {
+            "sequence": "01",
+            "file": "src/components/ui/01_use-toast.ts",
+            "sourceRepo": "logo-1",
+            "commit": "c23b83d1"
+          },
+          {
+            "sequence": "02",
+            "file": "src/components/ui/02_use-toast.ts",
+            "sourceRepo": "macro-mate-scripts-fixer-logo-icon",
+            "commit": "7bd95b99"
+          },
+          {
+            "sequence": "03",
+            "file": "src/components/ui/03_use-toast.ts",
+            "sourceRepo": "iconcraft-studio",
+            "commit": "bcaf1ffb"
+          },
+          {
+            "sequence": "04",
+            "file": "src/components/ui/04_use-toast.ts",
+            "sourceRepo": "brand-builder-studio",
+            "commit": "54945eb6"
+          },
+          {
+            "sequence": "05",
+            "file": "src/components/ui/05_use-toast.ts",
+            "sourceRepo": "brand-weaver",
+            "commit": "0b3ef66b"
+          },
+          {
+            "sequence": "06",
+            "file": "src/components/ui/06_use-toast.ts",
+            "sourceRepo": "macro-mate-logo-icon-27f183d0",
+            "commit": "124b4231"
+          },
+          {
+            "sequence": "07",
+            "file": "src/components/ui/07_use-toast.ts",
+            "sourceRepo": "brand-forge-studio",
+            "commit": "f6b80b17"
+          }
+        ],
+        "status": "pending_ai_consolidation"
+      },
+      {
+        "canonicalPath": "src/hooks/use-mobile.tsx",
+        "variants": [
+          {
+            "sequence": "01",
+            "file": "src/hooks/01_use-mobile.tsx",
+            "sourceRepo": "logo-1",
+            "commit": "c23b83d1"
+          },
+          {
+            "sequence": "02",
+            "file": "src/hooks/02_use-mobile.tsx",
+            "sourceRepo": "macro-mate-scripts-fixer-logo-icon",
+            "commit": "7bd95b99"
+          },
+          {
+            "sequence": "03",
+            "file": "src/hooks/03_use-mobile.tsx",
+            "sourceRepo": "iconcraft-studio",
+            "commit": "bcaf1ffb"
+          },
+          {
+            "sequence": "04",
+            "file": "src/hooks/04_use-mobile.tsx",
+            "sourceRepo": "brand-builder-studio",
+            "commit": "54945eb6"
+          },
+          {
+            "sequence": "05",
+            "file": "src/hooks/05_use-mobile.tsx",
+            "sourceRepo": "brand-weaver",
+            "commit": "0b3ef66b"
+          },
+          {
+            "sequence": "06",
+            "file": "src/hooks/06_use-mobile.tsx",
+            "sourceRepo": "macro-mate-logo-icon-27f183d0",
+            "commit": "124b4231"
+          },
+          {
+            "sequence": "07",
+            "file": "src/hooks/07_use-mobile.tsx",
+            "sourceRepo": "brand-forge-studio",
+            "commit": "f6b80b17"
+          }
+        ],
+        "status": "pending_ai_consolidation"
+      },
+      {
+        "canonicalPath": "src/hooks/use-toast.ts",
+        "variants": [
+          {
+            "sequence": "01",
+            "file": "src/hooks/01_use-toast.ts",
+            "sourceRepo": "logo-1",
+            "commit": "c23b83d1"
+          },
+          {
+            "sequence": "02",
+            "file": "src/hooks/02_use-toast.ts",
+            "sourceRepo": "macro-mate-scripts-fixer-logo-icon",
+            "commit": "7bd95b99"
+          },
+          {
+            "sequence": "03",
+            "file": "src/hooks/03_use-toast.ts",
+            "sourceRepo": "iconcraft-studio",
+            "commit": "bcaf1ffb"
+          },
+          {
+            "sequence": "04",
+            "file": "src/hooks/04_use-toast.ts",
+            "sourceRepo": "brand-builder-studio",
+            "commit": "54945eb6"
+          },
+          {
+            "sequence": "05",
+            "file": "src/hooks/05_use-toast.ts",
+            "sourceRepo": "brand-weaver",
+            "commit": "0b3ef66b"
+          },
+          {
+            "sequence": "06",
+            "file": "src/hooks/06_use-toast.ts",
+            "sourceRepo": "macro-mate-logo-icon-27f183d0",
+            "commit": "124b4231"
+          },
+          {
+            "sequence": "07",
+            "file": "src/hooks/07_use-toast.ts",
+            "sourceRepo": "brand-forge-studio",
+            "commit": "f6b80b17"
+          }
+        ],
+        "status": "pending_ai_consolidation"
+      },
+      {
+        "canonicalPath": "src/index.css",
+        "variants": [
+          {
+            "sequence": "01",
+            "file": "src/01_index.css",
+            "sourceRepo": "logo-1",
+            "commit": "c23b83d1"
+          },
+          {
+            "sequence": "02",
+            "file": "src/02_index.css",
+            "sourceRepo": "macro-mate-scripts-fixer-logo-icon",
+            "commit": "7bd95b99"
+          },
+          {
+            "sequence": "03",
+            "file": "src/03_index.css",
+            "sourceRepo": "iconcraft-studio",
+            "commit": "bcaf1ffb"
+          },
+          {
+            "sequence": "04",
+            "file": "src/04_index.css",
+            "sourceRepo": "brand-builder-studio",
+            "commit": "54945eb6"
+          },
+          {
+            "sequence": "05",
+            "file": "src/05_index.css",
+            "sourceRepo": "brand-weaver",
+            "commit": "0b3ef66b"
+          },
+          {
+            "sequence": "06",
+            "file": "src/06_index.css",
+            "sourceRepo": "macro-mate-logo-icon-27f183d0",
+            "commit": "124b4231"
+          },
+          {
+            "sequence": "07",
+            "file": "src/07_index.css",
+            "sourceRepo": "brand-forge-studio",
+            "commit": "f6b80b17"
+          }
+        ],
+        "status": "pending_ai_consolidation"
+      },
+      {
+        "canonicalPath": "src/lib/utils.ts",
+        "variants": [
+          {
+            "sequence": "01",
+            "file": "src/lib/01_utils.ts",
+            "sourceRepo": "logo-1",
+            "commit": "c23b83d1"
+          },
+          {
+            "sequence": "02",
+            "file": "src/lib/02_utils.ts",
+            "sourceRepo": "macro-mate-scripts-fixer-logo-icon",
+            "commit": "7bd95b99"
+          },
+          {
+            "sequence": "03",
+            "file": "src/lib/03_utils.ts",
+            "sourceRepo": "iconcraft-studio",
+            "commit": "bcaf1ffb"
+          },
+          {
+            "sequence": "04",
+            "file": "src/lib/04_utils.ts",
+            "sourceRepo": "brand-builder-studio",
+            "commit": "54945eb6"
+          },
+          {
+            "sequence": "05",
+            "file": "src/lib/05_utils.ts",
+            "sourceRepo": "brand-weaver",
+            "commit": "0b3ef66b"
+          },
+          {
+            "sequence": "06",
+            "file": "src/lib/06_utils.ts",
+            "sourceRepo": "macro-mate-logo-icon-27f183d0",
+            "commit": "124b4231"
+          },
+          {
+            "sequence": "07",
+            "file": "src/lib/07_utils.ts",
+            "sourceRepo": "brand-forge-studio",
+            "commit": "f6b80b17"
+          }
+        ],
+        "status": "pending_ai_consolidation"
+      },
+      {
+        "canonicalPath": "src/main.tsx",
+        "variants": [
+          {
+            "sequence": "01",
+            "file": "src/01_main.tsx",
+            "sourceRepo": "logo-1",
+            "commit": "c23b83d1"
+          },
+          {
+            "sequence": "02",
+            "file": "src/02_main.tsx",
+            "sourceRepo": "macro-mate-scripts-fixer-logo-icon",
+            "commit": "7bd95b99"
+          },
+          {
+            "sequence": "03",
+            "file": "src/03_main.tsx",
+            "sourceRepo": "iconcraft-studio",
+            "commit": "bcaf1ffb"
+          },
+          {
+            "sequence": "04",
+            "file": "src/04_main.tsx",
+            "sourceRepo": "brand-builder-studio",
+            "commit": "54945eb6"
+          },
+          {
+            "sequence": "05",
+            "file": "src/05_main.tsx",
+            "sourceRepo": "brand-weaver",
+            "commit": "0b3ef66b"
+          },
+          {
+            "sequence": "06",
+            "file": "src/06_main.tsx",
+            "sourceRepo": "macro-mate-logo-icon-27f183d0",
+            "commit": "124b4231"
+          },
+          {
+            "sequence": "07",
+            "file": "src/07_main.tsx",
+            "sourceRepo": "brand-forge-studio",
+            "commit": "f6b80b17"
+          }
+        ],
+        "status": "pending_ai_consolidation"
+      },
+      {
+        "canonicalPath": "src/pages/Index.tsx",
+        "variants": [
+          {
+            "sequence": "01",
+            "file": "src/pages/01_Index.tsx",
+            "sourceRepo": "logo-1",
+            "commit": "c23b83d1"
+          },
+          {
+            "sequence": "02",
+            "file": "src/pages/02_Index.tsx",
+            "sourceRepo": "macro-mate-scripts-fixer-logo-icon",
+            "commit": "7bd95b99"
+          },
+          {
+            "sequence": "03",
+            "file": "src/pages/03_Index.tsx",
+            "sourceRepo": "iconcraft-studio",
+            "commit": "bcaf1ffb"
+          },
+          {
+            "sequence": "04",
+            "file": "src/pages/04_Index.tsx",
+            "sourceRepo": "brand-builder-studio",
+            "commit": "54945eb6"
+          },
+          {
+            "sequence": "05",
+            "file": "src/pages/05_Index.tsx",
+            "sourceRepo": "brand-weaver",
+            "commit": "0b3ef66b"
+          },
+          {
+            "sequence": "06",
+            "file": "src/pages/06_Index.tsx",
+            "sourceRepo": "macro-mate-logo-icon-27f183d0",
+            "commit": "124b4231"
+          },
+          {
+            "sequence": "07",
+            "file": "src/pages/07_Index.tsx",
+            "sourceRepo": "brand-forge-studio",
+            "commit": "f6b80b17"
+          }
+        ],
+        "status": "pending_ai_consolidation"
+      },
+      {
+        "canonicalPath": "src/pages/NotFound.tsx",
+        "variants": [
+          {
+            "sequence": "01",
+            "file": "src/pages/01_NotFound.tsx",
+            "sourceRepo": "logo-1",
+            "commit": "c23b83d1"
+          },
+          {
+            "sequence": "02",
+            "file": "src/pages/02_NotFound.tsx",
+            "sourceRepo": "macro-mate-scripts-fixer-logo-icon",
+            "commit": "7bd95b99"
+          },
+          {
+            "sequence": "03",
+            "file": "src/pages/03_NotFound.tsx",
+            "sourceRepo": "iconcraft-studio",
+            "commit": "bcaf1ffb"
+          },
+          {
+            "sequence": "04",
+            "file": "src/pages/04_NotFound.tsx",
+            "sourceRepo": "brand-builder-studio",
+            "commit": "54945eb6"
+          },
+          {
+            "sequence": "05",
+            "file": "src/pages/05_NotFound.tsx",
+            "sourceRepo": "brand-weaver",
+            "commit": "0b3ef66b"
+          },
+          {
+            "sequence": "06",
+            "file": "src/pages/06_NotFound.tsx",
+            "sourceRepo": "macro-mate-logo-icon-27f183d0",
+            "commit": "124b4231"
+          },
+          {
+            "sequence": "07",
+            "file": "src/pages/07_NotFound.tsx",
+            "sourceRepo": "brand-forge-studio",
+            "commit": "f6b80b17"
+          }
+        ],
+        "status": "pending_ai_consolidation"
+      },
+      {
+        "canonicalPath": "src/test/example.test.ts",
+        "variants": [
+          {
+            "sequence": "01",
+            "file": "src/test/01_example.test.ts",
+            "sourceRepo": "logo-1",
+            "commit": "c23b83d1"
+          },
+          {
+            "sequence": "02",
+            "file": "src/test/02_example.test.ts",
+            "sourceRepo": "macro-mate-scripts-fixer-logo-icon",
+            "commit": "7bd95b99"
+          },
+          {
+            "sequence": "03",
+            "file": "src/test/03_example.test.ts",
+            "sourceRepo": "iconcraft-studio",
+            "commit": "bcaf1ffb"
+          },
+          {
+            "sequence": "04",
+            "file": "src/test/04_example.test.ts",
+            "sourceRepo": "brand-builder-studio",
+            "commit": "54945eb6"
+          },
+          {
+            "sequence": "05",
+            "file": "src/test/05_example.test.ts",
+            "sourceRepo": "brand-weaver",
+            "commit": "0b3ef66b"
+          },
+          {
+            "sequence": "06",
+            "file": "src/test/06_example.test.ts",
+            "sourceRepo": "macro-mate-logo-icon-27f183d0",
+            "commit": "124b4231"
+          },
+          {
+            "sequence": "07",
+            "file": "src/test/07_example.test.ts",
+            "sourceRepo": "brand-forge-studio",
+            "commit": "f6b80b17"
+          }
+        ],
+        "status": "pending_ai_consolidation"
+      },
+      {
+        "canonicalPath": "src/test/setup.ts",
+        "variants": [
+          {
+            "sequence": "01",
+            "file": "src/test/01_setup.ts",
+            "sourceRepo": "logo-1",
+            "commit": "c23b83d1"
+          },
+          {
+            "sequence": "02",
+            "file": "src/test/02_setup.ts",
+            "sourceRepo": "macro-mate-scripts-fixer-logo-icon",
+            "commit": "7bd95b99"
+          },
+          {
+            "sequence": "03",
+            "file": "src/test/03_setup.ts",
+            "sourceRepo": "iconcraft-studio",
+            "commit": "bcaf1ffb"
+          },
+          {
+            "sequence": "04",
+            "file": "src/test/04_setup.ts",
+            "sourceRepo": "brand-builder-studio",
+            "commit": "54945eb6"
+          },
+          {
+            "sequence": "05",
+            "file": "src/test/05_setup.ts",
+            "sourceRepo": "brand-weaver",
+            "commit": "0b3ef66b"
+          },
+          {
+            "sequence": "06",
+            "file": "src/test/06_setup.ts",
+            "sourceRepo": "macro-mate-logo-icon-27f183d0",
+            "commit": "124b4231"
+          },
+          {
+            "sequence": "07",
+            "file": "src/test/07_setup.ts",
+            "sourceRepo": "brand-forge-studio",
+            "commit": "f6b80b17"
+          }
+        ],
+        "status": "pending_ai_consolidation"
+      },
+      {
+        "canonicalPath": "src/vite-env.d.ts",
+        "variants": [
+          {
+            "sequence": "01",
+            "file": "src/01_vite-env.d.ts",
+            "sourceRepo": "logo-1",
+            "commit": "c23b83d1"
+          },
+          {
+            "sequence": "02",
+            "file": "src/02_vite-env.d.ts",
+            "sourceRepo": "macro-mate-scripts-fixer-logo-icon",
+            "commit": "7bd95b99"
+          },
+          {
+            "sequence": "03",
+            "file": "src/03_vite-env.d.ts",
+            "sourceRepo": "iconcraft-studio",
+            "commit": "bcaf1ffb"
+          },
+          {
+            "sequence": "04",
+            "file": "src/04_vite-env.d.ts",
+            "sourceRepo": "brand-builder-studio",
+            "commit": "54945eb6"
+          },
+          {
+            "sequence": "05",
+            "file": "src/05_vite-env.d.ts",
+            "sourceRepo": "brand-weaver",
+            "commit": "0b3ef66b"
+          },
+          {
+            "sequence": "06",
+            "file": "src/06_vite-env.d.ts",
+            "sourceRepo": "macro-mate-logo-icon-27f183d0",
+            "commit": "124b4231"
+          },
+          {
+            "sequence": "07",
+            "file": "src/07_vite-env.d.ts",
+            "sourceRepo": "brand-forge-studio",
+            "commit": "f6b80b17"
+          }
+        ],
+        "status": "pending_ai_consolidation"
+      },
+      {
+        "canonicalPath": "tailwind.config.ts",
+        "variants": [
+          {
+            "sequence": "01",
+            "file": "01_tailwind.config.ts",
+            "sourceRepo": "logo-1",
+            "commit": "c23b83d1"
+          },
+          {
+            "sequence": "02",
+            "file": "02_tailwind.config.ts",
+            "sourceRepo": "macro-mate-scripts-fixer-logo-icon",
+            "commit": "7bd95b99"
+          },
+          {
+            "sequence": "03",
+            "file": "03_tailwind.config.ts",
+            "sourceRepo": "iconcraft-studio",
+            "commit": "bcaf1ffb"
+          },
+          {
+            "sequence": "04",
+            "file": "04_tailwind.config.ts",
+            "sourceRepo": "brand-builder-studio",
+            "commit": "54945eb6"
+          },
+          {
+            "sequence": "05",
+            "file": "05_tailwind.config.ts",
+            "sourceRepo": "brand-weaver",
+            "commit": "0b3ef66b"
+          },
+          {
+            "sequence": "06",
+            "file": "06_tailwind.config.ts",
+            "sourceRepo": "macro-mate-logo-icon-27f183d0",
+            "commit": "124b4231"
+          },
+          {
+            "sequence": "07",
+            "file": "07_tailwind.config.ts",
+            "sourceRepo": "brand-forge-studio",
+            "commit": "f6b80b17"
+          }
+        ],
+        "status": "pending_ai_consolidation"
+      },
+      {
+        "canonicalPath": "tsconfig.app.json",
+        "variants": [
+          {
+            "sequence": "01",
+            "file": "01_tsconfig.app.json",
+            "sourceRepo": "logo-1",
+            "commit": "c23b83d1"
+          },
+          {
+            "sequence": "02",
+            "file": "02_tsconfig.app.json",
+            "sourceRepo": "macro-mate-scripts-fixer-logo-icon",
+            "commit": "7bd95b99"
+          },
+          {
+            "sequence": "03",
+            "file": "03_tsconfig.app.json",
+            "sourceRepo": "iconcraft-studio",
+            "commit": "bcaf1ffb"
+          },
+          {
+            "sequence": "04",
+            "file": "04_tsconfig.app.json",
+            "sourceRepo": "brand-builder-studio",
+            "commit": "54945eb6"
+          },
+          {
+            "sequence": "05",
+            "file": "05_tsconfig.app.json",
+            "sourceRepo": "brand-weaver",
+            "commit": "0b3ef66b"
+          },
+          {
+            "sequence": "06",
+            "file": "06_tsconfig.app.json",
+            "sourceRepo": "macro-mate-logo-icon-27f183d0",
+            "commit": "124b4231"
+          },
+          {
+            "sequence": "07",
+            "file": "07_tsconfig.app.json",
+            "sourceRepo": "brand-forge-studio",
+            "commit": "f6b80b17"
+          }
+        ],
+        "status": "pending_ai_consolidation"
+      },
+      {
+        "canonicalPath": "tsconfig.json",
+        "variants": [
+          {
+            "sequence": "01",
+            "file": "01_tsconfig.json",
+            "sourceRepo": "logo-1",
+            "commit": "c23b83d1"
+          },
+          {
+            "sequence": "02",
+            "file": "02_tsconfig.json",
+            "sourceRepo": "macro-mate-scripts-fixer-logo-icon",
+            "commit": "7bd95b99"
+          },
+          {
+            "sequence": "03",
+            "file": "03_tsconfig.json",
+            "sourceRepo": "iconcraft-studio",
+            "commit": "bcaf1ffb"
+          },
+          {
+            "sequence": "04",
+            "file": "04_tsconfig.json",
+            "sourceRepo": "brand-builder-studio",
+            "commit": "54945eb6"
+          },
+          {
+            "sequence": "05",
+            "file": "05_tsconfig.json",
+            "sourceRepo": "brand-weaver",
+            "commit": "0b3ef66b"
+          },
+          {
+            "sequence": "06",
+            "file": "06_tsconfig.json",
+            "sourceRepo": "macro-mate-logo-icon-27f183d0",
+            "commit": "124b4231"
+          },
+          {
+            "sequence": "07",
+            "file": "07_tsconfig.json",
+            "sourceRepo": "brand-forge-studio",
+            "commit": "f6b80b17"
+          }
+        ],
+        "status": "pending_ai_consolidation"
+      },
+      {
+        "canonicalPath": "tsconfig.node.json",
+        "variants": [
+          {
+            "sequence": "01",
+            "file": "01_tsconfig.node.json",
+            "sourceRepo": "logo-1",
+            "commit": "c23b83d1"
+          },
+          {
+            "sequence": "02",
+            "file": "02_tsconfig.node.json",
+            "sourceRepo": "macro-mate-scripts-fixer-logo-icon",
+            "commit": "7bd95b99"
+          },
+          {
+            "sequence": "03",
+            "file": "03_tsconfig.node.json",
+            "sourceRepo": "iconcraft-studio",
+            "commit": "bcaf1ffb"
+          },
+          {
+            "sequence": "04",
+            "file": "04_tsconfig.node.json",
+            "sourceRepo": "brand-builder-studio",
+            "commit": "54945eb6"
+          },
+          {
+            "sequence": "05",
+            "file": "05_tsconfig.node.json",
+            "sourceRepo": "brand-weaver",
+            "commit": "0b3ef66b"
+          },
+          {
+            "sequence": "06",
+            "file": "06_tsconfig.node.json",
+            "sourceRepo": "macro-mate-logo-icon-27f183d0",
+            "commit": "124b4231"
+          },
+          {
+            "sequence": "07",
+            "file": "07_tsconfig.node.json",
+            "sourceRepo": "brand-forge-studio",
+            "commit": "f6b80b17"
+          }
+        ],
+        "status": "pending_ai_consolidation"
+      },
+      {
+        "canonicalPath": "vite.config.ts",
+        "variants": [
+          {
+            "sequence": "01",
+            "file": "01_vite.config.ts",
+            "sourceRepo": "logo-1",
+            "commit": "c23b83d1"
+          },
+          {
+            "sequence": "02",
+            "file": "02_vite.config.ts",
+            "sourceRepo": "macro-mate-scripts-fixer-logo-icon",
+            "commit": "7bd95b99"
+          },
+          {
+            "sequence": "03",
+            "file": "03_vite.config.ts",
+            "sourceRepo": "iconcraft-studio",
+            "commit": "bcaf1ffb"
+          },
+          {
+            "sequence": "04",
+            "file": "04_vite.config.ts",
+            "sourceRepo": "brand-builder-studio",
+            "commit": "54945eb6"
+          },
+          {
+            "sequence": "05",
+            "file": "05_vite.config.ts",
+            "sourceRepo": "brand-weaver",
+            "commit": "0b3ef66b"
+          },
+          {
+            "sequence": "06",
+            "file": "06_vite.config.ts",
+            "sourceRepo": "macro-mate-logo-icon-27f183d0",
+            "commit": "124b4231"
+          },
+          {
+            "sequence": "07",
+            "file": "07_vite.config.ts",
+            "sourceRepo": "brand-forge-studio",
+            "commit": "f6b80b17"
+          }
+        ],
+        "status": "pending_ai_consolidation"
+      },
+      {
+        "canonicalPath": "vitest.config.ts",
+        "variants": [
+          {
+            "sequence": "01",
+            "file": "01_vitest.config.ts",
+            "sourceRepo": "logo-1",
+            "commit": "c23b83d1"
+          },
+          {
+            "sequence": "02",
+            "file": "02_vitest.config.ts",
+            "sourceRepo": "macro-mate-scripts-fixer-logo-icon",
+            "commit": "7bd95b99"
+          },
+          {
+            "sequence": "03",
+            "file": "03_vitest.config.ts",
+            "sourceRepo": "iconcraft-studio",
+            "commit": "bcaf1ffb"
+          },
+          {
+            "sequence": "04",
+            "file": "04_vitest.config.ts",
+            "sourceRepo": "brand-builder-studio",
+            "commit": "54945eb6"
+          },
+          {
+            "sequence": "05",
+            "file": "05_vitest.config.ts",
+            "sourceRepo": "brand-weaver",
+            "commit": "0b3ef66b"
+          },
+          {
+            "sequence": "06",
+            "file": "06_vitest.config.ts",
+            "sourceRepo": "macro-mate-logo-icon-27f183d0",
+            "commit": "124b4231"
+          },
+          {
+            "sequence": "07",
+            "file": "07_vitest.config.ts",
+            "sourceRepo": "brand-forge-studio",
+            "commit": "f6b80b17"
+          }
+        ],
+        "status": "pending_ai_consolidation"
+      }
+    ],
+    "uniqueFilesDirectlyPlaced": 79
+  }
+}

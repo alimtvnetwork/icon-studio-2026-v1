@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" role="img" aria-label="ScriptsFixer animated logo">
+  <defs>
+    <linearGradient id="sfaBg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#6366F1"/>
+      <stop offset="55%" stop-color="#8B5CF6"/>
+      <stop offset="100%" stop-color="#EC4899"/>
+    </linearGradient>
+    <linearGradient id="sfaSpark" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#FDE047"/>
+      <stop offset="100%" stop-color="#F97316"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="0" y="0" width="512" height="512" rx="112" ry="112" fill="url(#sfaBg)"/>
+
+  <g opacity="0.14" stroke="#FFFFFF" stroke-width="6" stroke-linecap="round">
+    <path d="M64 96 L160 96"/>
+    <path d="M64 118 L208 118"/>
+    <path d="M64 416 L176 416"/>
+  </g>
+
+  <!-- Brackets trace in (lifted off the badge corner) -->
+  <g transform="translate(-12 -28)">
+    <path d="M176 176 L108 256 L176 336" fill="none" stroke="#FFFFFF" stroke-width="32" stroke-linecap="round" stroke-linejoin="round"
+          stroke-dasharray="420" stroke-dashoffset="420">
+      <animate attributeName="stroke-dashoffset" from="420" to="0" dur="0.8s" begin="0s" fill="freeze"/>
+    </path>
+    <path d="M296 176 L364 256 L296 336" fill="none" stroke="#FFFFFF" stroke-width="32" stroke-linecap="round" stroke-linejoin="round"
+          stroke-dasharray="420" stroke-dashoffset="420">
+      <animate attributeName="stroke-dashoffset" from="420" to="0" dur="0.8s" begin="0.2s" fill="freeze"/>
+    </path>
+    <path d="M268 160 L208 352" fill="none" stroke="#FFFFFF" stroke-width="26" stroke-linecap="round"
+          stroke-dasharray="240" stroke-dashoffset="240">
+      <animate attributeName="stroke-dashoffset" from="240" to="0" dur="0.6s" begin="0.9s" fill="freeze"/>
+    </path>
+  </g>
+
+  <!-- Repair badge: pop in, then check draws -->
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="1.4s" fill="freeze"/>
+    <g transform="translate(396 396)">
+      <circle cx="0" cy="0" r="68" fill="#0F172A" stroke="#FFFFFF" stroke-width="7"/>
+      <path d="M-26 2 L-6 22 L28 -18" fill="none" stroke="#FFFFFF" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"
+            stroke-dasharray="90" stroke-dashoffset="90">
+        <animate attributeName="stroke-dashoffset" from="90" to="0" dur="0.5s" begin="1.7s" fill="freeze"/>
+      </path>
+      <g transform="translate(40 -40)">
+        <path d="M0 -12 L4 -4 L12 0 L4 4 L0 12 L-4 4 L-12 0 L-4 -4 Z" fill="url(#sfaSpark)" stroke="#0F172A" stroke-width="1.5">
+          <animate attributeName="opacity" values="0.5;1;0.6;1" keyTimes="0;0.3;0.65;1" dur="1.6s" begin="2.2s" repeatCount="indefinite"/>
+        </path>
+      </g>
+    </g>
+  </g>
+
+  <circle cx="396" cy="396" r="68" fill="none" stroke="#FDE047" stroke-width="4" opacity="0">
+    <animate attributeName="r" values="68;104" keyTimes="0;1" dur="1.8s" begin="2.6s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.55;0" keyTimes="0;1" dur="1.8s" begin="2.6s" repeatCount="indefinite"/>
+  </circle>
+</svg>

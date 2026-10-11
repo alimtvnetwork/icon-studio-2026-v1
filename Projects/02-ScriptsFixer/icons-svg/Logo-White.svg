@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" role="img" aria-label="ScriptsFixer logo (white)">
+  <rect x="0" y="0" width="512" height="512" rx="112" ry="112" fill="none"/>
+  <g transform="translate(-12 -28)">
+    <path d="M176 176 L108 256 L176 336" fill="none" stroke="#FFFFFF" stroke-width="32" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M296 176 L364 256 L296 336" fill="none" stroke="#FFFFFF" stroke-width="32" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M268 160 L208 352" fill="none" stroke="#FFFFFF" stroke-width="26" stroke-linecap="round"/>
+  </g>
+  <g transform="translate(396 396)">
+    <circle cx="0" cy="0" r="68" fill="none" stroke="#FFFFFF" stroke-width="7"/>
+    <path d="M-26 2 L-6 22 L28 -18" fill="none" stroke="#FFFFFF" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg>

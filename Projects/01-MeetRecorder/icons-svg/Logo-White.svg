@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title">
+  <title id="title">MeetRecorder White</title>
+  <rect x="16" y="16" width="480" height="480" rx="112" fill="#FFFFFF"/>
+  <path d="M120 384 V160 a24 24 0 0 1 42-16 l78 96 a20 20 0 0 0 32 0 l78-96 a24 24 0 0 1 42 16 V384 a24 24 0 0 1 -48 0 V236 l-54 66 a44 44 0 0 1 -68 0 l-54-66 V384 a24 24 0 0 1 -48 0 Z" fill="#1E1B2E"/>
+  <circle cx="384" cy="128" r="28" fill="#0D9488"/>
+</svg>
