@@ -22,7 +22,7 @@
         "description": "Added animated logo with badge",
         "commitMetadata": {
           "sha": "c23b83d1c7f5aa03727e04cb62e17f18f63e131c",
-          "author": "gpt-engineer-app[bot] \u003c159125892+gpt-engineer-app[bot]@users.noreply.github.com\u003e",
+          "author": "gpt-engineer-app[bot] <159125892+gpt-engineer-app[bot]@users.noreply.github.com>",
           "authorEmail": "159125892+gpt-engineer-app[bot]@users.noreply.github.com",
           "date": "2026-04-29T20:05:30Z",
           "message": "Added animated logo with badge",
@@ -141,7 +141,7 @@
         "description": "Add project README",
         "commitMetadata": {
           "sha": "7bd95b99ecf9b57538be071efd85b1a6c4225e23",
-          "author": "Lovable \u003c159125892+lovable-dev[bot]@users.noreply.github.com\u003e",
+          "author": "Lovable <159125892+lovable-dev[bot]@users.noreply.github.com>",
           "authorEmail": "159125892+lovable-dev[bot]@users.noreply.github.com",
           "date": "2026-10-10T00:07:51Z",
           "message": "Add project README",
@@ -295,7 +295,7 @@
         "description": "Add project README",
         "commitMetadata": {
           "sha": "bcaf1ffbc11fc29592bd18472123630547db7ec3",
-          "author": "Lovable \u003c159125892+lovable-dev[bot]@users.noreply.github.com\u003e",
+          "author": "Lovable <159125892+lovable-dev[bot]@users.noreply.github.com>",
           "authorEmail": "159125892+lovable-dev[bot]@users.noreply.github.com",
           "date": "2026-10-10T00:08:51Z",
           "message": "Add project README",
@@ -398,7 +398,7 @@
         "description": "Add project README",
         "commitMetadata": {
           "sha": "54945eb6cf9ba96f2884e304597b68bb427299fc",
-          "author": "Lovable \u003c159125892+lovable-dev[bot]@users.noreply.github.com\u003e",
+          "author": "Lovable <159125892+lovable-dev[bot]@users.noreply.github.com>",
           "authorEmail": "159125892+lovable-dev[bot]@users.noreply.github.com",
           "date": "2026-10-10T00:09:24Z",
           "message": "Add project README",
@@ -501,7 +501,7 @@
         "description": "Add project README",
         "commitMetadata": {
           "sha": "0b3ef66b74a57d64af4e70b5328dfb8206d42b93",
-          "author": "Lovable \u003c159125892+lovable-dev[bot]@users.noreply.github.com\u003e",
+          "author": "Lovable <159125892+lovable-dev[bot]@users.noreply.github.com>",
           "authorEmail": "159125892+lovable-dev[bot]@users.noreply.github.com",
           "date": "2026-10-10T00:09:57Z",
           "message": "Add project README",
@@ -604,7 +604,7 @@
         "description": "Add project README",
         "commitMetadata": {
           "sha": "124b42316b4ca66edfbc8de260dc18e37997caf8",
-          "author": "Lovable \u003c159125892+lovable-dev[bot]@users.noreply.github.com\u003e",
+          "author": "Lovable <159125892+lovable-dev[bot]@users.noreply.github.com>",
           "authorEmail": "159125892+lovable-dev[bot]@users.noreply.github.com",
           "date": "2026-10-10T00:10:27Z",
           "message": "Add project README",
@@ -749,7 +749,7 @@
         "description": "Add project README",
         "commitMetadata": {
           "sha": "f6b80b1764e91c63112286575603e1a2d9dcd918",
-          "author": "Lovable \u003c159125892+lovable-dev[bot]@users.noreply.github.com\u003e",
+          "author": "Lovable <159125892+lovable-dev[bot]@users.noreply.github.com>",
           "authorEmail": "159125892+lovable-dev[bot]@users.noreply.github.com",
           "date": "2026-10-10T00:11:51Z",
           "message": "Add project README",
@@ -846,7 +846,7 @@
     "skippedSources": [
       {
         "RawInput": "https://github.com/alimtvnetwork/logo-1/blob/main/Projects/01-MacroMate/icons-image/Logo-Animated.gif",
-        "Title": "logo-1/Projects/01-MacroMate/icons-image/Logo-Animated.gif at main · alimtvnetwork/logo-1",
+        "Title": "logo-1/Projects/01-MacroMate/icons-image/Logo-Animated.gif at main \u00b7 alimtvnetwork/logo-1",
         "Repo": "alimtvnetwork/logo-1",
         "Reason": "file URL from repository 'alimtvnetwork/logo-1' which is already included",
         "IsFile": true,
@@ -900,7 +900,7 @@
             "commit": "f6b80b17"
           }
         ],
-        "status": "pending_ai_consolidation"
+        "status": "consolidated"
       },
       {
         "canonicalPath": ".lovable/prompts/02-logo-create.md",
@@ -948,7 +948,7 @@
             "commit": "f6b80b17"
           }
         ],
-        "status": "pending_ai_consolidation"
+        "status": "consolidated"
       },
       {
         "canonicalPath": "Projects/01-MacroMate/README.md",
@@ -966,7 +966,7 @@
             "commit": "7bd95b99"
           }
         ],
-        "status": "pending_ai_consolidation"
+        "status": "consolidated"
       },
       {
         "canonicalPath": "Projects/01-MacroMate/colors-themes/Palette.md",
@@ -984,7 +984,7 @@
             "commit": "7bd95b99"
           }
         ],
-        "status": "pending_ai_consolidation"
+        "status": "consolidated"
       },
       {
         "canonicalPath": "Projects/01-MacroMate/colors-themes/Tokens.json",
@@ -1002,7 +1002,7 @@
             "commit": "7bd95b99"
           }
         ],
-        "status": "pending_ai_consolidation"
+        "status": "consolidated"
       },
       {
         "canonicalPath": "Projects/01-MacroMate/favicon.ico",
@@ -1020,7 +1020,7 @@
             "commit": "7bd95b99"
           }
         ],
-        "status": "pending_ai_consolidation"
+        "status": "consolidated"
       },
       {
         "canonicalPath": "Projects/01-MacroMate/favicon.png",
@@ -1038,7 +1038,7 @@
             "commit": "7bd95b99"
           }
         ],
-        "status": "pending_ai_consolidation"
+        "status": "consolidated"
       },
       {
         "canonicalPath": "Projects/01-MacroMate/icons-image/Logo-128.png",
@@ -1056,7 +1056,7 @@
             "commit": "7bd95b99"
           }
         ],
-        "status": "pending_ai_consolidation"
+        "status": "consolidated"
       },
       {
         "canonicalPath": "Projects/01-MacroMate/icons-image/Logo-256.png",
@@ -1074,7 +1074,7 @@
             "commit": "7bd95b99"
           }
         ],
-        "status": "pending_ai_consolidation"
+        "status": "consolidated"
       },
       {
         "canonicalPath": "Projects/01-MacroMate/icons-image/Logo-512.png",
@@ -1092,7 +1092,7 @@
             "commit": "7bd95b99"
           }
         ],
-        "status": "pending_ai_consolidation"
+        "status": "consolidated"
       },
       {
         "canonicalPath": "Projects/01-MacroMate/icons-image/Logo-Animated.gif",
@@ -1110,7 +1110,7 @@
             "commit": "7bd95b99"
           }
         ],
-        "status": "pending_ai_consolidation"
+        "status": "consolidated"
       },
       {
         "canonicalPath": "Projects/01-MacroMate/icons-svg/Logo-Animated.svg",
@@ -1128,7 +1128,7 @@
             "commit": "7bd95b99"
           }
         ],
-        "status": "pending_ai_consolidation"
+        "status": "consolidated"
       },
       {
         "canonicalPath": "Projects/01-MacroMate/icons-svg/Logo-Dark.svg",
@@ -1146,7 +1146,7 @@
             "commit": "7bd95b99"
           }
         ],
-        "status": "pending_ai_consolidation"
+        "status": "consolidated"
       },
       {
         "canonicalPath": "Projects/01-MacroMate/icons-svg/Logo-White.svg",
@@ -1164,7 +1164,7 @@
             "commit": "7bd95b99"
           }
         ],
-        "status": "pending_ai_consolidation"
+        "status": "consolidated"
       },
       {
         "canonicalPath": "Projects/01-MacroMate/icons-svg/Logo.svg",
@@ -1182,7 +1182,7 @@
             "commit": "7bd95b99"
           }
         ],
-        "status": "pending_ai_consolidation"
+        "status": "consolidated"
       },
       {
         "canonicalPath": "README.md",
@@ -1230,7 +1230,7 @@
             "commit": "f6b80b17"
           }
         ],
-        "status": "pending_ai_consolidation"
+        "status": "consolidated"
       },
       {
         "canonicalPath": "bun.lockb",
@@ -1278,7 +1278,7 @@
             "commit": "f6b80b17"
           }
         ],
-        "status": "pending_ai_consolidation"
+        "status": "consolidated"
       },
       {
         "canonicalPath": "components.json",
@@ -1326,7 +1326,7 @@
             "commit": "f6b80b17"
           }
         ],
-        "status": "pending_ai_consolidation"
+        "status": "consolidated"
       },
       {
         "canonicalPath": "eslint.config.js",
@@ -1374,7 +1374,7 @@
             "commit": "f6b80b17"
           }
         ],
-        "status": "pending_ai_consolidation"
+        "status": "consolidated"
       },
       {
         "canonicalPath": "favicon.ico",
@@ -1392,7 +1392,7 @@
             "commit": "124b4231"
           }
         ],
-        "status": "pending_ai_consolidation"
+        "status": "consolidated"
       },
       {
         "canonicalPath": "favicon.png",
@@ -1410,7 +1410,7 @@
             "commit": "124b4231"
           }
         ],
-        "status": "pending_ai_consolidation"
+        "status": "consolidated"
       },
       {
         "canonicalPath": "index.html",
@@ -1458,7 +1458,7 @@
             "commit": "f6b80b17"
           }
         ],
-        "status": "pending_ai_consolidation"
+        "status": "consolidated"
       },
       {
         "canonicalPath": "package-lock.json",
@@ -1506,7 +1506,7 @@
             "commit": "f6b80b17"
           }
         ],
-        "status": "pending_ai_consolidation"
+        "status": "consolidated"
       },
       {
         "canonicalPath": "package.json",
@@ -1554,7 +1554,7 @@
             "commit": "f6b80b17"
           }
         ],
-        "status": "pending_ai_consolidation"
+        "status": "consolidated"
       },
       {
         "canonicalPath": "plan.md",
@@ -1602,7 +1602,7 @@
             "commit": "f6b80b17"
           }
         ],
-        "status": "pending_ai_consolidation"
+        "status": "consolidated"
       },
       {
         "canonicalPath": "postcss.config.js",
@@ -1650,7 +1650,7 @@
             "commit": "f6b80b17"
           }
         ],
-        "status": "pending_ai_consolidation"
+        "status": "consolidated"
       },
       {
         "canonicalPath": "public/favicon.ico",
@@ -1698,7 +1698,7 @@
             "commit": "f6b80b17"
           }
         ],
-        "status": "pending_ai_consolidation"
+        "status": "consolidated"
       },
       {
         "canonicalPath": "public/placeholder.svg",
@@ -1746,7 +1746,7 @@
             "commit": "f6b80b17"
           }
         ],
-        "status": "pending_ai_consolidation"
+        "status": "consolidated"
       },
       {
         "canonicalPath": "public/robots.txt",
@@ -1794,7 +1794,7 @@
             "commit": "f6b80b17"
           }
         ],
-        "status": "pending_ai_consolidation"
+        "status": "consolidated"
       },
       {
         "canonicalPath": "src/App.css",
@@ -1842,7 +1842,7 @@
             "commit": "f6b80b17"
           }
         ],
-        "status": "pending_ai_consolidation"
+        "status": "consolidated"
       },
       {
         "canonicalPath": "src/App.tsx",
@@ -1890,7 +1890,7 @@
             "commit": "f6b80b17"
           }
         ],
-        "status": "pending_ai_consolidation"
+        "status": "consolidated"
       },
       {
         "canonicalPath": "src/components/NavLink.tsx",
@@ -1938,7 +1938,7 @@
             "commit": "f6b80b17"
           }
         ],
-        "status": "pending_ai_consolidation"
+        "status": "consolidated"
       },
       {
         "canonicalPath": "src/components/ui/accordion.tsx",
@@ -1986,7 +1986,7 @@
             "commit": "f6b80b17"
           }
         ],
-        "status": "pending_ai_consolidation"
+        "status": "consolidated"
       },
       {
         "canonicalPath": "src/components/ui/alert-dialog.tsx",
@@ -2034,7 +2034,7 @@
             "commit": "f6b80b17"
           }
         ],
-        "status": "pending_ai_consolidation"
+        "status": "consolidated"
       },
       {
         "canonicalPath": "src/components/ui/alert.tsx",
@@ -2082,7 +2082,7 @@
             "commit": "f6b80b17"
           }
         ],
-        "status": "pending_ai_consolidation"
+        "status": "consolidated"
       },
       {
         "canonicalPath": "src/components/ui/aspect-ratio.tsx",
@@ -2130,7 +2130,7 @@
             "commit": "f6b80b17"
           }
         ],
-        "status": "pending_ai_consolidation"
+        "status": "consolidated"
       },
       {
         "canonicalPath": "src/components/ui/avatar.tsx",
@@ -2178,7 +2178,7 @@
             "commit": "f6b80b17"
           }
         ],
-        "status": "pending_ai_consolidation"
+        "status": "consolidated"
       },
       {
         "canonicalPath": "src/components/ui/badge.tsx",
@@ -2226,7 +2226,7 @@
             "commit": "f6b80b17"
           }
         ],
-        "status": "pending_ai_consolidation"
+        "status": "consolidated"
       },
       {
         "canonicalPath": "src/components/ui/breadcrumb.tsx",
@@ -2274,7 +2274,7 @@
             "commit": "f6b80b17"
           }
         ],
-        "status": "pending_ai_consolidation"
+        "status": "consolidated"
       },
       {
         "canonicalPath": "src/components/ui/button.tsx",
@@ -2322,7 +2322,7 @@
             "commit": "f6b80b17"
           }
         ],
-        "status": "pending_ai_consolidation"
+        "status": "consolidated"
       },
       {
         "canonicalPath": "src/components/ui/calendar.tsx",
@@ -2370,7 +2370,7 @@
             "commit": "f6b80b17"
           }
         ],
-        "status": "pending_ai_consolidation"
+        "status": "consolidated"
       },
       {
         "canonicalPath": "src/components/ui/card.tsx",
@@ -2418,7 +2418,7 @@
             "commit": "f6b80b17"
           }
         ],
-        "status": "pending_ai_consolidation"
+        "status": "consolidated"
       },
       {
         "canonicalPath": "src/components/ui/carousel.tsx",
@@ -2466,7 +2466,7 @@
             "commit": "f6b80b17"
           }
         ],
-        "status": "pending_ai_consolidation"
+        "status": "consolidated"
       },
       {
         "canonicalPath": "src/components/ui/chart.tsx",
@@ -2514,7 +2514,7 @@
             "commit": "f6b80b17"
           }
         ],
-        "status": "pending_ai_consolidation"
+        "status": "consolidated"
       },
       {
         "canonicalPath": "src/components/ui/checkbox.tsx",
@@ -2562,7 +2562,7 @@
             "commit": "f6b80b17"
           }
         ],
-        "status": "pending_ai_consolidation"
+        "status": "consolidated"
       },
       {
         "canonicalPath": "src/components/ui/collapsible.tsx",
@@ -2610,7 +2610,7 @@
             "commit": "f6b80b17"
           }
         ],
-        "status": "pending_ai_consolidation"
+        "status": "consolidated"
       },
       {
         "canonicalPath": "src/components/ui/command.tsx",
@@ -2658,7 +2658,7 @@
             "commit": "f6b80b17"
           }
         ],
-        "status": "pending_ai_consolidation"
+        "status": "consolidated"
       },
       {
         "canonicalPath": "src/components/ui/context-menu.tsx",
@@ -2706,7 +2706,7 @@
             "commit": "f6b80b17"
           }
         ],
-        "status": "pending_ai_consolidation"
+        "status": "consolidated"
       },
       {
         "canonicalPath": "src/components/ui/dialog.tsx",
@@ -2754,7 +2754,7 @@
             "commit": "f6b80b17"
           }
         ],
-        "status": "pending_ai_consolidation"
+        "status": "consolidated"
       },
       {
         "canonicalPath": "src/components/ui/drawer.tsx",
@@ -2802,7 +2802,7 @@
             "commit": "f6b80b17"
           }
         ],
-        "status": "pending_ai_consolidation"
+        "status": "consolidated"
       },
       {
         "canonicalPath": "src/components/ui/dropdown-menu.tsx",
@@ -2850,7 +2850,7 @@
             "commit": "f6b80b17"
           }
         ],
-        "status": "pending_ai_consolidation"
+        "status": "consolidated"
       },
       {
         "canonicalPath": "src/components/ui/form.tsx",
@@ -2898,7 +2898,7 @@
             "commit": "f6b80b17"
           }
         ],
-        "status": "pending_ai_consolidation"
+        "status": "consolidated"
       },
       {
         "canonicalPath": "src/components/ui/hover-card.tsx",
@@ -2946,7 +2946,7 @@
             "commit": "f6b80b17"
           }
         ],
-        "status": "pending_ai_consolidation"
+        "status": "consolidated"
       },
       {
         "canonicalPath": "src/components/ui/input-otp.tsx",
@@ -2994,7 +2994,7 @@
             "commit": "f6b80b17"
           }
         ],
-        "status": "pending_ai_consolidation"
+        "status": "consolidated"
       },
       {
         "canonicalPath": "src/components/ui/input.tsx",
@@ -3042,7 +3042,7 @@
             "commit": "f6b80b17"
           }
         ],
-        "status": "pending_ai_consolidation"
+        "status": "consolidated"
       },
       {
         "canonicalPath": "src/components/ui/label.tsx",
@@ -3090,7 +3090,7 @@
             "commit": "f6b80b17"
           }
         ],
-        "status": "pending_ai_consolidation"
+        "status": "consolidated"
       },
       {
         "canonicalPath": "src/components/ui/menubar.tsx",
@@ -3138,7 +3138,7 @@
             "commit": "f6b80b17"
           }
         ],
-        "status": "pending_ai_consolidation"
+        "status": "consolidated"
       },
       {
         "canonicalPath": "src/components/ui/navigation-menu.tsx",
@@ -3186,7 +3186,7 @@
             "commit": "f6b80b17"
           }
         ],
-        "status": "pending_ai_consolidation"
+        "status": "consolidated"
       },
       {
         "canonicalPath": "src/components/ui/pagination.tsx",
@@ -3234,7 +3234,7 @@
             "commit": "f6b80b17"
           }
         ],
-        "status": "pending_ai_consolidation"
+        "status": "consolidated"
       },
       {
         "canonicalPath": "src/components/ui/popover.tsx",
@@ -3282,7 +3282,7 @@
             "commit": "f6b80b17"
           }
         ],
-        "status": "pending_ai_consolidation"
+        "status": "consolidated"
       },
       {
         "canonicalPath": "src/components/ui/progress.tsx",
@@ -3330,7 +3330,7 @@
             "commit": "f6b80b17"
           }
         ],
-        "status": "pending_ai_consolidation"
+        "status": "consolidated"
       },
       {
         "canonicalPath": "src/components/ui/radio-group.tsx",
@@ -3378,7 +3378,7 @@
             "commit": "f6b80b17"
           }
         ],
-        "status": "pending_ai_consolidation"
+        "status": "consolidated"
       },
       {
         "canonicalPath": "src/components/ui/resizable.tsx",
@@ -3426,7 +3426,7 @@
             "commit": "f6b80b17"
           }
         ],
-        "status": "pending_ai_consolidation"
+        "status": "consolidated"
       },
       {
         "canonicalPath": "src/components/ui/scroll-area.tsx",
@@ -3474,7 +3474,7 @@
             "commit": "f6b80b17"
           }
         ],
-        "status": "pending_ai_consolidation"
+        "status": "consolidated"
       },
       {
         "canonicalPath": "src/components/ui/select.tsx",
@@ -3522,7 +3522,7 @@
             "commit": "f6b80b17"
           }
         ],
-        "status": "pending_ai_consolidation"
+        "status": "consolidated"
       },
       {
         "canonicalPath": "src/components/ui/separator.tsx",
@@ -3570,7 +3570,7 @@
             "commit": "f6b80b17"
           }
         ],
-        "status": "pending_ai_consolidation"
+        "status": "consolidated"
       },
       {
         "canonicalPath": "src/components/ui/sheet.tsx",
@@ -3618,7 +3618,7 @@
             "commit": "f6b80b17"
           }
         ],
-        "status": "pending_ai_consolidation"
+        "status": "consolidated"
       },
       {
         "canonicalPath": "src/components/ui/sidebar.tsx",
@@ -3666,7 +3666,7 @@
             "commit": "f6b80b17"
           }
         ],
-        "status": "pending_ai_consolidation"
+        "status": "consolidated"
       },
       {
         "canonicalPath": "src/components/ui/skeleton.tsx",
@@ -3714,7 +3714,7 @@
             "commit": "f6b80b17"
           }
         ],
-        "status": "pending_ai_consolidation"
+        "status": "consolidated"
       },
       {
         "canonicalPath": "src/components/ui/slider.tsx",
@@ -3762,7 +3762,7 @@
             "commit": "f6b80b17"
           }
         ],
-        "status": "pending_ai_consolidation"
+        "status": "consolidated"
       },
       {
         "canonicalPath": "src/components/ui/sonner.tsx",
@@ -3810,7 +3810,7 @@
             "commit": "f6b80b17"
           }
         ],
-        "status": "pending_ai_consolidation"
+        "status": "consolidated"
       },
       {
         "canonicalPath": "src/components/ui/switch.tsx",
@@ -3858,7 +3858,7 @@
             "commit": "f6b80b17"
           }
         ],
-        "status": "pending_ai_consolidation"
+        "status": "consolidated"
       },
       {
         "canonicalPath": "src/components/ui/table.tsx",
@@ -3906,7 +3906,7 @@
             "commit": "f6b80b17"
           }
         ],
-        "status": "pending_ai_consolidation"
+        "status": "consolidated"
       },
       {
         "canonicalPath": "src/components/ui/tabs.tsx",
@@ -3954,7 +3954,7 @@
             "commit": "f6b80b17"
           }
         ],
-        "status": "pending_ai_consolidation"
+        "status": "consolidated"
       },
       {
         "canonicalPath": "src/components/ui/textarea.tsx",
@@ -4002,7 +4002,7 @@
             "commit": "f6b80b17"
           }
         ],
-        "status": "pending_ai_consolidation"
+        "status": "consolidated"
       },
       {
         "canonicalPath": "src/components/ui/toast.tsx",
@@ -4050,7 +4050,7 @@
             "commit": "f6b80b17"
           }
         ],
-        "status": "pending_ai_consolidation"
+        "status": "consolidated"
       },
       {
         "canonicalPath": "src/components/ui/toaster.tsx",
@@ -4098,7 +4098,7 @@
             "commit": "f6b80b17"
           }
         ],
-        "status": "pending_ai_consolidation"
+        "status": "consolidated"
       },
       {
         "canonicalPath": "src/components/ui/toggle-group.tsx",
@@ -4146,7 +4146,7 @@
             "commit": "f6b80b17"
           }
         ],
-        "status": "pending_ai_consolidation"
+        "status": "consolidated"
       },
       {
         "canonicalPath": "src/components/ui/toggle.tsx",
@@ -4194,7 +4194,7 @@
             "commit": "f6b80b17"
           }
         ],
-        "status": "pending_ai_consolidation"
+        "status": "consolidated"
       },
       {
         "canonicalPath": "src/components/ui/tooltip.tsx",
@@ -4242,7 +4242,7 @@
             "commit": "f6b80b17"
           }
         ],
-        "status": "pending_ai_consolidation"
+        "status": "consolidated"
       },
       {
         "canonicalPath": "src/components/ui/use-toast.ts",
@@ -4290,7 +4290,7 @@
             "commit": "f6b80b17"
           }
         ],
-        "status": "pending_ai_consolidation"
+        "status": "consolidated"
       },
       {
         "canonicalPath": "src/hooks/use-mobile.tsx",
@@ -4338,7 +4338,7 @@
             "commit": "f6b80b17"
           }
         ],
-        "status": "pending_ai_consolidation"
+        "status": "consolidated"
       },
       {
         "canonicalPath": "src/hooks/use-toast.ts",
@@ -4386,7 +4386,7 @@
             "commit": "f6b80b17"
           }
         ],
-        "status": "pending_ai_consolidation"
+        "status": "consolidated"
       },
       {
         "canonicalPath": "src/index.css",
@@ -4434,7 +4434,7 @@
             "commit": "f6b80b17"
           }
         ],
-        "status": "pending_ai_consolidation"
+        "status": "consolidated"
       },
       {
         "canonicalPath": "src/lib/utils.ts",
@@ -4482,7 +4482,7 @@
             "commit": "f6b80b17"
           }
         ],
-        "status": "pending_ai_consolidation"
+        "status": "consolidated"
       },
       {
         "canonicalPath": "src/main.tsx",
@@ -4530,7 +4530,7 @@
             "commit": "f6b80b17"
           }
         ],
-        "status": "pending_ai_consolidation"
+        "status": "consolidated"
       },
       {
         "canonicalPath": "src/pages/Index.tsx",
@@ -4578,7 +4578,7 @@
             "commit": "f6b80b17"
           }
         ],
-        "status": "pending_ai_consolidation"
+        "status": "consolidated"
       },
       {
         "canonicalPath": "src/pages/NotFound.tsx",
@@ -4626,7 +4626,7 @@
             "commit": "f6b80b17"
           }
         ],
-        "status": "pending_ai_consolidation"
+        "status": "consolidated"
       },
       {
         "canonicalPath": "src/test/example.test.ts",
@@ -4674,7 +4674,7 @@
             "commit": "f6b80b17"
           }
         ],
-        "status": "pending_ai_consolidation"
+        "status": "consolidated"
       },
       {
         "canonicalPath": "src/test/setup.ts",
@@ -4722,7 +4722,7 @@
             "commit": "f6b80b17"
           }
         ],
-        "status": "pending_ai_consolidation"
+        "status": "consolidated"
       },
       {
         "canonicalPath": "src/vite-env.d.ts",
@@ -4770,7 +4770,7 @@
             "commit": "f6b80b17"
           }
         ],
-        "status": "pending_ai_consolidation"
+        "status": "consolidated"
       },
       {
         "canonicalPath": "tailwind.config.ts",
@@ -4818,7 +4818,7 @@
             "commit": "f6b80b17"
           }
         ],
-        "status": "pending_ai_consolidation"
+        "status": "consolidated"
       },
       {
         "canonicalPath": "tsconfig.app.json",
@@ -4866,7 +4866,7 @@
             "commit": "f6b80b17"
           }
         ],
-        "status": "pending_ai_consolidation"
+        "status": "consolidated"
       },
       {
         "canonicalPath": "tsconfig.json",
@@ -4914,7 +4914,7 @@
             "commit": "f6b80b17"
           }
         ],
-        "status": "pending_ai_consolidation"
+        "status": "consolidated"
       },
       {
         "canonicalPath": "tsconfig.node.json",
@@ -4962,7 +4962,7 @@
             "commit": "f6b80b17"
           }
         ],
-        "status": "pending_ai_consolidation"
+        "status": "consolidated"
       },
       {
         "canonicalPath": "vite.config.ts",
@@ -5010,7 +5010,7 @@
             "commit": "f6b80b17"
           }
         ],
-        "status": "pending_ai_consolidation"
+        "status": "consolidated"
       },
       {
         "canonicalPath": "vitest.config.ts",
@@ -5058,7 +5058,7 @@
             "commit": "f6b80b17"
           }
         ],
-        "status": "pending_ai_consolidation"
+        "status": "consolidated"
       }
     ],
     "uniqueFilesDirectlyPlaced": 79

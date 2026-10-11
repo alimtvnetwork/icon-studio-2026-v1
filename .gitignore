@@ -2,4 +2,8 @@
 Thumbs.db
 node_modules/
 bin/
+dist/
 *.log
+.antigravity*
+.ai-memory/temp-agents/
+.gitmap/
