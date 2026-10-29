@@ -135,3 +135,9 @@ The repository uses automated, self-documenting workflows located under [`.lovab
 - **Logo Creation Standard**: [`.lovable/prompts/02-logo-create.md`](./.lovable/prompts/02-logo-create.md)
 - **Session Memory Protocol**: [`.lovable/prompts/01-write-memory.md`](./.lovable/prompts/01-write-memory.md)
 - **Roadmap & Phased Execution**: [`plan.md`](./plan.md) and [`.lovable/plan.md`](./.lovable/plan.md)
+
+## Memory
+
+- .ai-memory/memory/readme.md
+- .ai-memory/memory/learned/01-recent-session-2026-10-29.md
+- .ai-memory/plans/readme.md
